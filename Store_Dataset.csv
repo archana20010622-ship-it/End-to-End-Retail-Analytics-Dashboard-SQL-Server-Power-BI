@@ -1,0 +1,101 @@
+StoreID,StoreName,City,Region,Manager
+S0001,ValueMart Express - Jaipur,Jaipur,North,Priyanka Yadav
+S0002,ValueMart Hypermarket - Surat,Surat,West,Prakash Kapoor
+S0003,ValueMart Neighborhood Market - Vijayawada,Vijayawada,South,Mahesh Khanna
+S0004,ValueMart Supercenter - Agra,Agra,North,Rahul Dutta
+S0005,ValueMart Express - Cuttack,Cuttack,East,Suresh Menon
+S0006,ValueMart Neighborhood Market - Noida,Noida,North,Priyanka Gupta
+S0007,ValueMart Express - Thiruvananthapuram,Thiruvananthapuram,South,Meera Tiwari
+S0008,ValueMart Hypermarket - Nagpur,Nagpur,West,Neha Bansal
+S0009,ValueMart Supercenter - Indore,Indore,Central,Swati Dutta
+S0010,ValueMart Neighborhood Market - Pune,Pune,West,Radha Patel
+S0011,ValueMart Supercenter - Chandigarh,Chandigarh,North,Sunil Iyer
+S0012,ValueMart Hypermarket - Ranchi,Ranchi,East,Varun Bansal
+S0013,ValueMart Neighborhood Market - Amritsar,Amritsar,North,Shreya Gupta
+S0014,ValueMart Neighborhood Market - Vijayawada 2,Vijayawada,South,Suresh Malhotra
+S0015,ValueMart Supercenter - Kanpur,Kanpur,North,Sanjay Arora
+S0016,ValueMart Express - Vijayawada 3,Vijayawada,South,Ajay Mukherjee
+S0017,ValueMart Express - Amritsar 2,Amritsar,North,Yash Dutta
+S0018,ValueMart Express - Kozhikode,Kozhikode,South,Dhruv Bansal
+S0019,ValueMart Hypermarket - Hyderabad,Hyderabad,South,Amit Patel
+S0020,ValueMart Express - Jaipur 2,Jaipur,North,Rahul Bansal
+S0021,ValueMart Neighborhood Market - Delhi,Delhi,North,Kavita Rathore
+S0022,ValueMart Supercenter - Hubli,Hubli,South,Gaurav Iyer
+S0023,ValueMart Hypermarket - Surat 2,Surat,West,Kunal Das
+S0024,ValueMart Hypermarket - Guwahati,Guwahati,East,Naveen Reddy
+S0025,ValueMart Supercenter - Jaipur 3,Jaipur,North,Gaurav Mishra
+S0026,ValueMart Neighborhood Market - Madurai,Madurai,South,Nisha Gupta
+S0027,ValueMart Neighborhood Market - Bhopal,Bhopal,Central,Mohit Iyer
+S0028,ValueMart Supercenter - Panaji,Panaji,West,Abhishek Bansal
+S0029,ValueMart Express - Siliguri,Siliguri,East,Shreya Shah
+S0030,ValueMart Neighborhood Market - Agra 2,Agra,North,Pooja Singh
+S0031,ValueMart Express - Kozhikode 2,Kozhikode,South,Rekha Agarwal
+S0032,ValueMart Hypermarket - Nashik,Nashik,West,Rajesh Joshi
+S0033,ValueMart Hypermarket - Rajkot,Rajkot,West,Vikram Yadav
+S0034,ValueMart Neighborhood Market - Agra 3,Agra,North,Varun Singh
+S0035,ValueMart Neighborhood Market - Chennai,Chennai,South,Anil Agarwal
+S0036,ValueMart Hypermarket - Nashik 2,Nashik,West,Ravi Khanna
+S0037,ValueMart Express - Raipur,Raipur,Central,Amit Kapoor
+S0038,ValueMart Neighborhood Market - Madurai 2,Madurai,South,Tarun Rathore
+S0039,ValueMart Express - Thiruvananthapuram 2,Thiruvananthapuram,South,Sunita Agarwal
+S0040,ValueMart Neighborhood Market - Mysuru,Mysuru,South,Neha Chauhan
+S0041,ValueMart Neighborhood Market - Shimla,Shimla,North,Rekha Sharma
+S0042,ValueMart Neighborhood Market - Hyderabad 2,Hyderabad,South,Kiran Verma
+S0043,ValueMart Hypermarket - Dehradun,Dehradun,North,Swati Shah
+S0044,ValueMart Express - Cuttack 2,Cuttack,East,Pankaj Sen
+S0045,ValueMart Neighborhood Market - Ludhiana,Ludhiana,North,Anil Reddy
+S0046,ValueMart Supercenter - Warangal,Warangal,South,Gaurav Verma
+S0047,ValueMart Express - Vadodara,Vadodara,West,Asha Menon
+S0048,ValueMart Supercenter - Delhi 2,Delhi,North,Swati Pillai
+S0049,ValueMart Hypermarket - Ludhiana 2,Ludhiana,North,Neha Banerjee
+S0050,ValueMart Express - Warangal 2,Warangal,South,Ashok Thakur
+S0051,ValueMart Neighborhood Market - Jaipur 4,Jaipur,North,Gaurav Ghosh
+S0052,ValueMart Supercenter - Lucknow,Lucknow,North,Anjali Jain
+S0053,ValueMart Supercenter - Panaji 2,Panaji,West,Asha Sharma
+S0054,ValueMart Express - Hyderabad 3,Hyderabad,South,Suresh Sen
+S0055,ValueMart Neighborhood Market - Bhubaneswar,Bhubaneswar,East,Kiran Mehta
+S0056,ValueMart Hypermarket - Dehradun 2,Dehradun,North,Radha Gupta
+S0057,ValueMart Express - Agra 4,Agra,North,Anil Bose
+S0058,ValueMart Hypermarket - Raipur 2,Raipur,Central,Mahesh Arora
+S0059,ValueMart Supercenter - Kolkata,Kolkata,East,Neha Rathore
+S0060,ValueMart Hypermarket - Nashik 3,Nashik,West,Priya Bose
+S0061,ValueMart Neighborhood Market - Bengaluru,Bengaluru,South,Suresh Thakur
+S0062,ValueMart Neighborhood Market - Hubli 2,Hubli,South,Abhishek Singh
+S0063,ValueMart Express - Hubli 3,Hubli,South,Deepak Singh
+S0064,ValueMart Supercenter - Vadodara 2,Vadodara,West,Divya Tiwari
+S0065,ValueMart Supercenter - Siliguri 2,Siliguri,East,Nisha Tiwari
+S0066,ValueMart Express - Vijayawada 4,Vijayawada,South,Varun Singh
+S0067,ValueMart Supercenter - Noida 2,Noida,North,Rajesh Mishra
+S0068,ValueMart Neighborhood Market - Nagpur 2,Nagpur,West,Vivek Chauhan
+S0069,ValueMart Express - Warangal 3,Warangal,South,Sunil Shah
+S0070,ValueMart Express - Warangal 4,Warangal,South,Dhruv Bansal
+S0071,ValueMart Supercenter - Noida 3,Noida,North,Vikram Agarwal
+S0072,ValueMart Express - Jodhpur,Jodhpur,North,Tarun Rathore
+S0073,ValueMart Express - Kanpur 2,Kanpur,North,Divya Naidu
+S0074,ValueMart Hypermarket - Ahmedabad,Ahmedabad,West,Naveen Agarwal
+S0075,ValueMart Express - Kolkata 2,Kolkata,East,Harsh Thakur
+S0076,ValueMart Supercenter - Hyderabad 4,Hyderabad,South,Nikhil Banerjee
+S0077,ValueMart Hypermarket - Lucknow 2,Lucknow,North,Varun Menon
+S0078,ValueMart Neighborhood Market - Gurugram,Gurugram,North,Manoj Khanna
+S0079,ValueMart Express - Mysuru 2,Mysuru,South,Radha Pandey
+S0080,ValueMart Neighborhood Market - Faridabad,Faridabad,North,Kiran Mishra
+S0081,ValueMart Hypermarket - Kanpur 3,Kanpur,North,Tarun Chauhan
+S0082,ValueMart Neighborhood Market - Bhopal 2,Bhopal,Central,Pankaj Patel
+S0083,ValueMart Hypermarket - Pune 2,Pune,West,Mahesh Joshi
+S0084,ValueMart Neighborhood Market - Amritsar 3,Amritsar,North,Naveen Rathore
+S0085,ValueMart Hypermarket - Indore 2,Indore,Central,Kiran Ghosh
+S0086,ValueMart Express - Jaipur 5,Jaipur,North,Sunil Sen
+S0087,ValueMart Express - Thiruvananthapuram 3,Thiruvananthapuram,South,Meera Desai
+S0088,ValueMart Neighborhood Market - Rajkot 2,Rajkot,West,Shreya Ghosh
+S0089,ValueMart Hypermarket - Ahmedabad 2,Ahmedabad,West,Deepak Malhotra
+S0090,ValueMart Supercenter - Kanpur 4,Kanpur,North,Abhishek Naidu
+S0091,ValueMart Hypermarket - Gwalior,Gwalior,Central,Amit Singh
+S0092,ValueMart Supercenter - Siliguri 3,Siliguri,East,Varun Rathore
+S0093,ValueMart Express - Kozhikode 3,Kozhikode,South,Naveen Sharma
+S0094,ValueMart Neighborhood Market - Gaya,Gaya,East,Deepak Bose
+S0095,ValueMart Express - Lucknow 3,Lucknow,North,Tarun Sharma
+S0096,ValueMart Neighborhood Market - Madurai 3,Madurai,South,Ravi Sethi
+S0097,ValueMart Supercenter - Thiruvananthapuram 4,Thiruvananthapuram,South,Harsh Malhotra
+S0098,ValueMart Express - Kochi,Kochi,South,Pooja Shah
+S0099,ValueMart Express - Noida 4,Noida,North,Asha Verma
+S0100,ValueMart Supercenter - Rajkot 3,Rajkot,West,Manoj Mishra
