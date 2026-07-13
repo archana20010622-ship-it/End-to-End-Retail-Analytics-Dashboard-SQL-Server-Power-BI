@@ -1,0 +1,1001 @@
+CustomerID,Name,Gender,City,State,Age,JoinDate,LoyaltyTier
+C00001,Priya Dutta,Female,Bhubaneswar,Odisha,21,24-10-2018,Gold
+C00002,Gaurav Chawla,Male,Nashik,Maharashtra,50,29-05-2020,Bronze
+C00003,Rekha Singh,Female,Ahmedabad,Gujarat,23,07-03-2024,Silver
+C00004,Vikram Chauhan,Male,Ranchi,Jharkhand,55,11-09-2018,Silver
+C00005,Kavya Kapoor,Female,Nagpur,Maharashtra,53,30-06-2019,Bronze
+C00006,Abhishek Rao,Male,Thiruvananthapuram,Kerala,37,13-04-2024,Gold
+C00007,Reyansh Chawla,Male,Thiruvananthapuram,Kerala,58,09-02-2020,Bronze
+C00008,Siddharth Kumar,Male,Guwahati,Assam,31,27-07-2023,Silver
+C00009,Sapna Bose,Female,Gwalior,Madhya Pradesh,55,31-01-2023,Bronze
+C00010,Aryan Krishnan,Male,Faridabad,Haryana,33,02-12-2018,Silver
+C00011,Kiran Pillai,Female,Indore,Madhya Pradesh,36,30-10-2024,Platinum
+C00012,Dhruv Ghosh,Male,Madurai,Tamil Nadu,66,02-11-2021,Bronze
+C00013,Rekha Gupta,Female,Cuttack,Odisha,22,04-04-2024,Silver
+C00014,Kiran Krishnan,Female,Lucknow,Uttar Pradesh,56,28-07-2023,Silver
+C00015,Aadhya Patel,Female,Vadodara,Gujarat,48,26-10-2025,Silver
+C00016,Girish Krishnan,Male,Jaipur,Rajasthan,59,25-06-2024,Platinum
+C00017,Shreya Subramaniam,Female,Varanasi,Uttar Pradesh,60,22-11-2021,Bronze
+C00018,Sneha Iyer,Female,Guwahati,Assam,25,16-07-2023,Bronze
+C00019,Riya Dsouza,Female,Ahmedabad,Gujarat,43,21-05-2022,Gold
+C00020,Sara Iyer,Female,Indore,Madhya Pradesh,43,29-02-2024,Bronze
+C00021,Naveen Jain,Male,Vadodara,Gujarat,63,29-08-2022,Platinum
+C00022,Anjali Menon,Female,Bengaluru,Karnataka,29,12-09-2019,Bronze
+C00023,Aarav Pandey,Male,Kozhikode,Kerala,29,12-12-2020,Bronze
+C00024,Ashok Bansal,Male,Kanpur,Uttar Pradesh,57,08-05-2024,Bronze
+C00025,Mahesh Dubey,Male,Guwahati,Assam,59,01-08-2025,Gold
+C00026,Sapna Naidu,Female,Kochi,Kerala,43,19-06-2022,Bronze
+C00027,Yash Chauhan,Male,Agra,Uttar Pradesh,21,20-02-2020,Bronze
+C00028,Pankaj Iyer,Male,Hubli,Karnataka,39,26-09-2024,Bronze
+C00029,Siddharth Menon,Male,Amritsar,Punjab,24,29-01-2022,Silver
+C00030,Amit Sethi,Male,Varanasi,Uttar Pradesh,27,11-02-2025,Bronze
+C00031,Falguni Chatterjee,Female,Patna,Bihar,25,18-04-2019,Gold
+C00032,Simran Tiwari,Female,Jaipur,Rajasthan,23,14-08-2019,Bronze
+C00033,Pallavi Shah,Female,Patna,Bihar,62,24-10-2019,Silver
+C00034,Kunal Chatterjee,Male,Coimbatore,Tamil Nadu,62,03-02-2024,Gold
+C00035,Juhi Patel,Female,Dehradun,Uttarakhand,34,25-10-2023,Bronze
+C00036,Nikhil Pinto,Male,Siliguri,West Bengal,52,28-01-2024,Gold
+C00037,Hina Kapoor,Female,Guwahati,Assam,69,10-03-2020,Gold
+C00038,Pallavi Kapoor,Female,Warangal,Telangana,51,12-07-2023,Bronze
+C00039,Vivaan Gill,Male,Vadodara,Gujarat,48,27-11-2020,Bronze
+C00040,Usha Pillai,Female,Lucknow,Uttar Pradesh,41,26-11-2018,Bronze
+C00041,Yash Chopra,Male,Jodhpur,Rajasthan,31,31-05-2023,Silver
+C00042,Yash Rathore,Male,Lucknow,Uttar Pradesh,69,19-03-2025,Bronze
+C00043,Ajay Gill,Male,Shimla,Himachal Pradesh,66,27-03-2020,Silver
+C00044,Naveen Gill,Male,Ranchi,Jharkhand,39,22-12-2018,Gold
+C00045,Kritika Dutta,Female,Visakhapatnam,Andhra Pradesh,23,16-02-2026,Bronze
+C00046,Vivaan Menon,Male,Kozhikode,Kerala,47,10-05-2025,Bronze
+C00047,Komal Mukherjee,Female,Coimbatore,Tamil Nadu,53,24-02-2024,Bronze
+C00048,Girish Rathore,Male,Mysuru,Karnataka,51,28-05-2026,Platinum
+C00049,Kavita Malhotra,Female,Pune,Maharashtra,34,21-05-2020,Bronze
+C00050,Puneet Chawla,Male,Udaipur,Rajasthan,34,08-02-2024,Silver
+C00051,Vihaan Dsouza,Male,Lucknow,Uttar Pradesh,47,06-06-2025,Silver
+C00052,Isha Nair,Female,Amritsar,Punjab,27,15-11-2023,Silver
+C00053,Sapna Iyengar,Female,Palakkad,Kerala,18,06-09-2019,Bronze
+C00054,Gauri Pillai,Female,Hubli,Karnataka,53,10-09-2018,Bronze
+C00055,Tara Pinto,Female,Mysuru,Karnataka,53,21-08-2018,Bronze
+C00056,Ishita Pinto,Female,Mysuru,Karnataka,50,27-01-2023,Silver
+C00057,Pankaj Bose,Male,Guwahati,Assam,50,18-10-2024,Silver
+C00058,Usha Dubey,Female,Amritsar,Punjab,69,13-05-2023,Silver
+C00059,Mahesh Agarwal,Male,Surat,Gujarat,53,09-04-2020,Gold
+C00060,Ashok Rao,Male,Agra,Uttar Pradesh,46,18-07-2021,Bronze
+C00061,Naveen Singh,Male,Kolkata,West Bengal,60,25-05-2021,Gold
+C00062,Ramesh Rathore,Male,Cuttack,Odisha,41,09-08-2019,Bronze
+C00063,Vivek Kapoor,Male,Visakhapatnam,Andhra Pradesh,24,20-06-2022,Gold
+C00064,Prakash Kapoor,Male,Madurai,Tamil Nadu,63,03-11-2022,Platinum
+C00065,Kiran Ghosh,Female,Warangal,Telangana,40,28-07-2021,Bronze
+C00066,Diya Banerjee,Female,Kochi,Kerala,47,10-12-2022,Silver
+C00067,Kiran Agarwal,Female,Guwahati,Assam,36,30-09-2023,Platinum
+C00068,Vikram Reddy,Male,Bengaluru,Karnataka,34,18-01-2021,Bronze
+C00069,Manoj Fernandes,Male,Chennai,Tamil Nadu,70,26-09-2022,Gold
+C00070,Geeta Menon,Female,Amritsar,Punjab,50,26-05-2024,Silver
+C00071,Sara Joshi,Female,Nashik,Maharashtra,69,19-09-2025,Bronze
+C00072,Manoj Verma,Male,Ranchi,Jharkhand,23,03-12-2020,Bronze
+C00073,Arjun Shah,Male,Hubli,Karnataka,47,17-02-2018,Bronze
+C00074,Swati Sethi,Female,Chennai,Tamil Nadu,20,29-11-2023,Silver
+C00075,Karan Shah,Male,Nashik,Maharashtra,29,06-04-2020,Platinum
+C00076,Aditi Fernandes,Female,Kolkata,West Bengal,36,31-12-2022,Silver
+C00077,Manoj Mukherjee,Male,Pune,Maharashtra,34,01-06-2018,Bronze
+C00078,Dhruv Tiwari,Male,Ahmedabad,Gujarat,46,12-03-2019,Silver
+C00079,Komal Pandey,Female,Amritsar,Punjab,43,07-09-2023,Bronze
+C00080,Vikram Banerjee,Male,Warangal,Telangana,63,05-03-2026,Silver
+C00081,Sneha Kumar,Female,Chennai,Tamil Nadu,18,17-10-2018,Silver
+C00082,Asha Iyer,Female,Nashik,Maharashtra,23,17-06-2025,Gold
+C00083,Falguni Mehta,Female,Dehradun,Uttarakhand,36,05-07-2018,Silver
+C00084,Manoj Yadav,Male,Mumbai,Maharashtra,34,31-01-2022,Platinum
+C00085,Meera Gupta,Female,Jaipur,Rajasthan,31,31-12-2021,Bronze
+C00086,Lakshmi Patel,Female,Patna,Bihar,35,22-08-2023,Silver
+C00087,Dhruv Pinto,Male,Mumbai,Maharashtra,23,18-12-2020,Gold
+C00088,Sandeep Chawla,Male,Nagpur,Maharashtra,43,03-04-2018,Bronze
+C00089,Sai Chawla,Male,Ludhiana,Punjab,66,28-09-2019,Silver
+C00090,Rachna Bose,Female,Panaji,Goa,49,05-09-2019,Bronze
+C00091,Aditya Subramaniam,Male,Chandigarh,Chandigarh,58,25-10-2022,Gold
+C00092,Kunal Fernandes,Male,Chandigarh,Chandigarh,54,07-03-2018,Gold
+C00093,Sai Verma,Male,Nagpur,Maharashtra,26,22-02-2025,Bronze
+C00094,Ajay Yadav,Male,Kochi,Kerala,21,15-01-2025,Bronze
+C00095,Harsh Shah,Male,Mumbai,Maharashtra,47,15-10-2018,Gold
+C00096,Prakash Agarwal,Male,Delhi,Delhi,65,06-04-2026,Silver
+C00097,Suresh Mehta,Male,Panaji,Goa,66,20-04-2020,Bronze
+C00098,Tanvi Das,Female,Delhi,Delhi,48,01-09-2025,Bronze
+C00099,Ankit Chauhan,Male,Bhubaneswar,Odisha,30,14-11-2018,Silver
+C00100,Divya Rathore,Female,Visakhapatnam,Andhra Pradesh,62,31-05-2021,Silver
+C00101,Aarav Tiwari,Male,Nashik,Maharashtra,49,05-01-2021,Platinum
+C00102,Mahesh Malhotra,Male,Raipur,Chhattisgarh,49,06-04-2021,Silver
+C00103,Kritika Mishra,Female,Gwalior,Madhya Pradesh,67,01-05-2019,Platinum
+C00104,Sanjay Patel,Male,Patna,Bihar,19,01-04-2021,Silver
+C00105,Swati Das,Female,Kolkata,West Bengal,31,02-11-2018,Silver
+C00106,Alok Agarwal,Male,Surat,Gujarat,41,28-06-2019,Silver
+C00107,Anika Subramaniam,Female,Kanpur,Uttar Pradesh,32,02-08-2023,Gold
+C00108,Geeta Verma,Female,Madurai,Tamil Nadu,18,07-07-2023,Silver
+C00109,Nisha Pillai,Female,Coimbatore,Tamil Nadu,44,09-11-2021,Bronze
+C00110,Anil Sharma,Male,Udaipur,Rajasthan,66,17-10-2021,Gold
+C00111,Rahul Subramaniam,Male,Mumbai,Maharashtra,65,02-04-2021,Bronze
+C00112,Sandeep Das,Male,Kozhikode,Kerala,22,17-01-2022,Platinum
+C00113,Kavya Joshi,Female,Mysuru,Karnataka,21,04-06-2025,Bronze
+C00114,Rajesh Joshi,Male,Bhopal,Madhya Pradesh,50,16-07-2021,Bronze
+C00115,Tara Sen,Female,Pune,Maharashtra,69,28-01-2025,Silver
+C00116,Girish Patel,Male,Nashik,Maharashtra,64,10-08-2022,Silver
+C00117,Sunil Desai,Male,Gaya,Bihar,21,03-03-2024,Bronze
+C00118,Rekha Banerjee,Female,Rajkot,Gujarat,37,13-11-2020,Gold
+C00119,Geeta Rathore,Female,Ahmedabad,Gujarat,37,03-06-2023,Silver
+C00120,Anika Iyer,Female,Bhubaneswar,Odisha,28,04-11-2018,Bronze
+C00121,Charu Kapoor,Female,Indore,Madhya Pradesh,39,18-01-2023,Silver
+C00122,Rajesh Patel,Male,Hyderabad,Telangana,39,26-03-2024,Bronze
+C00123,Gaurav Shah,Male,Thiruvananthapuram,Kerala,30,24-03-2018,Gold
+C00124,Lakshmi Ghosh,Female,Visakhapatnam,Andhra Pradesh,51,10-05-2020,Bronze
+C00125,Rachna Kumar,Female,Gaya,Bihar,35,10-06-2024,Platinum
+C00126,Vinod Dubey,Male,Ludhiana,Punjab,58,03-06-2020,Bronze
+C00127,Ajay Dutta,Male,Bhubaneswar,Odisha,46,04-11-2022,Platinum
+C00128,Ishaan Gupta,Male,Bhopal,Madhya Pradesh,63,23-04-2023,Platinum
+C00129,Ananya Singh,Female,Agra,Uttar Pradesh,70,03-12-2023,Gold
+C00130,Meera Gill,Female,Mysuru,Karnataka,32,25-09-2019,Bronze
+C00131,Girish Krishnan,Male,Bhubaneswar,Odisha,66,17-02-2023,Bronze
+C00132,Aarav Gill,Male,Chennai,Tamil Nadu,32,21-05-2024,Gold
+C00133,Riya Chauhan,Female,Surat,Gujarat,51,19-02-2025,Silver
+C00134,Reyansh Singh,Male,Jaipur,Rajasthan,51,15-07-2024,Bronze
+C00135,Anjali Gill,Female,Palakkad,Kerala,18,12-02-2018,Silver
+C00136,Swati Bose,Female,Bhubaneswar,Odisha,33,01-05-2023,Silver
+C00137,Vivaan Ghosh,Male,Shimla,Himachal Pradesh,59,13-06-2021,Bronze
+C00138,Harsh Naidu,Male,Bhubaneswar,Odisha,44,29-11-2018,Bronze
+C00139,Radha Kapoor,Female,Gaya,Bihar,20,21-10-2025,Bronze
+C00140,Radha Naidu,Female,Agra,Uttar Pradesh,30,28-01-2018,Gold
+C00141,Amit Pandey,Male,Warangal,Telangana,37,05-03-2020,Bronze
+C00142,Suresh Fernandes,Male,Rajkot,Gujarat,24,29-12-2024,Silver
+C00143,Vikram Pandey,Male,Noida,Uttar Pradesh,60,20-08-2018,Platinum
+C00144,Sandeep Kumar,Male,Kolkata,West Bengal,19,07-09-2024,Bronze
+C00145,Ramesh Kumar,Male,Hyderabad,Telangana,43,16-01-2023,Gold
+C00146,Om Rao,Female,Bengaluru,Karnataka,28,10-09-2021,Bronze
+C00147,Ishita Pillai,Female,Cuttack,Odisha,64,31-03-2022,Gold
+C00148,Usha Iyer,Female,Mysuru,Karnataka,18,17-11-2018,Bronze
+C00149,Rekha Rao,Female,Kochi,Kerala,66,29-04-2020,Bronze
+C00150,Asha Patel,Female,Nashik,Maharashtra,63,24-04-2023,Bronze
+C00151,Kavita Bose,Female,Kanpur,Uttar Pradesh,65,28-04-2023,Bronze
+C00152,Meera Chauhan,Female,Faridabad,Haryana,43,16-06-2018,Bronze
+C00153,Aadhya Kumar,Female,Surat,Gujarat,30,19-05-2026,Bronze
+C00154,Radha Joshi,Female,Jodhpur,Rajasthan,57,28-06-2018,Bronze
+C00155,Swati Pillai,Female,Mumbai,Maharashtra,64,23-06-2026,Silver
+C00156,Vivaan Kapoor,Male,Mysuru,Karnataka,48,09-01-2026,Platinum
+C00157,Tara Shah,Female,Bhopal,Madhya Pradesh,70,15-07-2023,Bronze
+C00158,Pooja Sharma,Female,Visakhapatnam,Andhra Pradesh,37,05-10-2025,Gold
+C00159,Ravi Bose,Male,Gwalior,Madhya Pradesh,41,06-09-2024,Bronze
+C00160,Sandeep Fernandes,Male,Madurai,Tamil Nadu,33,29-07-2022,Bronze
+C00161,Yash Jain,Male,Amritsar,Punjab,38,21-10-2019,Platinum
+C00162,Arjun Shah,Male,Guwahati,Assam,23,03-05-2020,Bronze
+C00163,Nandini Yadav,Female,Hyderabad,Telangana,32,29-06-2019,Silver
+C00164,Alok Bansal,Male,Faridabad,Haryana,60,12-05-2019,Gold
+C00165,Shreya Joshi,Female,Thiruvananthapuram,Kerala,35,08-03-2022,Bronze
+C00166,Kavita Yadav,Female,Ahmedabad,Gujarat,29,01-10-2020,Bronze
+C00167,Esha Chopra,Female,Udaipur,Rajasthan,22,11-06-2022,Bronze
+C00168,Dhruv Agarwal,Male,Siliguri,West Bengal,59,16-02-2019,Silver
+C00169,Reyansh Sharma,Male,Patna,Bihar,70,04-08-2020,Gold
+C00170,Ishita Desai,Female,Siliguri,West Bengal,25,26-07-2018,Bronze
+C00171,Arjun Chatterjee,Male,Chandigarh,Chandigarh,29,14-01-2023,Silver
+C00172,Reyansh Chauhan,Male,Palakkad,Kerala,63,14-12-2024,Bronze
+C00173,Gaurav Banerjee,Male,Coimbatore,Tamil Nadu,20,15-04-2020,Platinum
+C00174,Mohit Pillai,Male,Bhubaneswar,Odisha,31,16-02-2018,Gold
+C00175,Lata Chatterjee,Female,Hyderabad,Telangana,57,02-07-2021,Bronze
+C00176,Harsh Jain,Male,Patna,Bihar,22,30-07-2022,Bronze
+C00177,Komal Jain,Female,Coimbatore,Tamil Nadu,58,28-12-2023,Bronze
+C00178,Sandeep Krishnan,Male,Vadodara,Gujarat,44,06-03-2021,Silver
+C00179,Kavya Pillai,Female,Visakhapatnam,Andhra Pradesh,54,03-01-2022,Silver
+C00180,Rohit Chatterjee,Male,Bhubaneswar,Odisha,30,20-05-2022,Gold
+C00181,Aarav Sen,Male,Madurai,Tamil Nadu,45,11-04-2019,Gold
+C00182,Deepika Chatterjee,Female,Gwalior,Madhya Pradesh,67,28-10-2019,Bronze
+C00183,Tarun Menon,Male,Bhubaneswar,Odisha,69,13-06-2022,Bronze
+C00184,Pallavi Dubey,Female,Madurai,Tamil Nadu,27,26-11-2021,Bronze
+C00185,Arjun Reddy,Male,Varanasi,Uttar Pradesh,49,14-06-2026,Gold
+C00186,Sanjay Nair,Male,Nagpur,Maharashtra,48,12-07-2021,Bronze
+C00187,Sara Subramaniam,Female,Guwahati,Assam,62,19-10-2019,Silver
+C00188,Ankit Dutta,Male,Guwahati,Assam,30,22-04-2023,Bronze
+C00189,Aditya Dutta,Male,Ludhiana,Punjab,28,21-04-2022,Bronze
+C00190,Rajesh Pillai,Male,Warangal,Telangana,20,22-04-2024,Gold
+C00191,Prakash Bose,Male,Hubli,Karnataka,42,21-09-2024,Silver
+C00192,Juhi Ghosh,Female,Jaipur,Rajasthan,55,17-10-2020,Silver
+C00193,Usha Dubey,Female,Indore,Madhya Pradesh,29,06-04-2018,Bronze
+C00194,Kritika Mehta,Female,Indore,Madhya Pradesh,66,08-12-2024,Gold
+C00195,Pooja Tiwari,Female,Agra,Uttar Pradesh,24,02-10-2018,Bronze
+C00196,Radha Patel,Female,Indore,Madhya Pradesh,50,21-09-2023,Silver
+C00197,Rakesh Nair,Male,Bengaluru,Karnataka,64,09-07-2021,Gold
+C00198,Vihaan Fernandes,Male,Chandigarh,Chandigarh,42,27-04-2025,Platinum
+C00199,Vivaan Singh,Male,Guwahati,Assam,64,07-10-2025,Gold
+C00200,Ishaan Pandey,Male,Rajkot,Gujarat,69,08-11-2019,Silver
+C00201,Arjun Mukherjee,Male,Guwahati,Assam,66,30-10-2020,Bronze
+C00202,Kritika Menon,Female,Surat,Gujarat,50,21-05-2023,Bronze
+C00203,Gauri Dubey,Female,Ahmedabad,Gujarat,38,05-03-2022,Bronze
+C00204,Sandeep Iyer,Male,Ranchi,Jharkhand,35,15-08-2025,Bronze
+C00205,Neha Gill,Female,Gurugram,Haryana,34,17-04-2019,Gold
+C00206,Rakesh Chatterjee,Male,Indore,Madhya Pradesh,53,06-11-2023,Silver
+C00207,Suresh Bansal,Male,Ranchi,Jharkhand,43,11-04-2026,Gold
+C00208,Lakshmi Chatterjee,Female,Thiruvananthapuram,Kerala,27,15-01-2022,Bronze
+C00209,Pankaj Kapoor,Male,Hyderabad,Telangana,57,04-05-2026,Platinum
+C00210,Aditi Shah,Female,Jaipur,Rajasthan,58,27-07-2024,Platinum
+C00211,Om Sharma,Female,Visakhapatnam,Andhra Pradesh,20,26-06-2020,Bronze
+C00212,Rekha Dubey,Female,Kanpur,Uttar Pradesh,21,25-06-2019,Silver
+C00213,Vivaan Kumar,Male,Mumbai,Maharashtra,54,24-12-2021,Bronze
+C00214,Bhavna Kapoor,Female,Noida,Uttar Pradesh,55,18-05-2021,Silver
+C00215,Gaurav Sethi,Male,Patna,Bihar,28,06-07-2019,Bronze
+C00216,Ramesh Menon,Male,Indore,Madhya Pradesh,24,18-09-2018,Silver
+C00217,Geeta Shah,Female,Mumbai,Maharashtra,21,26-03-2025,Gold
+C00218,Falguni Rathore,Female,Kozhikode,Kerala,46,01-10-2024,Platinum
+C00219,Meera Iyer,Female,Mumbai,Maharashtra,20,10-09-2018,Silver
+C00220,Pooja Mehta,Female,Madurai,Tamil Nadu,21,06-03-2019,Bronze
+C00221,Rohan Ghosh,Male,Warangal,Telangana,51,26-10-2024,Silver
+C00222,Gauri Iyengar,Female,Chandigarh,Chandigarh,37,19-09-2018,Bronze
+C00223,Girish Gill,Male,Patna,Bihar,63,15-01-2024,Bronze
+C00224,Pallavi Mishra,Female,Bengaluru,Karnataka,65,09-05-2025,Silver
+C00225,Reyansh Shah,Male,Siliguri,West Bengal,59,08-06-2018,Bronze
+C00226,Nandini Kumar,Female,Vadodara,Gujarat,58,18-03-2024,Silver
+C00227,Shreya Rathore,Female,Kolkata,West Bengal,23,10-09-2023,Bronze
+C00228,Meera Dsouza,Female,Warangal,Telangana,28,15-05-2026,Gold
+C00229,Ajay Banerjee,Male,Palakkad,Kerala,33,04-04-2022,Gold
+C00230,Simran Agarwal,Female,Dehradun,Uttarakhand,18,19-04-2018,Silver
+C00231,Siddharth Pillai,Male,Gurugram,Haryana,31,23-05-2022,Silver
+C00232,Siddharth Iyer,Male,Coimbatore,Tamil Nadu,20,21-04-2018,Bronze
+C00233,Nikhil Menon,Male,Dehradun,Uttarakhand,19,07-05-2018,Bronze
+C00234,Mahesh Singh,Male,Visakhapatnam,Andhra Pradesh,20,27-09-2018,Gold
+C00235,Kavita Bansal,Female,Cuttack,Odisha,22,23-06-2026,Gold
+C00236,Myra Mehta,Female,Kolkata,West Bengal,31,04-04-2019,Bronze
+C00237,Puneet Chauhan,Male,Ranchi,Jharkhand,36,09-05-2023,Bronze
+C00238,Puneet Rathore,Male,Kolkata,West Bengal,36,31-07-2021,Bronze
+C00239,Diya Mukherjee,Female,Surat,Gujarat,36,18-07-2018,Silver
+C00240,Priyanka Pinto,Female,Palakkad,Kerala,50,05-05-2023,Gold
+C00241,Ashok Verma,Male,Bhopal,Madhya Pradesh,51,07-02-2019,Bronze
+C00242,Abhishek Khanna,Male,Kolkata,West Bengal,63,08-01-2019,Silver
+C00243,Neha Sen,Female,Mumbai,Maharashtra,51,07-04-2020,Bronze
+C00244,Aarav Mukherjee,Male,Gaya,Bihar,24,07-07-2023,Silver
+C00245,Harsh Chawla,Male,Lucknow,Uttar Pradesh,50,03-12-2020,Silver
+C00246,Deepak Malhotra,Male,Dehradun,Uttarakhand,32,04-08-2023,Bronze
+C00247,Harsh Gill,Male,Dehradun,Uttarakhand,53,05-03-2019,Silver
+C00248,Myra Dutta,Female,Agra,Uttar Pradesh,65,19-12-2018,Silver
+C00249,Gaurav Malhotra,Male,Jaipur,Rajasthan,34,20-10-2022,Gold
+C00250,Ajay Chauhan,Male,Siliguri,West Bengal,47,04-06-2019,Silver
+C00251,Nikhil Chawla,Male,Udaipur,Rajasthan,51,29-09-2019,Gold
+C00252,Komal Jain,Female,Visakhapatnam,Andhra Pradesh,38,26-11-2019,Silver
+C00253,Esha Kapoor,Female,Chennai,Tamil Nadu,39,08-03-2023,Silver
+C00254,Dhruv Chopra,Male,Vadodara,Gujarat,37,19-06-2026,Silver
+C00255,Girish Menon,Male,Ahmedabad,Gujarat,64,30-08-2021,Silver
+C00256,Neha Mehta,Female,Udaipur,Rajasthan,30,25-11-2020,Platinum
+C00257,Karan Thakur,Male,Mysuru,Karnataka,30,23-04-2022,Bronze
+C00258,Sanjay Pillai,Male,Jaipur,Rajasthan,45,26-01-2021,Bronze
+C00259,Manoj Malhotra,Male,Varanasi,Uttar Pradesh,47,19-05-2018,Bronze
+C00260,Madhuri Kapoor,Female,Chandigarh,Chandigarh,58,28-04-2021,Silver
+C00261,Suresh Arora,Male,Visakhapatnam,Andhra Pradesh,43,23-01-2018,Gold
+C00262,Madhuri Khanna,Female,Kozhikode,Kerala,65,04-04-2025,Silver
+C00263,Prakash Pillai,Male,Bhubaneswar,Odisha,67,13-03-2025,Silver
+C00264,Vinod Iyengar,Male,Bhubaneswar,Odisha,25,03-02-2023,Silver
+C00265,Hina Krishnan,Female,Mysuru,Karnataka,44,19-09-2020,Gold
+C00266,Suresh Sen,Male,Patna,Bihar,47,22-03-2018,Silver
+C00267,Aditi Naidu,Female,Cuttack,Odisha,29,04-05-2025,Bronze
+C00268,Ajay Pandey,Male,Mysuru,Karnataka,20,26-10-2020,Silver
+C00269,Ramesh Gill,Male,Warangal,Telangana,51,27-11-2021,Bronze
+C00270,Bhavna Malhotra,Female,Shimla,Himachal Pradesh,48,29-09-2023,Bronze
+C00271,Aditi Banerjee,Female,Noida,Uttar Pradesh,65,15-02-2023,Bronze
+C00272,Sandeep Dubey,Male,Vijayawada,Andhra Pradesh,25,06-03-2026,Platinum
+C00273,Hina Kumar,Female,Surat,Gujarat,35,14-04-2022,Bronze
+C00274,Arjun Ghosh,Male,Noida,Uttar Pradesh,58,31-10-2025,Silver
+C00275,Myra Kapoor,Female,Jaipur,Rajasthan,65,29-06-2022,Platinum
+C00276,Sandeep Mishra,Male,Kolkata,West Bengal,28,14-06-2019,Platinum
+C00277,Rakesh Chopra,Male,Patna,Bihar,59,21-04-2024,Gold
+C00278,Nikhil Thakur,Male,Ranchi,Jharkhand,70,20-08-2022,Silver
+C00279,Rachna Jain,Female,Bhubaneswar,Odisha,26,07-04-2023,Bronze
+C00280,Manoj Subramaniam,Male,Varanasi,Uttar Pradesh,61,04-11-2020,Platinum
+C00281,Yash Sharma,Male,Panaji,Goa,69,25-02-2021,Bronze
+C00282,Priyanka Tiwari,Female,Gaya,Bihar,45,28-12-2024,Silver
+C00283,Priya Pillai,Female,Varanasi,Uttar Pradesh,21,16-12-2018,Gold
+C00284,Tara Nair,Female,Ludhiana,Punjab,40,06-02-2025,Silver
+C00285,Amit Singh,Male,Bhubaneswar,Odisha,36,21-10-2020,Silver
+C00286,Vikram Iyengar,Male,Faridabad,Haryana,46,20-11-2021,Gold
+C00287,Sandeep Gill,Male,Amritsar,Punjab,28,01-11-2024,Gold
+C00288,Prakash Jain,Male,Gurugram,Haryana,58,01-05-2021,Bronze
+C00289,Kunal Patel,Male,Visakhapatnam,Andhra Pradesh,46,12-07-2025,Gold
+C00290,Suresh Ghosh,Male,Siliguri,West Bengal,70,25-07-2019,Silver
+C00291,Yash Mishra,Male,Coimbatore,Tamil Nadu,62,06-07-2023,Bronze
+C00292,Abhishek Arora,Male,Visakhapatnam,Andhra Pradesh,18,19-10-2019,Gold
+C00293,Madhuri Khanna,Female,Gaya,Bihar,60,30-04-2021,Gold
+C00294,Asha Ghosh,Female,Raipur,Chhattisgarh,22,10-01-2020,Silver
+C00295,Vivaan Sethi,Male,Nagpur,Maharashtra,61,05-04-2026,Platinum
+C00296,Myra Dubey,Female,Patna,Bihar,49,29-06-2026,Gold
+C00297,Amit Subramaniam,Male,Noida,Uttar Pradesh,58,04-06-2019,Bronze
+C00298,Kiran Tiwari,Female,Faridabad,Haryana,51,19-03-2024,Gold
+C00299,Deepak Sen,Male,Jodhpur,Rajasthan,45,27-10-2020,Silver
+C00300,Shreya Mukherjee,Female,Gaya,Bihar,43,28-09-2021,Silver
+C00301,Isha Mukherjee,Female,Kolkata,West Bengal,59,10-07-2023,Gold
+C00302,Kavita Bose,Female,Shimla,Himachal Pradesh,37,07-06-2019,Silver
+C00303,Aditya Dutta,Male,Panaji,Goa,53,22-07-2022,Silver
+C00304,Sandeep Pillai,Male,Mysuru,Karnataka,18,10-07-2018,Bronze
+C00305,Falguni Pinto,Female,Cuttack,Odisha,21,14-08-2023,Gold
+C00306,Gauri Menon,Female,Ranchi,Jharkhand,61,23-10-2025,Silver
+C00307,Amit Gupta,Male,Cuttack,Odisha,58,19-02-2023,Silver
+C00308,Reyansh Thakur,Male,Hyderabad,Telangana,20,23-09-2022,Gold
+C00309,Gaurav Nair,Male,Gurugram,Haryana,37,21-04-2024,Silver
+C00310,Pooja Ghosh,Female,Nagpur,Maharashtra,38,25-03-2018,Silver
+C00311,Harsh Khanna,Male,Ludhiana,Punjab,20,02-05-2019,Gold
+C00312,Deepika Krishnan,Female,Agra,Uttar Pradesh,46,03-10-2018,Bronze
+C00313,Falguni Chawla,Female,Cuttack,Odisha,27,02-05-2023,Gold
+C00314,Sai Rathore,Male,Patna,Bihar,31,14-09-2019,Silver
+C00315,Ananya Sharma,Female,Raipur,Chhattisgarh,60,14-05-2019,Platinum
+C00316,Amit Rao,Male,Chennai,Tamil Nadu,48,14-03-2018,Bronze
+C00317,Pankaj Pillai,Male,Visakhapatnam,Andhra Pradesh,29,25-07-2018,Bronze
+C00318,Girish Fernandes,Male,Bengaluru,Karnataka,36,18-01-2025,Silver
+C00319,Kritika Thakur,Female,Surat,Gujarat,21,16-01-2026,Bronze
+C00320,Aarav Rathore,Male,Raipur,Chhattisgarh,70,07-12-2024,Bronze
+C00321,Nisha Pillai,Female,Palakkad,Kerala,28,16-06-2023,Silver
+C00322,Radha Khanna,Female,Panaji,Goa,46,09-04-2023,Silver
+C00323,Krishna Chatterjee,Male,Bhubaneswar,Odisha,28,23-01-2025,Gold
+C00324,Lakshmi Pinto,Female,Gurugram,Haryana,46,19-01-2021,Gold
+C00325,Shreya Joshi,Female,Nashik,Maharashtra,57,20-04-2025,Silver
+C00326,Falguni Pillai,Female,Mumbai,Maharashtra,27,28-09-2024,Gold
+C00327,Meera Das,Female,Varanasi,Uttar Pradesh,61,21-03-2022,Silver
+C00328,Pankaj Desai,Male,Dehradun,Uttarakhand,18,09-08-2021,Bronze
+C00329,Neha Chawla,Female,Vijayawada,Andhra Pradesh,68,23-06-2018,Bronze
+C00330,Siddharth Menon,Male,Vadodara,Gujarat,69,22-02-2024,Silver
+C00331,Sneha Bansal,Female,Bengaluru,Karnataka,52,17-03-2024,Silver
+C00332,Kavita Gill,Female,Vijayawada,Andhra Pradesh,64,16-08-2020,Bronze
+C00333,Vinod Dutta,Male,Gwalior,Madhya Pradesh,63,26-04-2020,Platinum
+C00334,Ajay Mishra,Male,Amritsar,Punjab,23,06-01-2024,Gold
+C00335,Vikram Dutta,Male,Kozhikode,Kerala,51,29-11-2020,Gold
+C00336,Simran Dubey,Female,Kozhikode,Kerala,30,14-02-2020,Bronze
+C00337,Aryan Krishnan,Male,Rajkot,Gujarat,41,24-06-2024,Silver
+C00338,Sapna Agarwal,Female,Coimbatore,Tamil Nadu,33,02-07-2018,Platinum
+C00339,Radha Reddy,Female,Kanpur,Uttar Pradesh,58,14-03-2023,Gold
+C00340,Ravi Arora,Male,Pune,Maharashtra,40,23-02-2021,Silver
+C00341,Reyansh Gupta,Male,Kolkata,West Bengal,54,15-06-2023,Silver
+C00342,Suresh Pinto,Male,Vadodara,Gujarat,45,02-02-2019,Platinum
+C00343,Suresh Gupta,Male,Jodhpur,Rajasthan,30,11-01-2020,Bronze
+C00344,Vihaan Gupta,Male,Kochi,Kerala,41,30-11-2025,Silver
+C00345,Mohit Chauhan,Male,Agra,Uttar Pradesh,25,03-12-2025,Platinum
+C00346,Priyanka Khanna,Female,Siliguri,West Bengal,59,03-01-2019,Platinum
+C00347,Pooja Yadav,Female,Madurai,Tamil Nadu,41,21-08-2020,Platinum
+C00348,Aryan Gupta,Male,Surat,Gujarat,40,31-08-2018,Gold
+C00349,Vihaan Shah,Male,Gurugram,Haryana,50,16-12-2025,Gold
+C00350,Kavya Reddy,Female,Coimbatore,Tamil Nadu,38,20-06-2026,Bronze
+C00351,Vinod Dsouza,Male,Jaipur,Rajasthan,55,19-08-2024,Silver
+C00352,Yash Bose,Male,Kanpur,Uttar Pradesh,34,17-05-2022,Bronze
+C00353,Lakshmi Iyer,Female,Indore,Madhya Pradesh,33,10-08-2019,Gold
+C00354,Vivek Subramaniam,Male,Warangal,Telangana,69,28-05-2018,Bronze
+C00355,Arjun Sethi,Male,Kanpur,Uttar Pradesh,65,27-07-2019,Gold
+C00356,Ajay Verma,Male,Ranchi,Jharkhand,22,27-01-2023,Platinum
+C00357,Anjali Tiwari,Female,Hubli,Karnataka,58,08-02-2022,Bronze
+C00358,Alok Kumar,Male,Hyderabad,Telangana,63,23-01-2023,Silver
+C00359,Pankaj Menon,Male,Vadodara,Gujarat,44,14-08-2022,Bronze
+C00360,Manoj Khanna,Male,Rajkot,Gujarat,39,19-11-2019,Bronze
+C00361,Ravi Mishra,Male,Patna,Bihar,25,21-09-2019,Platinum
+C00362,Rakesh Gill,Male,Cuttack,Odisha,31,12-04-2024,Silver
+C00363,Anika Shah,Female,Vijayawada,Andhra Pradesh,30,01-02-2022,Silver
+C00364,Meera Mehta,Female,Mysuru,Karnataka,42,31-03-2021,Silver
+C00365,Vihaan Pillai,Male,Rajkot,Gujarat,27,05-03-2025,Bronze
+C00366,Isha Nair,Female,Indore,Madhya Pradesh,18,27-11-2023,Bronze
+C00367,Asha Gupta,Female,Noida,Uttar Pradesh,31,07-02-2021,Silver
+C00368,Aryan Agarwal,Male,Faridabad,Haryana,32,24-12-2025,Bronze
+C00369,Sai Arora,Male,Panaji,Goa,49,26-01-2021,Bronze
+C00370,Ankit Thakur,Male,Shimla,Himachal Pradesh,58,27-02-2020,Silver
+C00371,Aarav Singh,Male,Dehradun,Uttarakhand,64,30-10-2023,Silver
+C00372,Kunal Mukherjee,Male,Jodhpur,Rajasthan,36,03-03-2025,Gold
+C00373,Sara Sharma,Female,Noida,Uttar Pradesh,66,07-05-2023,Bronze
+C00374,Meera Iyengar,Female,Thiruvananthapuram,Kerala,41,31-05-2018,Bronze
+C00375,Deepika Arora,Female,Mumbai,Maharashtra,40,31-10-2023,Platinum
+C00376,Krishna Mukherjee,Male,Shimla,Himachal Pradesh,33,07-08-2021,Gold
+C00377,Deepika Fernandes,Female,Nashik,Maharashtra,36,18-03-2019,Platinum
+C00378,Usha Dubey,Female,Pune,Maharashtra,51,10-01-2024,Bronze
+C00379,Sai Kapoor,Male,Guwahati,Assam,29,19-11-2019,Bronze
+C00380,Charu Verma,Female,Pune,Maharashtra,24,02-11-2025,Gold
+C00381,Diya Arora,Female,Ranchi,Jharkhand,54,16-03-2023,Silver
+C00382,Myra Mukherjee,Female,Mysuru,Karnataka,63,04-01-2020,Bronze
+C00383,Vivek Pandey,Male,Kozhikode,Kerala,50,19-02-2021,Bronze
+C00384,Sandeep Nair,Male,Amritsar,Punjab,55,20-07-2020,Gold
+C00385,Prakash Khanna,Male,Gwalior,Madhya Pradesh,65,13-06-2022,Bronze
+C00386,Rakesh Das,Male,Dehradun,Uttarakhand,44,11-09-2024,Gold
+C00387,Sandeep Kumar,Male,Faridabad,Haryana,41,18-10-2021,Silver
+C00388,Nandini Sen,Female,Thiruvananthapuram,Kerala,69,06-08-2021,Gold
+C00389,Ravi Agarwal,Male,Coimbatore,Tamil Nadu,61,18-12-2021,Bronze
+C00390,Komal Chauhan,Female,Mumbai,Maharashtra,41,23-03-2019,Silver
+C00391,Ravi Sen,Male,Warangal,Telangana,50,03-07-2025,Bronze
+C00392,Ashok Dutta,Male,Faridabad,Haryana,47,06-02-2025,Bronze
+C00393,Aditya Rathore,Male,Guwahati,Assam,35,10-08-2025,Silver
+C00394,Ankit Reddy,Male,Surat,Gujarat,25,02-11-2023,Bronze
+C00395,Aditya Desai,Male,Hubli,Karnataka,37,24-11-2021,Silver
+C00396,Vihaan Arora,Male,Chandigarh,Chandigarh,35,13-12-2018,Silver
+C00397,Pankaj Rao,Male,Chandigarh,Chandigarh,26,17-04-2021,Gold
+C00398,Swati Mehta,Female,Visakhapatnam,Andhra Pradesh,23,21-04-2026,Silver
+C00399,Gauri Krishnan,Female,Thiruvananthapuram,Kerala,32,17-04-2025,Bronze
+C00400,Kritika Jain,Female,Jaipur,Rajasthan,57,12-05-2023,Silver
+C00401,Diya Mehta,Female,Jodhpur,Rajasthan,32,13-02-2020,Silver
+C00402,Esha Dutta,Female,Mumbai,Maharashtra,40,27-10-2019,Gold
+C00403,Ravi Jain,Male,Udaipur,Rajasthan,49,10-01-2021,Bronze
+C00404,Deepak Kumar,Male,Faridabad,Haryana,19,12-10-2019,Silver
+C00405,Usha Thakur,Female,Nashik,Maharashtra,51,08-05-2022,Gold
+C00406,Pallavi Fernandes,Female,Mysuru,Karnataka,51,11-07-2020,Platinum
+C00407,Ashok Banerjee,Male,Cuttack,Odisha,40,29-07-2019,Silver
+C00408,Aditi Reddy,Female,Visakhapatnam,Andhra Pradesh,65,01-05-2023,Bronze
+C00409,Ashok Reddy,Male,Mumbai,Maharashtra,44,02-03-2024,Silver
+C00410,Geeta Khanna,Female,Coimbatore,Tamil Nadu,44,18-02-2021,Gold
+C00411,Ajay Yadav,Male,Dehradun,Uttarakhand,47,25-03-2021,Gold
+C00412,Sneha Dutta,Female,Ludhiana,Punjab,53,04-09-2024,Bronze
+C00413,Ananya Gill,Female,Visakhapatnam,Andhra Pradesh,49,09-04-2022,Silver
+C00414,Abhishek Pillai,Male,Coimbatore,Tamil Nadu,45,14-06-2024,Bronze
+C00415,Sai Banerjee,Male,Udaipur,Rajasthan,56,20-09-2020,Platinum
+C00416,Naveen Sharma,Male,Pune,Maharashtra,21,16-11-2020,Silver
+C00417,Nisha Bansal,Female,Faridabad,Haryana,37,15-01-2024,Silver
+C00418,Aditi Agarwal,Female,Panaji,Goa,61,28-10-2022,Bronze
+C00419,Ishita Arora,Female,Raipur,Chhattisgarh,40,30-01-2023,Platinum
+C00420,Kunal Kapoor,Male,Mysuru,Karnataka,44,14-03-2022,Silver
+C00421,Rahul Ghosh,Male,Gaya,Bihar,43,08-12-2022,Gold
+C00422,Madhuri Agarwal,Female,Visakhapatnam,Andhra Pradesh,70,13-01-2019,Bronze
+C00423,Radha Singh,Female,Jaipur,Rajasthan,50,21-12-2019,Bronze
+C00424,Madhuri Banerjee,Female,Chandigarh,Chandigarh,44,28-01-2025,Bronze
+C00425,Isha Malhotra,Female,Chandigarh,Chandigarh,30,16-08-2022,Bronze
+C00426,Nikhil Khanna,Male,Ranchi,Jharkhand,58,08-02-2026,Bronze
+C00427,Ananya Gill,Female,Mumbai,Maharashtra,37,20-12-2025,Silver
+C00428,Sanjay Dutta,Male,Mysuru,Karnataka,55,05-03-2018,Silver
+C00429,Aryan Pandey,Male,Faridabad,Haryana,53,11-05-2024,Bronze
+C00430,Siddharth Chopra,Male,Noida,Uttar Pradesh,56,13-05-2019,Bronze
+C00431,Vivaan Reddy,Male,Delhi,Delhi,28,11-11-2023,Silver
+C00432,Gauri Sen,Female,Nashik,Maharashtra,59,21-02-2018,Silver
+C00433,Priya Subramaniam,Female,Ahmedabad,Gujarat,40,02-02-2021,Bronze
+C00434,Hina Reddy,Female,Kozhikode,Kerala,22,30-11-2021,Bronze
+C00435,Diya Kumar,Female,Siliguri,West Bengal,43,14-07-2024,Gold
+C00436,Pankaj Kumar,Male,Guwahati,Assam,33,18-10-2020,Bronze
+C00437,Varun Iyengar,Male,Udaipur,Rajasthan,18,09-02-2023,Bronze
+C00438,Tanvi Singh,Female,Ahmedabad,Gujarat,61,16-05-2022,Silver
+C00439,Ashok Pillai,Male,Agra,Uttar Pradesh,63,08-06-2023,Bronze
+C00440,Sai Iyengar,Male,Madurai,Tamil Nadu,40,02-04-2022,Bronze
+C00441,Geeta Jain,Female,Kanpur,Uttar Pradesh,25,04-10-2021,Silver
+C00442,Kiran Dutta,Female,Bhubaneswar,Odisha,22,20-05-2019,Silver
+C00443,Charu Mehta,Female,Varanasi,Uttar Pradesh,30,28-03-2023,Bronze
+C00444,Naveen Gupta,Male,Vadodara,Gujarat,60,14-04-2018,Bronze
+C00445,Rajesh Subramaniam,Male,Chennai,Tamil Nadu,23,15-03-2020,Bronze
+C00446,Tarun Yadav,Male,Gwalior,Madhya Pradesh,68,10-09-2020,Bronze
+C00447,Sunita Pillai,Female,Agra,Uttar Pradesh,42,21-01-2025,Platinum
+C00448,Sanjay Tiwari,Male,Chandigarh,Chandigarh,31,19-07-2020,Gold
+C00449,Ramesh Shah,Male,Palakkad,Kerala,46,03-08-2024,Platinum
+C00450,Sandeep Arora,Male,Chandigarh,Chandigarh,31,30-05-2019,Gold
+C00451,Vinod Dubey,Male,Bengaluru,Karnataka,52,12-01-2021,Gold
+C00452,Diya Thakur,Female,Shimla,Himachal Pradesh,54,18-08-2019,Bronze
+C00453,Nandini Patel,Female,Dehradun,Uttarakhand,29,06-08-2020,Bronze
+C00454,Arjun Jain,Male,Kanpur,Uttar Pradesh,69,12-08-2023,Gold
+C00455,Arjun Subramaniam,Male,Jaipur,Rajasthan,23,16-07-2020,Bronze
+C00456,Shreya Mukherjee,Female,Agra,Uttar Pradesh,47,16-01-2025,Gold
+C00457,Manoj Iyengar,Male,Pune,Maharashtra,41,15-08-2025,Gold
+C00458,Rekha Verma,Female,Cuttack,Odisha,63,04-11-2025,Silver
+C00459,Sneha Chauhan,Female,Mysuru,Karnataka,29,08-04-2021,Bronze
+C00460,Ramesh Naidu,Male,Nagpur,Maharashtra,43,13-06-2018,Silver
+C00461,Kavita Fernandes,Female,Jaipur,Rajasthan,27,09-04-2022,Gold
+C00462,Hina Chauhan,Female,Hyderabad,Telangana,54,21-07-2020,Silver
+C00463,Asha Thakur,Female,Raipur,Chhattisgarh,54,30-11-2021,Platinum
+C00464,Puneet Pinto,Male,Bhubaneswar,Odisha,36,25-06-2018,Gold
+C00465,Rajesh Naidu,Male,Hubli,Karnataka,20,28-07-2021,Bronze
+C00466,Pallavi Patel,Female,Noida,Uttar Pradesh,62,06-05-2026,Bronze
+C00467,Manoj Agarwal,Male,Bengaluru,Karnataka,40,03-10-2022,Silver
+C00468,Madhuri Dubey,Female,Visakhapatnam,Andhra Pradesh,62,16-01-2025,Silver
+C00469,Vinod Krishnan,Male,Kolkata,West Bengal,45,20-07-2025,Silver
+C00470,Harsh Fernandes,Male,Warangal,Telangana,20,18-11-2025,Gold
+C00471,Pooja Bansal,Female,Madurai,Tamil Nadu,67,24-02-2025,Bronze
+C00472,Meera Kumar,Female,Madurai,Tamil Nadu,40,23-11-2021,Silver
+C00473,Rakesh Pillai,Male,Chennai,Tamil Nadu,26,11-09-2025,Silver
+C00474,Meera Subramaniam,Female,Ahmedabad,Gujarat,18,13-10-2023,Silver
+C00475,Sunil Mukherjee,Male,Dehradun,Uttarakhand,37,01-07-2019,Gold
+C00476,Varun Khanna,Male,Ahmedabad,Gujarat,39,22-01-2025,Gold
+C00477,Rachna Iyer,Female,Raipur,Chhattisgarh,60,27-09-2019,Silver
+C00478,Sapna Dutta,Female,Kolkata,West Bengal,25,27-09-2025,Bronze
+C00479,Tanvi Malhotra,Female,Nagpur,Maharashtra,21,24-02-2021,Bronze
+C00480,Mahesh Pillai,Male,Indore,Madhya Pradesh,25,23-10-2019,Bronze
+C00481,Deepika Chatterjee,Female,Rajkot,Gujarat,28,02-04-2024,Bronze
+C00482,Vivek Fernandes,Male,Gaya,Bihar,23,19-05-2026,Silver
+C00483,Myra Rathore,Female,Gaya,Bihar,45,24-06-2023,Bronze
+C00484,Ananya Mukherjee,Female,Bengaluru,Karnataka,59,17-03-2021,Silver
+C00485,Juhi Mehta,Female,Bengaluru,Karnataka,26,20-05-2026,Bronze
+C00486,Priya Desai,Female,Kanpur,Uttar Pradesh,29,26-02-2025,Silver
+C00487,Reyansh Gill,Male,Panaji,Goa,37,29-04-2026,Silver
+C00488,Pooja Rathore,Female,Lucknow,Uttar Pradesh,38,01-08-2020,Bronze
+C00489,Divya Mehta,Female,Nashik,Maharashtra,20,16-03-2019,Silver
+C00490,Kavya Malhotra,Female,Gaya,Bihar,45,09-08-2023,Gold
+C00491,Falguni Chawla,Female,Ranchi,Jharkhand,23,05-08-2019,Silver
+C00492,Ishaan Yadav,Male,Ranchi,Jharkhand,43,03-01-2019,Platinum
+C00493,Simran Chopra,Female,Kolkata,West Bengal,64,06-03-2022,Bronze
+C00494,Priya Desai,Female,Delhi,Delhi,60,15-08-2018,Silver
+C00495,Kiran Singh,Female,Indore,Madhya Pradesh,18,21-06-2025,Platinum
+C00496,Girish Iyer,Male,Varanasi,Uttar Pradesh,36,18-01-2018,Silver
+C00497,Deepika Chopra,Female,Patna,Bihar,23,01-02-2024,Bronze
+C00498,Asha Bansal,Female,Ranchi,Jharkhand,27,02-07-2022,Platinum
+C00499,Vihaan Pillai,Male,Raipur,Chhattisgarh,39,31-10-2024,Silver
+C00500,Radha Tiwari,Female,Cuttack,Odisha,59,15-07-2019,Bronze
+C00501,Aditi Chauhan,Female,Pune,Maharashtra,30,30-06-2020,Silver
+C00502,Madhuri Patel,Female,Coimbatore,Tamil Nadu,60,29-06-2024,Bronze
+C00503,Radha Agarwal,Female,Ahmedabad,Gujarat,54,13-12-2022,Bronze
+C00504,Vikram Iyengar,Male,Warangal,Telangana,53,30-05-2026,Bronze
+C00505,Juhi Reddy,Female,Warangal,Telangana,51,08-07-2025,Bronze
+C00506,Anjali Jain,Female,Gwalior,Madhya Pradesh,32,26-01-2024,Silver
+C00507,Alok Dubey,Male,Kozhikode,Kerala,54,25-11-2018,Gold
+C00508,Pankaj Nair,Male,Chandigarh,Chandigarh,53,09-09-2023,Silver
+C00509,Rakesh Pillai,Male,Chandigarh,Chandigarh,24,28-02-2023,Gold
+C00510,Bhavna Iyer,Female,Warangal,Telangana,54,01-05-2023,Gold
+C00511,Gaurav Pinto,Male,Guwahati,Assam,21,15-07-2022,Bronze
+C00512,Ishita Sharma,Female,Dehradun,Uttarakhand,56,22-05-2020,Silver
+C00513,Ramesh Nair,Male,Bhopal,Madhya Pradesh,23,19-12-2024,Platinum
+C00514,Siddharth Rao,Male,Panaji,Goa,40,20-11-2019,Bronze
+C00515,Rachna Dsouza,Female,Raipur,Chhattisgarh,18,13-11-2020,Bronze
+C00516,Isha Dsouza,Female,Ludhiana,Punjab,40,04-02-2026,Silver
+C00517,Myra Mukherjee,Female,Kochi,Kerala,38,06-10-2024,Bronze
+C00518,Suresh Mukherjee,Male,Warangal,Telangana,62,04-01-2023,Bronze
+C00519,Anika Gill,Female,Pune,Maharashtra,49,29-03-2019,Bronze
+C00520,Pooja Menon,Female,Kochi,Kerala,36,15-09-2025,Silver
+C00521,Varun Shah,Male,Amritsar,Punjab,62,05-01-2021,Platinum
+C00522,Vivaan Banerjee,Male,Coimbatore,Tamil Nadu,49,18-08-2023,Silver
+C00523,Aditya Singh,Male,Hyderabad,Telangana,57,25-03-2025,Silver
+C00524,Simran Iyer,Female,Dehradun,Uttarakhand,46,31-05-2022,Bronze
+C00525,Gaurav Banerjee,Male,Ludhiana,Punjab,31,28-06-2021,Gold
+C00526,Amit Iyer,Male,Kanpur,Uttar Pradesh,64,31-03-2023,Bronze
+C00527,Lakshmi Mukherjee,Female,Udaipur,Rajasthan,18,06-10-2021,Silver
+C00528,Anjali Verma,Female,Ahmedabad,Gujarat,47,29-10-2024,Bronze
+C00529,Girish Thakur,Male,Coimbatore,Tamil Nadu,35,24-04-2022,Bronze
+C00530,Sneha Khanna,Female,Thiruvananthapuram,Kerala,51,21-07-2024,Platinum
+C00531,Tarun Pinto,Male,Mysuru,Karnataka,30,12-10-2022,Silver
+C00532,Gaurav Gill,Male,Rajkot,Gujarat,68,02-09-2020,Gold
+C00533,Vinod Singh,Male,Jaipur,Rajasthan,66,30-10-2021,Gold
+C00534,Nikhil Jain,Male,Shimla,Himachal Pradesh,43,01-10-2021,Bronze
+C00535,Komal Bose,Female,Gurugram,Haryana,48,26-08-2023,Bronze
+C00536,Rajesh Mukherjee,Male,Coimbatore,Tamil Nadu,26,21-04-2020,Bronze
+C00537,Geeta Yadav,Female,Agra,Uttar Pradesh,54,23-05-2021,Platinum
+C00538,Rohan Pillai,Male,Panaji,Goa,37,29-10-2020,Gold
+C00539,Aadhya Chopra,Female,Kozhikode,Kerala,23,23-07-2024,Bronze
+C00540,Kritika Mukherjee,Female,Faridabad,Haryana,62,21-10-2022,Gold
+C00541,Harsh Bose,Male,Hyderabad,Telangana,35,20-11-2020,Silver
+C00542,Rakesh Joshi,Male,Ahmedabad,Gujarat,63,24-03-2018,Bronze
+C00543,Usha Chopra,Female,Palakkad,Kerala,36,18-08-2023,Silver
+C00544,Rajesh Pillai,Male,Nashik,Maharashtra,26,27-09-2024,Bronze
+C00545,Siddharth Banerjee,Male,Panaji,Goa,26,21-01-2018,Bronze
+C00546,Rakesh Bose,Male,Pune,Maharashtra,31,10-08-2021,Bronze
+C00547,Sunil Pandey,Male,Agra,Uttar Pradesh,57,13-08-2025,Gold
+C00548,Vihaan Ghosh,Male,Gurugram,Haryana,20,24-12-2018,Silver
+C00549,Sapna Pandey,Female,Palakkad,Kerala,43,18-11-2020,Platinum
+C00550,Vivaan Bose,Male,Thiruvananthapuram,Kerala,59,07-07-2021,Bronze
+C00551,Neha Patel,Female,Pune,Maharashtra,27,12-05-2020,Bronze
+C00552,Nikhil Chatterjee,Male,Bhopal,Madhya Pradesh,40,16-01-2024,Silver
+C00553,Prakash Arora,Male,Thiruvananthapuram,Kerala,39,31-07-2020,Gold
+C00554,Nandini Tiwari,Female,Vijayawada,Andhra Pradesh,20,05-04-2025,Bronze
+C00555,Charu Joshi,Female,Kanpur,Uttar Pradesh,51,10-12-2023,Platinum
+C00556,Suresh Sharma,Male,Kochi,Kerala,48,13-02-2019,Silver
+C00557,Priya Chauhan,Female,Siliguri,West Bengal,43,26-06-2026,Platinum
+C00558,Ankit Nair,Male,Hubli,Karnataka,21,04-02-2024,Silver
+C00559,Suresh Arora,Male,Kanpur,Uttar Pradesh,65,04-09-2019,Gold
+C00560,Kunal Verma,Male,Lucknow,Uttar Pradesh,67,16-12-2025,Bronze
+C00561,Sunita Chauhan,Female,Lucknow,Uttar Pradesh,69,13-05-2022,Silver
+C00562,Tara Verma,Female,Mysuru,Karnataka,60,23-03-2026,Bronze
+C00563,Lata Mukherjee,Female,Nashik,Maharashtra,32,29-04-2024,Bronze
+C00564,Komal Chauhan,Female,Siliguri,West Bengal,19,28-10-2020,Bronze
+C00565,Meera Kapoor,Female,Lucknow,Uttar Pradesh,31,28-08-2021,Gold
+C00566,Nisha Pandey,Female,Kolkata,West Bengal,54,04-10-2019,Silver
+C00567,Rachna Nair,Female,Jaipur,Rajasthan,36,29-12-2018,Bronze
+C00568,Meera Iyer,Female,Udaipur,Rajasthan,61,04-11-2024,Silver
+C00569,Sunita Chawla,Female,Nashik,Maharashtra,68,09-05-2020,Gold
+C00570,Ishita Pinto,Female,Faridabad,Haryana,46,17-01-2020,Silver
+C00571,Sanjay Naidu,Male,Pune,Maharashtra,69,02-04-2019,Bronze
+C00572,Ishaan Pillai,Male,Coimbatore,Tamil Nadu,50,03-04-2026,Bronze
+C00573,Vivek Naidu,Male,Agra,Uttar Pradesh,23,24-08-2022,Bronze
+C00574,Kiran Gupta,Female,Kozhikode,Kerala,33,04-04-2020,Gold
+C00575,Aditya Nair,Male,Chandigarh,Chandigarh,56,06-08-2020,Silver
+C00576,Girish Verma,Male,Nashik,Maharashtra,38,22-09-2018,Gold
+C00577,Harsh Nair,Male,Ludhiana,Punjab,45,11-01-2018,Bronze
+C00578,Rakesh Dsouza,Male,Amritsar,Punjab,50,06-04-2019,Silver
+C00579,Aadhya Mukherjee,Female,Kolkata,West Bengal,32,15-03-2026,Bronze
+C00580,Aarav Shah,Male,Vadodara,Gujarat,22,26-06-2018,Bronze
+C00581,Ashok Gill,Male,Kochi,Kerala,41,30-12-2020,Bronze
+C00582,Sunil Mishra,Male,Amritsar,Punjab,36,26-02-2024,Bronze
+C00583,Pallavi Subramaniam,Female,Vadodara,Gujarat,43,25-09-2022,Bronze
+C00584,Lakshmi Menon,Female,Varanasi,Uttar Pradesh,66,28-04-2022,Gold
+C00585,Rakesh Sharma,Male,Ahmedabad,Gujarat,56,15-08-2023,Platinum
+C00586,Madhuri Sethi,Female,Panaji,Goa,42,13-09-2020,Gold
+C00587,Sai Sethi,Male,Gurugram,Haryana,20,13-01-2026,Bronze
+C00588,Lata Rathore,Female,Indore,Madhya Pradesh,53,29-06-2025,Bronze
+C00589,Yash Dsouza,Male,Bhubaneswar,Odisha,48,21-09-2023,Bronze
+C00590,Meera Chauhan,Female,Gurugram,Haryana,65,01-04-2022,Bronze
+C00591,Sandeep Agarwal,Male,Vadodara,Gujarat,57,25-05-2025,Silver
+C00592,Aadhya Chauhan,Female,Amritsar,Punjab,60,03-07-2020,Platinum
+C00593,Divya Tiwari,Female,Panaji,Goa,40,09-11-2023,Silver
+C00594,Rohan Singh,Male,Vijayawada,Andhra Pradesh,51,31-01-2022,Silver
+C00595,Gaurav Mehta,Male,Raipur,Chhattisgarh,29,17-09-2019,Gold
+C00596,Pooja Chauhan,Female,Bhubaneswar,Odisha,20,11-08-2021,Bronze
+C00597,Anika Ghosh,Female,Coimbatore,Tamil Nadu,62,27-10-2020,Bronze
+C00598,Sneha Thakur,Female,Ludhiana,Punjab,51,23-05-2021,Silver
+C00599,Manoj Dutta,Male,Rajkot,Gujarat,46,17-10-2025,Bronze
+C00600,Om Iyengar,Female,Vijayawada,Andhra Pradesh,51,06-09-2019,Bronze
+C00601,Gaurav Pandey,Male,Ludhiana,Punjab,60,31-08-2020,Silver
+C00602,Lakshmi Shah,Female,Pune,Maharashtra,53,02-04-2020,Bronze
+C00603,Kavya Chawla,Female,Hyderabad,Telangana,37,20-01-2026,Silver
+C00604,Divya Mehta,Female,Surat,Gujarat,46,10-01-2019,Silver
+C00605,Sara Chopra,Female,Chennai,Tamil Nadu,45,04-04-2021,Silver
+C00606,Ishita Subramaniam,Female,Indore,Madhya Pradesh,42,12-02-2022,Bronze
+C00607,Rekha Sen,Female,Bhubaneswar,Odisha,56,17-11-2020,Bronze
+C00608,Esha Nair,Female,Guwahati,Assam,30,25-12-2025,Silver
+C00609,Prakash Malhotra,Male,Jodhpur,Rajasthan,22,24-11-2018,Gold
+C00610,Geeta Agarwal,Female,Noida,Uttar Pradesh,49,18-03-2025,Gold
+C00611,Reyansh Chawla,Male,Thiruvananthapuram,Kerala,47,09-03-2023,Silver
+C00612,Rekha Tiwari,Female,Hyderabad,Telangana,22,07-12-2022,Bronze
+C00613,Dhruv Fernandes,Male,Mumbai,Maharashtra,60,09-08-2020,Gold
+C00614,Bhavna Gupta,Female,Raipur,Chhattisgarh,36,18-03-2024,Bronze
+C00615,Sapna Mishra,Female,Hubli,Karnataka,23,23-06-2020,Gold
+C00616,Reyansh Pandey,Male,Bengaluru,Karnataka,66,02-06-2020,Silver
+C00617,Vinod Chopra,Male,Shimla,Himachal Pradesh,39,01-06-2023,Gold
+C00618,Esha Nair,Female,Noida,Uttar Pradesh,70,25-07-2018,Gold
+C00619,Ravi Banerjee,Male,Warangal,Telangana,51,25-01-2018,Bronze
+C00620,Aditi Shah,Female,Bengaluru,Karnataka,38,21-04-2022,Bronze
+C00621,Charu Dutta,Female,Chandigarh,Chandigarh,44,21-08-2025,Bronze
+C00622,Meera Das,Female,Bhopal,Madhya Pradesh,52,19-11-2020,Bronze
+C00623,Vihaan Malhotra,Male,Amritsar,Punjab,59,12-03-2022,Platinum
+C00624,Nandini Chawla,Female,Coimbatore,Tamil Nadu,41,31-10-2021,Bronze
+C00625,Girish Bose,Male,Mumbai,Maharashtra,52,05-10-2018,Silver
+C00626,Ishita Joshi,Female,Siliguri,West Bengal,68,04-12-2022,Bronze
+C00627,Varun Sethi,Male,Gwalior,Madhya Pradesh,43,01-03-2026,Silver
+C00628,Vihaan Iyengar,Male,Bhopal,Madhya Pradesh,58,25-05-2019,Bronze
+C00629,Mohit Pandey,Male,Hyderabad,Telangana,18,02-02-2026,Silver
+C00630,Harsh Kapoor,Male,Raipur,Chhattisgarh,64,27-07-2025,Gold
+C00631,Abhishek Iyer,Male,Coimbatore,Tamil Nadu,67,08-01-2026,Bronze
+C00632,Vivek Reddy,Male,Warangal,Telangana,68,10-01-2019,Platinum
+C00633,Anjali Thakur,Female,Surat,Gujarat,63,18-12-2022,Silver
+C00634,Vihaan Krishnan,Male,Chennai,Tamil Nadu,20,18-10-2019,Gold
+C00635,Rachna Kapoor,Female,Kozhikode,Kerala,69,29-07-2021,Silver
+C00636,Sanjay Shah,Male,Udaipur,Rajasthan,53,28-05-2020,Bronze
+C00637,Sandeep Gupta,Male,Udaipur,Rajasthan,42,01-10-2019,Silver
+C00638,Sunil Bansal,Male,Dehradun,Uttarakhand,23,22-03-2020,Silver
+C00639,Naveen Banerjee,Male,Raipur,Chhattisgarh,43,14-04-2019,Bronze
+C00640,Anika Thakur,Female,Kolkata,West Bengal,59,18-11-2023,Silver
+C00641,Tanvi Mukherjee,Female,Pune,Maharashtra,66,27-07-2023,Gold
+C00642,Rahul Pandey,Male,Vadodara,Gujarat,37,14-09-2024,Silver
+C00643,Rahul Nair,Male,Patna,Bihar,35,19-07-2020,Silver
+C00644,Ishita Chawla,Female,Palakkad,Kerala,24,06-01-2018,Bronze
+C00645,Prakash Pillai,Male,Nashik,Maharashtra,29,26-09-2021,Bronze
+C00646,Meera Banerjee,Female,Visakhapatnam,Andhra Pradesh,41,03-01-2020,Bronze
+C00647,Aadhya Pillai,Female,Kochi,Kerala,47,27-01-2019,Gold
+C00648,Karan Arora,Male,Agra,Uttar Pradesh,47,28-05-2018,Bronze
+C00649,Ashok Rathore,Male,Dehradun,Uttarakhand,26,29-08-2022,Silver
+C00650,Aadhya Chatterjee,Female,Panaji,Goa,60,27-03-2026,Bronze
+C00651,Prakash Patel,Male,Jodhpur,Rajasthan,18,25-03-2025,Gold
+C00652,Nisha Menon,Female,Surat,Gujarat,24,13-03-2019,Gold
+C00653,Rohan Pandey,Male,Vadodara,Gujarat,52,26-01-2024,Bronze
+C00654,Meera Iyer,Female,Thiruvananthapuram,Kerala,52,22-06-2018,Silver
+C00655,Kavita Desai,Female,Agra,Uttar Pradesh,53,13-04-2020,Platinum
+C00656,Girish Bansal,Male,Chandigarh,Chandigarh,33,25-01-2019,Bronze
+C00657,Harsh Gill,Male,Gurugram,Haryana,62,25-05-2024,Bronze
+C00658,Sai Fernandes,Male,Madurai,Tamil Nadu,27,18-12-2020,Platinum
+C00659,Geeta Sethi,Female,Ludhiana,Punjab,25,10-04-2021,Silver
+C00660,Sai Thakur,Male,Kozhikode,Kerala,31,16-08-2020,Bronze
+C00661,Rajesh Singh,Male,Palakkad,Kerala,39,06-02-2019,Bronze
+C00662,Sanjay Banerjee,Male,Bengaluru,Karnataka,69,07-03-2023,Silver
+C00663,Aarav Bose,Male,Noida,Uttar Pradesh,68,26-07-2022,Bronze
+C00664,Rohan Pillai,Male,Chandigarh,Chandigarh,61,16-11-2019,Bronze
+C00665,Sapna Nair,Female,Kolkata,West Bengal,30,18-06-2020,Silver
+C00666,Aarav Gill,Male,Patna,Bihar,20,31-07-2023,Silver
+C00667,Aadhya Fernandes,Female,Palakkad,Kerala,58,14-09-2018,Bronze
+C00668,Gaurav Gill,Male,Noida,Uttar Pradesh,23,20-04-2025,Silver
+C00669,Esha Iyer,Female,Gaya,Bihar,61,12-05-2026,Silver
+C00670,Madhuri Pillai,Female,Nashik,Maharashtra,65,25-03-2023,Gold
+C00671,Naveen Das,Male,Ranchi,Jharkhand,68,03-10-2023,Bronze
+C00672,Arjun Gill,Male,Gurugram,Haryana,69,29-10-2020,Gold
+C00673,Rajesh Chopra,Male,Kozhikode,Kerala,47,19-04-2024,Bronze
+C00674,Deepika Naidu,Female,Shimla,Himachal Pradesh,21,25-05-2022,Silver
+C00675,Tara Chauhan,Female,Raipur,Chhattisgarh,67,04-11-2021,Gold
+C00676,Sara Kapoor,Female,Bhubaneswar,Odisha,61,22-10-2021,Silver
+C00677,Tara Pillai,Female,Mumbai,Maharashtra,37,27-06-2023,Silver
+C00678,Yash Ghosh,Male,Noida,Uttar Pradesh,56,11-05-2021,Silver
+C00679,Bhavna Malhotra,Female,Bengaluru,Karnataka,40,02-06-2022,Gold
+C00680,Deepak Banerjee,Male,Bengaluru,Karnataka,35,07-02-2020,Silver
+C00681,Rekha Thakur,Female,Amritsar,Punjab,69,17-09-2020,Bronze
+C00682,Ajay Iyengar,Male,Varanasi,Uttar Pradesh,35,24-09-2021,Platinum
+C00683,Neha Kapoor,Female,Lucknow,Uttar Pradesh,70,04-11-2024,Gold
+C00684,Nisha Pandey,Female,Udaipur,Rajasthan,50,20-10-2024,Bronze
+C00685,Sandeep Agarwal,Male,Mumbai,Maharashtra,18,20-12-2019,Bronze
+C00686,Vivek Khanna,Male,Cuttack,Odisha,34,06-04-2026,Bronze
+C00687,Tarun Dsouza,Male,Vijayawada,Andhra Pradesh,50,21-06-2025,Bronze
+C00688,Komal Ghosh,Female,Delhi,Delhi,50,30-12-2024,Bronze
+C00689,Shreya Chatterjee,Female,Jaipur,Rajasthan,60,15-12-2025,Silver
+C00690,Aditi Naidu,Female,Nashik,Maharashtra,59,03-08-2023,Silver
+C00691,Vihaan Naidu,Male,Hubli,Karnataka,53,25-03-2022,Silver
+C00692,Girish Arora,Male,Visakhapatnam,Andhra Pradesh,47,24-05-2018,Platinum
+C00693,Riya Sharma,Female,Vadodara,Gujarat,27,08-02-2020,Silver
+C00694,Sandeep Iyengar,Male,Visakhapatnam,Andhra Pradesh,55,12-03-2025,Platinum
+C00695,Deepak Pinto,Male,Amritsar,Punjab,19,20-09-2022,Silver
+C00696,Juhi Patel,Female,Raipur,Chhattisgarh,58,08-04-2022,Silver
+C00697,Madhuri Joshi,Female,Udaipur,Rajasthan,28,13-06-2024,Silver
+C00698,Abhishek Mukherjee,Male,Chennai,Tamil Nadu,30,15-10-2023,Gold
+C00699,Karan Pillai,Male,Visakhapatnam,Andhra Pradesh,51,01-12-2019,Silver
+C00700,Varun Pillai,Male,Varanasi,Uttar Pradesh,67,15-01-2022,Platinum
+C00701,Manoj Pillai,Male,Patna,Bihar,30,17-12-2024,Bronze
+C00702,Geeta Reddy,Female,Raipur,Chhattisgarh,34,21-01-2022,Bronze
+C00703,Tara Tiwari,Female,Vadodara,Gujarat,25,15-04-2020,Platinum
+C00704,Isha Ghosh,Female,Ranchi,Jharkhand,28,13-07-2021,Bronze
+C00705,Rachna Bansal,Female,Patna,Bihar,60,07-04-2024,Gold
+C00706,Rachna Singh,Female,Vadodara,Gujarat,43,25-01-2022,Silver
+C00707,Aditi Desai,Female,Ranchi,Jharkhand,25,29-11-2020,Silver
+C00708,Aditya Bansal,Male,Dehradun,Uttarakhand,54,05-06-2021,Bronze
+C00709,Divya Mehta,Female,Delhi,Delhi,53,30-01-2019,Gold
+C00710,Nandini Rao,Female,Jaipur,Rajasthan,28,25-03-2025,Bronze
+C00711,Rohit Dutta,Male,Agra,Uttar Pradesh,68,30-04-2026,Gold
+C00712,Geeta Pandey,Female,Jodhpur,Rajasthan,40,31-01-2020,Silver
+C00713,Abhishek Dsouza,Male,Ludhiana,Punjab,44,04-07-2025,Platinum
+C00714,Riya Malhotra,Female,Jodhpur,Rajasthan,61,28-09-2018,Platinum
+C00715,Dhruv Sharma,Male,Thiruvananthapuram,Kerala,60,22-08-2020,Silver
+C00716,Sunita Khanna,Female,Panaji,Goa,35,15-08-2025,Gold
+C00717,Rohan Kapoor,Male,Cuttack,Odisha,66,04-09-2020,Silver
+C00718,Ishita Dsouza,Female,Bhubaneswar,Odisha,42,23-03-2021,Bronze
+C00719,Gauri Joshi,Female,Shimla,Himachal Pradesh,22,07-10-2024,Silver
+C00720,Falguni Malhotra,Female,Siliguri,West Bengal,37,20-01-2019,Bronze
+C00721,Gaurav Verma,Male,Dehradun,Uttarakhand,51,23-10-2018,Bronze
+C00722,Sunita Sharma,Female,Gwalior,Madhya Pradesh,58,23-07-2019,Silver
+C00723,Pankaj Chawla,Male,Kochi,Kerala,56,13-05-2018,Bronze
+C00724,Anika Tiwari,Female,Siliguri,West Bengal,36,22-01-2025,Platinum
+C00725,Aditi Khanna,Female,Siliguri,West Bengal,31,29-03-2024,Gold
+C00726,Deepak Khanna,Male,Amritsar,Punjab,63,05-05-2018,Bronze
+C00727,Vivaan Dubey,Male,Vadodara,Gujarat,45,14-03-2022,Bronze
+C00728,Om Patel,Female,Kozhikode,Kerala,25,27-06-2022,Bronze
+C00729,Anjali Thakur,Female,Nashik,Maharashtra,69,02-03-2022,Platinum
+C00730,Komal Shah,Female,Delhi,Delhi,59,12-05-2023,Silver
+C00731,Kritika Naidu,Female,Shimla,Himachal Pradesh,57,06-02-2023,Bronze
+C00732,Krishna Dutta,Male,Madurai,Tamil Nadu,36,06-03-2020,Bronze
+C00733,Pankaj Pinto,Male,Warangal,Telangana,68,22-11-2025,Gold
+C00734,Kavita Jain,Female,Vijayawada,Andhra Pradesh,62,28-04-2021,Gold
+C00735,Alok Pillai,Male,Guwahati,Assam,64,06-03-2018,Bronze
+C00736,Ashok Sharma,Male,Bhubaneswar,Odisha,64,20-05-2026,Silver
+C00737,Charu Mukherjee,Female,Ranchi,Jharkhand,28,04-05-2024,Silver
+C00738,Nisha Reddy,Female,Nagpur,Maharashtra,65,19-12-2019,Silver
+C00739,Diya Subramaniam,Female,Gwalior,Madhya Pradesh,67,23-02-2019,Bronze
+C00740,Gaurav Pinto,Male,Patna,Bihar,49,05-12-2018,Gold
+C00741,Simran Nair,Female,Mysuru,Karnataka,51,26-04-2024,Bronze
+C00742,Sunita Mukherjee,Female,Surat,Gujarat,60,28-03-2018,Platinum
+C00743,Ramesh Joshi,Male,Ludhiana,Punjab,45,19-03-2026,Gold
+C00744,Naveen Nair,Male,Chennai,Tamil Nadu,18,01-04-2019,Bronze
+C00745,Diya Sharma,Female,Gurugram,Haryana,23,15-03-2023,Gold
+C00746,Siddharth Bansal,Male,Delhi,Delhi,38,18-10-2021,Silver
+C00747,Tanvi Pinto,Female,Ranchi,Jharkhand,31,31-01-2018,Bronze
+C00748,Lakshmi Reddy,Female,Mysuru,Karnataka,55,02-06-2019,Platinum
+C00749,Kritika Khanna,Female,Kozhikode,Kerala,58,08-09-2025,Silver
+C00750,Rachna Singh,Female,Thiruvananthapuram,Kerala,64,24-01-2026,Bronze
+C00751,Neha Dutta,Female,Bhubaneswar,Odisha,61,02-01-2026,Platinum
+C00752,Madhuri Tiwari,Female,Palakkad,Kerala,27,30-04-2019,Gold
+C00753,Aadhya Krishnan,Female,Ahmedabad,Gujarat,69,25-07-2020,Bronze
+C00754,Rakesh Dsouza,Male,Visakhapatnam,Andhra Pradesh,59,06-06-2018,Bronze
+C00755,Aarav Gupta,Male,Gwalior,Madhya Pradesh,21,05-07-2022,Bronze
+C00756,Rohit Naidu,Male,Nagpur,Maharashtra,53,28-02-2025,Silver
+C00757,Divya Gupta,Female,Coimbatore,Tamil Nadu,47,16-03-2018,Silver
+C00758,Puneet Subramaniam,Male,Mysuru,Karnataka,29,10-08-2019,Gold
+C00759,Ankit Dubey,Male,Udaipur,Rajasthan,24,20-09-2023,Gold
+C00760,Ananya Singh,Female,Pune,Maharashtra,53,09-04-2025,Gold
+C00761,Ramesh Kumar,Male,Cuttack,Odisha,52,24-11-2024,Bronze
+C00762,Komal Sharma,Female,Kochi,Kerala,65,04-05-2020,Bronze
+C00763,Sunita Rao,Female,Shimla,Himachal Pradesh,59,01-04-2026,Bronze
+C00764,Anika Sethi,Female,Bengaluru,Karnataka,52,30-10-2023,Bronze
+C00765,Sai Pillai,Male,Ahmedabad,Gujarat,24,03-01-2019,Bronze
+C00766,Nisha Fernandes,Female,Rajkot,Gujarat,27,17-07-2023,Silver
+C00767,Sapna Chopra,Female,Mumbai,Maharashtra,23,04-11-2018,Bronze
+C00768,Kunal Das,Male,Gwalior,Madhya Pradesh,44,07-11-2024,Silver
+C00769,Puneet Pillai,Male,Vijayawada,Andhra Pradesh,68,23-11-2018,Gold
+C00770,Ramesh Pillai,Male,Pune,Maharashtra,60,20-08-2025,Bronze
+C00771,Kavya Iyengar,Female,Guwahati,Assam,36,15-12-2022,Bronze
+C00772,Suresh Gill,Male,Jaipur,Rajasthan,40,27-04-2018,Bronze
+C00773,Karan Yadav,Male,Madurai,Tamil Nadu,59,10-05-2025,Platinum
+C00774,Swati Mehta,Female,Mumbai,Maharashtra,44,12-01-2024,Bronze
+C00775,Abhishek Mukherjee,Male,Jodhpur,Rajasthan,18,05-09-2020,Gold
+C00776,Abhishek Iyer,Male,Mysuru,Karnataka,20,08-07-2021,Silver
+C00777,Radha Singh,Female,Amritsar,Punjab,25,20-02-2023,Bronze
+C00778,Sunil Thakur,Male,Amritsar,Punjab,33,28-07-2022,Platinum
+C00779,Sunil Malhotra,Male,Kolkata,West Bengal,36,20-06-2026,Gold
+C00780,Ramesh Shah,Male,Bhopal,Madhya Pradesh,63,30-04-2019,Platinum
+C00781,Ankit Yadav,Male,Guwahati,Assam,61,13-11-2019,Silver
+C00782,Rachna Dutta,Female,Ahmedabad,Gujarat,39,19-11-2020,Platinum
+C00783,Mahesh Malhotra,Male,Bhubaneswar,Odisha,34,07-12-2024,Platinum
+C00784,Sunil Singh,Male,Palakkad,Kerala,22,17-10-2025,Bronze
+C00785,Arjun Pillai,Male,Delhi,Delhi,52,01-03-2018,Bronze
+C00786,Rohan Jain,Male,Hubli,Karnataka,64,16-07-2023,Silver
+C00787,Sapna Yadav,Female,Hyderabad,Telangana,24,10-11-2020,Bronze
+C00788,Madhuri Krishnan,Female,Hyderabad,Telangana,46,03-03-2026,Gold
+C00789,Kiran Bose,Female,Kolkata,West Bengal,19,09-05-2022,Gold
+C00790,Reyansh Malhotra,Male,Lucknow,Uttar Pradesh,60,06-10-2021,Bronze
+C00791,Rahul Singh,Male,Bengaluru,Karnataka,28,24-05-2025,Silver
+C00792,Komal Shah,Female,Hyderabad,Telangana,20,12-08-2019,Silver
+C00793,Ajay Shah,Male,Bhubaneswar,Odisha,23,22-05-2024,Silver
+C00794,Arjun Desai,Male,Mumbai,Maharashtra,35,17-06-2019,Platinum
+C00795,Radha Bansal,Female,Panaji,Goa,29,21-07-2019,Bronze
+C00796,Radha Chatterjee,Female,Madurai,Tamil Nadu,51,09-06-2025,Bronze
+C00797,Karan Desai,Male,Vijayawada,Andhra Pradesh,42,04-05-2018,Bronze
+C00798,Vikram Fernandes,Male,Varanasi,Uttar Pradesh,41,13-09-2020,Silver
+C00799,Divya Sharma,Female,Nashik,Maharashtra,24,11-06-2025,Bronze
+C00800,Meera Desai,Female,Pune,Maharashtra,48,01-12-2022,Silver
+C00801,Vivek Jain,Male,Shimla,Himachal Pradesh,49,19-01-2019,Silver
+C00802,Simran Iyengar,Female,Siliguri,West Bengal,45,09-12-2022,Bronze
+C00803,Arjun Joshi,Male,Kanpur,Uttar Pradesh,46,06-04-2023,Bronze
+C00804,Charu Kumar,Female,Delhi,Delhi,50,29-06-2020,Silver
+C00805,Siddharth Sethi,Male,Varanasi,Uttar Pradesh,25,03-09-2018,Platinum
+C00806,Rajesh Agarwal,Male,Madurai,Tamil Nadu,50,19-07-2021,Bronze
+C00807,Yash Shah,Male,Gwalior,Madhya Pradesh,47,15-03-2026,Bronze
+C00808,Hina Bose,Female,Mysuru,Karnataka,31,23-02-2021,Silver
+C00809,Aadhya Rao,Female,Shimla,Himachal Pradesh,48,27-05-2023,Bronze
+C00810,Rakesh Rathore,Male,Chandigarh,Chandigarh,19,21-03-2025,Silver
+C00811,Abhishek Rathore,Male,Siliguri,West Bengal,67,06-08-2023,Silver
+C00812,Sunil Chatterjee,Male,Coimbatore,Tamil Nadu,42,11-08-2021,Gold
+C00813,Komal Rathore,Female,Hyderabad,Telangana,62,18-07-2020,Bronze
+C00814,Om Patel,Female,Indore,Madhya Pradesh,31,28-05-2018,Bronze
+C00815,Rahul Pillai,Male,Visakhapatnam,Andhra Pradesh,38,17-07-2024,Bronze
+C00816,Sandeep Verma,Male,Raipur,Chhattisgarh,28,21-02-2018,Bronze
+C00817,Anjali Singh,Female,Patna,Bihar,41,27-09-2023,Gold
+C00818,Lata Malhotra,Female,Guwahati,Assam,31,28-02-2020,Gold
+C00819,Sanjay Gill,Male,Gwalior,Madhya Pradesh,35,15-07-2020,Platinum
+C00820,Ishita Ghosh,Female,Hyderabad,Telangana,39,19-08-2022,Silver
+C00821,Siddharth Chatterjee,Male,Faridabad,Haryana,28,03-09-2020,Gold
+C00822,Rohan Arora,Male,Surat,Gujarat,56,04-02-2023,Silver
+C00823,Riya Shah,Female,Ahmedabad,Gujarat,53,09-05-2019,Bronze
+C00824,Priya Nair,Female,Ludhiana,Punjab,26,09-07-2024,Bronze
+C00825,Karan Kapoor,Male,Bhopal,Madhya Pradesh,28,25-11-2018,Silver
+C00826,Tara Ghosh,Female,Surat,Gujarat,54,03-06-2025,Bronze
+C00827,Alok Joshi,Male,Shimla,Himachal Pradesh,44,24-01-2019,Bronze
+C00828,Vivaan Desai,Male,Delhi,Delhi,36,14-06-2026,Platinum
+C00829,Ashok Singh,Male,Ludhiana,Punjab,42,14-05-2021,Gold
+C00830,Pankaj Mehta,Male,Gaya,Bihar,60,13-12-2023,Silver
+C00831,Aditi Jain,Female,Warangal,Telangana,45,08-11-2018,Silver
+C00832,Deepika Das,Female,Hyderabad,Telangana,62,13-11-2020,Silver
+C00833,Radha Agarwal,Female,Surat,Gujarat,61,28-10-2018,Silver
+C00834,Ankit Naidu,Male,Patna,Bihar,31,15-07-2025,Bronze
+C00835,Pankaj Tiwari,Male,Jodhpur,Rajasthan,61,14-12-2025,Platinum
+C00836,Vivek Bose,Male,Gurugram,Haryana,32,30-10-2022,Bronze
+C00837,Abhishek Ghosh,Male,Agra,Uttar Pradesh,26,19-05-2026,Bronze
+C00838,Lakshmi Thakur,Female,Gaya,Bihar,67,03-02-2022,Bronze
+C00839,Rakesh Malhotra,Male,Vadodara,Gujarat,25,27-05-2018,Silver
+C00840,Gauri Ghosh,Female,Bhubaneswar,Odisha,22,08-04-2023,Silver
+C00841,Deepika Bansal,Female,Lucknow,Uttar Pradesh,40,25-11-2025,Gold
+C00842,Pooja Tiwari,Female,Dehradun,Uttarakhand,19,02-08-2025,Silver
+C00843,Sandeep Chatterjee,Male,Hubli,Karnataka,58,11-04-2021,Gold
+C00844,Rakesh Mehta,Male,Shimla,Himachal Pradesh,55,15-03-2020,Bronze
+C00845,Juhi Shah,Female,Madurai,Tamil Nadu,70,23-09-2018,Silver
+C00846,Rahul Sharma,Male,Palakkad,Kerala,52,16-08-2022,Gold
+C00847,Diya Singh,Female,Mumbai,Maharashtra,29,18-12-2018,Silver
+C00848,Aryan Kapoor,Male,Hyderabad,Telangana,34,22-12-2025,Gold
+C00849,Vivaan Verma,Male,Hubli,Karnataka,23,29-12-2018,Platinum
+C00850,Yash Banerjee,Male,Delhi,Delhi,51,30-11-2021,Bronze
+C00851,Pallavi Tiwari,Female,Surat,Gujarat,39,14-08-2018,Platinum
+C00852,Neha Shah,Female,Bengaluru,Karnataka,22,31-12-2024,Bronze
+C00853,Riya Gill,Female,Panaji,Goa,39,31-10-2021,Silver
+C00854,Rahul Arora,Male,Kochi,Kerala,69,29-07-2018,Gold
+C00855,Lakshmi Desai,Female,Shimla,Himachal Pradesh,19,28-07-2020,Bronze
+C00856,Yash Reddy,Male,Delhi,Delhi,55,16-09-2019,Bronze
+C00857,Kritika Gill,Female,Siliguri,West Bengal,57,18-01-2019,Gold
+C00858,Deepika Sen,Female,Chennai,Tamil Nadu,18,29-02-2020,Platinum
+C00859,Reyansh Chauhan,Male,Gwalior,Madhya Pradesh,33,03-06-2026,Bronze
+C00860,Aditi Bansal,Female,Jodhpur,Rajasthan,64,22-08-2018,Bronze
+C00861,Vikram Dubey,Male,Rajkot,Gujarat,31,05-03-2025,Silver
+C00862,Gauri Chopra,Female,Hyderabad,Telangana,31,28-06-2021,Platinum
+C00863,Riya Iyer,Female,Nashik,Maharashtra,32,12-03-2023,Gold
+C00864,Geeta Bose,Female,Ludhiana,Punjab,64,08-06-2021,Bronze
+C00865,Sara Desai,Female,Nashik,Maharashtra,38,06-10-2023,Bronze
+C00866,Rakesh Mehta,Male,Gwalior,Madhya Pradesh,19,20-03-2020,Bronze
+C00867,Lata Subramaniam,Female,Patna,Bihar,51,26-06-2021,Gold
+C00868,Prakash Singh,Male,Guwahati,Assam,42,27-11-2022,Silver
+C00869,Komal Dubey,Female,Siliguri,West Bengal,46,27-07-2021,Gold
+C00870,Sapna Subramaniam,Female,Kanpur,Uttar Pradesh,52,05-01-2023,Gold
+C00871,Gauri Kumar,Female,Mysuru,Karnataka,67,10-02-2023,Bronze
+C00872,Riya Gupta,Female,Kochi,Kerala,26,16-09-2018,Silver
+C00873,Sanjay Thakur,Male,Delhi,Delhi,66,29-05-2025,Gold
+C00874,Aditi Patel,Female,Coimbatore,Tamil Nadu,43,27-10-2025,Bronze
+C00875,Aditya Desai,Male,Faridabad,Haryana,60,08-07-2019,Silver
+C00876,Ravi Iyer,Male,Amritsar,Punjab,56,23-07-2022,Bronze
+C00877,Ajay Fernandes,Male,Bhopal,Madhya Pradesh,63,16-10-2021,Bronze
+C00878,Vivek Jain,Male,Hubli,Karnataka,23,29-11-2020,Platinum
+C00879,Simran Kapoor,Female,Hyderabad,Telangana,56,28-03-2021,Gold
+C00880,Nandini Chopra,Female,Panaji,Goa,68,15-06-2019,Gold
+C00881,Myra Dubey,Female,Jodhpur,Rajasthan,69,12-10-2020,Bronze
+C00882,Madhuri Menon,Female,Guwahati,Assam,38,07-07-2021,Bronze
+C00883,Lata Chopra,Female,Cuttack,Odisha,44,19-08-2018,Gold
+C00884,Siddharth Mukherjee,Male,Mumbai,Maharashtra,68,07-11-2020,Silver
+C00885,Ravi Kapoor,Male,Udaipur,Rajasthan,70,25-12-2020,Platinum
+C00886,Radha Sethi,Female,Lucknow,Uttar Pradesh,43,30-03-2022,Bronze
+C00887,Aarav Naidu,Male,Noida,Uttar Pradesh,66,17-02-2025,Gold
+C00888,Sunil Kumar,Male,Panaji,Goa,28,19-06-2026,Bronze
+C00889,Divya Dubey,Female,Bhubaneswar,Odisha,38,09-04-2022,Silver
+C00890,Riya Mehta,Female,Amritsar,Punjab,63,09-10-2021,Silver
+C00891,Nikhil Iyengar,Male,Udaipur,Rajasthan,67,24-07-2019,Gold
+C00892,Tarun Mishra,Male,Jodhpur,Rajasthan,48,07-03-2023,Gold
+C00893,Girish Banerjee,Male,Kanpur,Uttar Pradesh,33,20-09-2018,Bronze
+C00894,Diya Gill,Female,Pune,Maharashtra,32,24-02-2022,Bronze
+C00895,Harsh Dsouza,Male,Nashik,Maharashtra,30,08-03-2023,Silver
+C00896,Simran Das,Female,Jaipur,Rajasthan,58,02-02-2025,Gold
+C00897,Priyanka Mukherjee,Female,Panaji,Goa,37,16-04-2026,Gold
+C00898,Mohit Chawla,Male,Ludhiana,Punjab,22,06-06-2023,Silver
+C00899,Prakash Kapoor,Male,Kolkata,West Bengal,31,24-01-2022,Silver
+C00900,Sunil Khanna,Male,Nagpur,Maharashtra,47,17-08-2024,Silver
+C00901,Ramesh Nair,Male,Bhopal,Madhya Pradesh,23,23-01-2020,Silver
+C00902,Myra Kapoor,Female,Gurugram,Haryana,65,09-10-2024,Gold
+C00903,Gaurav Dsouza,Male,Bhopal,Madhya Pradesh,28,08-04-2022,Silver
+C00904,Ashok Chopra,Male,Udaipur,Rajasthan,37,09-09-2021,Silver
+C00905,Harsh Bansal,Male,Vijayawada,Andhra Pradesh,50,14-02-2018,Silver
+C00906,Mohit Das,Male,Kochi,Kerala,68,04-11-2019,Bronze
+C00907,Siddharth Chatterjee,Male,Nashik,Maharashtra,21,29-04-2020,Silver
+C00908,Dhruv Mishra,Male,Coimbatore,Tamil Nadu,53,24-05-2020,Bronze
+C00909,Diya Sen,Female,Chennai,Tamil Nadu,56,17-09-2025,Bronze
+C00910,Anjali Ghosh,Female,Kolkata,West Bengal,50,18-01-2025,Silver
+C00911,Rohit Sharma,Male,Jodhpur,Rajasthan,63,09-11-2019,Gold
+C00912,Abhishek Shah,Male,Siliguri,West Bengal,51,20-12-2019,Bronze
+C00913,Rahul Chawla,Male,Panaji,Goa,64,26-03-2019,Gold
+C00914,Manoj Sen,Male,Chandigarh,Chandigarh,21,24-06-2023,Platinum
+C00915,Sara Singh,Female,Gurugram,Haryana,53,07-08-2025,Silver
+C00916,Kritika Iyer,Female,Ranchi,Jharkhand,31,03-02-2024,Bronze
+C00917,Rahul Kapoor,Male,Madurai,Tamil Nadu,44,31-12-2021,Silver
+C00918,Nisha Iyer,Female,Ranchi,Jharkhand,31,30-12-2022,Bronze
+C00919,Varun Bose,Male,Hubli,Karnataka,50,27-04-2021,Bronze
+C00920,Usha Pinto,Female,Kozhikode,Kerala,49,22-04-2023,Platinum
+C00921,Aditi Chopra,Female,Patna,Bihar,55,16-09-2023,Bronze
+C00922,Vikram Singh,Male,Lucknow,Uttar Pradesh,62,20-04-2022,Platinum
+C00923,Myra Mukherjee,Female,Panaji,Goa,45,06-10-2021,Bronze
+C00924,Juhi Menon,Female,Gwalior,Madhya Pradesh,54,23-02-2024,Bronze
+C00925,Sneha Dubey,Female,Ranchi,Jharkhand,63,10-08-2025,Silver
+C00926,Gauri Pillai,Female,Madurai,Tamil Nadu,53,26-04-2025,Silver
+C00927,Vinod Menon,Male,Ranchi,Jharkhand,41,08-08-2025,Gold
+C00928,Esha Khanna,Female,Raipur,Chhattisgarh,32,24-10-2021,Gold
+C00929,Tarun Jain,Male,Agra,Uttar Pradesh,59,18-01-2020,Bronze
+C00930,Vivaan Sethi,Male,Udaipur,Rajasthan,69,19-05-2023,Silver
+C00931,Radha Agarwal,Female,Pune,Maharashtra,40,27-02-2024,Silver
+C00932,Hina Tiwari,Female,Hubli,Karnataka,39,08-11-2020,Bronze
+C00933,Diya Chatterjee,Female,Varanasi,Uttar Pradesh,22,26-01-2022,Gold
+C00934,Manoj Banerjee,Male,Rajkot,Gujarat,70,21-07-2023,Bronze
+C00935,Diya Singh,Female,Warangal,Telangana,31,01-09-2018,Gold
+C00936,Rohan Pillai,Male,Siliguri,West Bengal,32,24-08-2018,Silver
+C00937,Girish Pillai,Male,Mysuru,Karnataka,27,06-03-2024,Silver
+C00938,Rohit Menon,Male,Bhopal,Madhya Pradesh,30,13-06-2018,Gold
+C00939,Asha Patel,Female,Ranchi,Jharkhand,63,14-06-2026,Bronze
+C00940,Sanjay Gupta,Male,Bengaluru,Karnataka,21,20-10-2019,Bronze
+C00941,Ravi Subramaniam,Male,Dehradun,Uttarakhand,58,22-11-2019,Bronze
+C00942,Reyansh Iyengar,Male,Warangal,Telangana,56,06-01-2022,Silver
+C00943,Gaurav Rao,Male,Bhopal,Madhya Pradesh,38,21-05-2022,Silver
+C00944,Anjali Tiwari,Female,Pune,Maharashtra,61,01-12-2025,Gold
+C00945,Aryan Menon,Male,Gurugram,Haryana,40,08-01-2025,Gold
+C00946,Pankaj Agarwal,Male,Guwahati,Assam,61,18-05-2018,Gold
+C00947,Pankaj Yadav,Male,Pune,Maharashtra,56,07-02-2025,Bronze
+C00948,Isha Menon,Female,Nashik,Maharashtra,68,16-04-2024,Silver
+C00949,Pooja Krishnan,Female,Varanasi,Uttar Pradesh,28,30-09-2025,Silver
+C00950,Gaurav Ghosh,Male,Shimla,Himachal Pradesh,60,14-02-2020,Silver
+C00951,Kiran Tiwari,Female,Kozhikode,Kerala,57,23-10-2019,Bronze
+C00952,Kavita Joshi,Female,Kolkata,West Bengal,68,13-06-2025,Gold
+C00953,Varun Krishnan,Male,Udaipur,Rajasthan,38,16-03-2025,Gold
+C00954,Gauri Banerjee,Female,Madurai,Tamil Nadu,54,15-02-2024,Silver
+C00955,Sara Pandey,Female,Vijayawada,Andhra Pradesh,20,03-09-2019,Silver
+C00956,Siddharth Ghosh,Male,Rajkot,Gujarat,55,11-09-2023,Silver
+C00957,Sai Chawla,Male,Faridabad,Haryana,26,26-02-2019,Bronze
+C00958,Mohit Sen,Male,Indore,Madhya Pradesh,64,17-11-2020,Bronze
+C00959,Juhi Chatterjee,Female,Mysuru,Karnataka,20,16-07-2023,Gold
+C00960,Sunita Singh,Female,Bhubaneswar,Odisha,34,12-02-2021,Gold
+C00961,Dhruv Dubey,Male,Ludhiana,Punjab,45,30-05-2024,Silver
+C00962,Kritika Rathore,Female,Udaipur,Rajasthan,43,31-08-2025,Platinum
+C00963,Anika Gupta,Female,Visakhapatnam,Andhra Pradesh,27,15-08-2025,Bronze
+C00964,Nikhil Chauhan,Male,Varanasi,Uttar Pradesh,33,29-11-2020,Gold
+C00965,Pankaj Tiwari,Male,Pune,Maharashtra,23,02-12-2018,Gold
+C00966,Amit Mishra,Male,Palakkad,Kerala,48,22-01-2026,Bronze
+C00967,Kiran Arora,Female,Hyderabad,Telangana,26,27-03-2025,Gold
+C00968,Sunil Iyengar,Male,Chandigarh,Chandigarh,34,09-10-2021,Bronze
+C00969,Yash Gill,Male,Siliguri,West Bengal,34,29-11-2020,Gold
+C00970,Karan Sethi,Male,Jaipur,Rajasthan,67,16-09-2018,Silver
+C00971,Sunita Reddy,Female,Noida,Uttar Pradesh,48,05-07-2021,Silver
+C00972,Anjali Rathore,Female,Gwalior,Madhya Pradesh,48,11-12-2023,Platinum
+C00973,Neha Agarwal,Female,Raipur,Chhattisgarh,25,19-03-2024,Bronze
+C00974,Ishaan Tiwari,Male,Patna,Bihar,49,02-01-2021,Silver
+C00975,Tarun Pandey,Male,Vijayawada,Andhra Pradesh,55,07-09-2021,Bronze
+C00976,Gaurav Das,Male,Hubli,Karnataka,26,05-08-2023,Silver
+C00977,Lakshmi Khanna,Female,Kochi,Kerala,29,09-07-2021,Gold
+C00978,Sunita Mishra,Female,Hubli,Karnataka,36,08-02-2023,Silver
+C00979,Simran Chauhan,Female,Warangal,Telangana,52,16-06-2025,Silver
+C00980,Kavita Arora,Female,Warangal,Telangana,37,15-04-2021,Platinum
+C00981,Ramesh Chawla,Male,Delhi,Delhi,44,10-02-2018,Bronze
+C00982,Amit Dubey,Male,Chandigarh,Chandigarh,60,29-04-2019,Gold
+C00983,Prakash Rao,Male,Raipur,Chhattisgarh,36,17-02-2019,Platinum
+C00984,Manoj Kumar,Male,Bhopal,Madhya Pradesh,23,22-02-2021,Bronze
+C00985,Dhruv Ghosh,Male,Lucknow,Uttar Pradesh,63,11-08-2024,Silver
+C00986,Aarav Khanna,Male,Warangal,Telangana,29,07-07-2020,Bronze
+C00987,Manoj Chawla,Male,Visakhapatnam,Andhra Pradesh,50,18-08-2021,Silver
+C00988,Geeta Krishnan,Female,Pune,Maharashtra,22,09-09-2024,Gold
+C00989,Anika Dsouza,Female,Vadodara,Gujarat,50,29-08-2019,Silver
+C00990,Vivaan Kumar,Male,Bhopal,Madhya Pradesh,57,17-12-2023,Silver
+C00991,Gaurav Pillai,Male,Kanpur,Uttar Pradesh,53,01-07-2019,Bronze
+C00992,Divya Bansal,Female,Coimbatore,Tamil Nadu,28,10-10-2019,Bronze
+C00993,Varun Gill,Male,Hubli,Karnataka,28,20-06-2021,Silver
+C00994,Tarun Pandey,Male,Noida,Uttar Pradesh,47,05-02-2024,Gold
+C00995,Rajesh Sen,Male,Chennai,Tamil Nadu,33,27-06-2026,Bronze
+C00996,Meera Pinto,Female,Bengaluru,Karnataka,48,09-08-2024,Bronze
+C00997,Simran Fernandes,Female,Nagpur,Maharashtra,32,07-07-2025,Platinum
+C00998,Pankaj Dubey,Male,Ahmedabad,Gujarat,20,10-10-2024,Platinum
+C00999,Arjun Shah,Male,Bengaluru,Karnataka,67,20-09-2021,Gold
+C01000,Juhi Patel,Female,Bhopal,Madhya Pradesh,66,17-06-2021,Bronze

@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,SellingPrice
+P00001,Nestle Butter Standard 370,Grocery,Dairy,Nestle,52,79
+P00002,Amul Paneer Plus 665,Grocery,Dairy,Amul,180,259
+P00003,Nestle Yogurt Lite 821,Grocery,Dairy,Nestle,65,79
+P00004,Mother Dairy Butter Plus 975,Grocery,Dairy,Mother Dairy,149,219
+P00005,Britannia Butter Model X 750,Grocery,Dairy,Britannia,216,259
+P00006,Nestle Cheese Classic 818,Grocery,Dairy,Nestle,66,89
+P00007,Mother Dairy Yogurt Lite 267,Grocery,Dairy,Mother Dairy,266,339
+P00008,Mother Dairy Butter Pro 334,Grocery,Dairy,Mother Dairy,46,69
+P00009,Britannia Butter Plus 316,Grocery,Dairy,Britannia,320,459
+P00010,Nestle Cheese Model X 505,Grocery,Dairy,Nestle,264,319
+P00011,Mother Dairy Cheese Edition 2 651,Grocery,Dairy,Mother Dairy,164,229
+P00012,Britannia Yogurt Ace 470,Grocery,Dairy,Britannia,142,209
+P00013,Mother Dairy Yogurt Model X 193,Grocery,Dairy,Mother Dairy,54,79
+P00014,Mother Dairy Cheese Ace 710,Grocery,Dairy,Mother Dairy,62,79
+P00015,Britannia Yogurt Classic 666,Grocery,Dairy,Britannia,35,49
+P00016,Amul Yogurt Classic 887,Grocery,Dairy,Amul,204,249
+P00017,Britannia Cheese Model X 103,Grocery,Dairy,Britannia,164,239
+P00018,Mother Dairy Yogurt Plus 991,Grocery,Dairy,Mother Dairy,350,439
+P00019,Mother Dairy Cheese Ultra 880,Grocery,Dairy,Mother Dairy,112,149
+P00020,Amul Yogurt Ultra 600,Grocery,Dairy,Amul,39,49
+P00021,Nestle Butter Lite 159,Grocery,Dairy,Nestle,153,219
+P00022,Amul Milk Model X 935,Grocery,Dairy,Amul,65,99
+P00023,Mother Dairy Cheese Model X 662,Grocery,Dairy,Mother Dairy,114,149
+P00024,Britannia Cheese Edition 2 873,Grocery,Dairy,Britannia,132,189
+P00025,Britannia Butter Model X 629,Grocery,Dairy,Britannia,261,319
+P00026,JBL Wireless Headphone Ultra 121,Electronics,Headphones,JBL,20077,26429
+P00027,Sennheiser Bluetooth Earbuds Pro 172,Electronics,Headphones,Sennheiser,23994,32139
+P00028,JBL Wireless Headphone Pro 980,Electronics,Headphones,JBL,11627,13619
+P00029,JBL Noise Cancelling Headphone Model X 319,Electronics,Headphones,JBL,18469,21979
+P00030,Sennheiser Neckband Lite 903,Electronics,Headphones,Sennheiser,16298,22699
+P00031,JBL Wireless Headphone Plus 774,Electronics,Headphones,JBL,14924,18749
+P00032,Bose Neckband Pro 789,Electronics,Headphones,Bose,22212,32109
+P00033,Sony Wireless Headphone Ace 845,Electronics,Headphones,Sony,11918,16569
+P00034,Sony Bluetooth Earbuds Lite 294,Electronics,Headphones,Sony,18373,23609
+P00035,Bose Bluetooth Earbuds Classic 573,Electronics,Headphones,Bose,8985,12699
+P00036,Sony Neckband Edition 2 200,Electronics,Headphones,Sony,2457,3309
+P00037,Sennheiser Wireless Headphone Plus 871,Electronics,Headphones,Sennheiser,8545,10259
+P00038,Bose Neckband Lite 985,Electronics,Headphones,Bose,13941,19809
+P00039,JBL Neckband Pro 499,Electronics,Headphones,JBL,9490,13559
+P00040,Bose Noise Cancelling Headphone Ace 813,Electronics,Headphones,Bose,24737,35839
+P00041,Sennheiser Neckband Max 294,Electronics,Headphones,Sennheiser,10522,12789
+P00042,Sony Wireless Headphone Ultra 158,Electronics,Headphones,Sony,2443,3239
+P00043,Sennheiser Bluetooth Earbuds Pro 620,Electronics,Headphones,Sennheiser,3425,4819
+P00044,Sony Wireless Headphone Lite 513,Electronics,Headphones,Sony,4728,6779
+P00045,Sennheiser Bluetooth Earbuds Standard 708,Electronics,Headphones,Sennheiser,2102,2809
+P00046,Bose Noise Cancelling Headphone Classic 309,Electronics,Headphones,Bose,22745,31049
+P00047,JBL Noise Cancelling Headphone Ace 234,Electronics,Headphones,JBL,22809,30649
+P00048,Bose Noise Cancelling Headphone Plus 109,Electronics,Headphones,Bose,15817,21139
+P00049,Sennheiser Wireless Headphone Plus 650,Electronics,Headphones,Sennheiser,7784,10139
+P00050,JBL Noise Cancelling Headphone Plus 350,Electronics,Headphones,JBL,12908,15949
+P00051,Saffola Muesli Standard 926,Grocery,Breakfast Foods,Saffola,414,549
+P00052,Bagrry's Corn Flakes Max 370,Grocery,Breakfast Foods,Bagrry's,139,199
+P00053,Quaker Muesli Classic 719,Grocery,Breakfast Foods,Quaker,187,259
+P00054,Quaker Muesli Edition 2 600,Grocery,Breakfast Foods,Quaker,208,299
+P00055,Kellogg's Corn Flakes Ace 949,Grocery,Breakfast Foods,Kellogg's,221,259
+P00056,Bagrry's Oats Classic 265,Grocery,Breakfast Foods,Bagrry's,306,409
+P00057,Saffola Corn Flakes Plus 177,Grocery,Breakfast Foods,Saffola,433,619
+P00058,Kellogg's Muesli Standard 665,Grocery,Breakfast Foods,Kellogg's,155,199
+P00059,Kellogg's Muesli Ultra 915,Grocery,Breakfast Foods,Kellogg's,100,149
+P00060,Quaker Oats Plus 462,Grocery,Breakfast Foods,Quaker,366,519
+P00061,Saffola Oats Lite 985,Grocery,Breakfast Foods,Saffola,163,239
+P00062,Quaker Cereal Pro 283,Grocery,Breakfast Foods,Quaker,250,349
+P00063,Saffola Oats Classic 263,Grocery,Breakfast Foods,Saffola,439,519
+P00064,Kellogg's Cereal Lite 304,Grocery,Breakfast Foods,Kellogg's,315,399
+P00065,Quaker Oats Pro 775,Grocery,Breakfast Foods,Quaker,178,229
+P00066,Bagrry's Corn Flakes Classic 459,Grocery,Breakfast Foods,Bagrry's,408,539
+P00067,Bagrry's Corn Flakes Plus 998,Grocery,Breakfast Foods,Bagrry's,213,259
+P00068,Bagrry's Corn Flakes Plus 710,Grocery,Breakfast Foods,Bagrry's,302,379
+P00069,Bagrry's Cereal Standard 623,Grocery,Breakfast Foods,Bagrry's,139,179
+P00070,Quaker Muesli Pro 825,Grocery,Breakfast Foods,Quaker,303,349
+P00071,Quaker Muesli Ace 171,Grocery,Breakfast Foods,Quaker,420,599
+P00072,Bagrry's Corn Flakes Classic 619,Grocery,Breakfast Foods,Bagrry's,238,329
+P00073,Bagrry's Cereal Classic 667,Grocery,Breakfast Foods,Bagrry's,145,179
+P00074,Saffola Oats Standard 682,Grocery,Breakfast Foods,Saffola,234,299
+P00075,Kellogg's Muesli Classic 315,Grocery,Breakfast Foods,Kellogg's,300,419
+P00076,Shell Brake Fluid Ultra 576,Automotive,Motor Oil & Fluids,Shell,1154,1489
+P00077,Castrol Brake Fluid Model X 912,Automotive,Motor Oil & Fluids,Castrol,1757,2119
+P00078,Castrol Coolant Edition 2 779,Automotive,Motor Oil & Fluids,Castrol,1546,2069
+P00079,Castrol Engine Oil Classic 330,Automotive,Motor Oil & Fluids,Castrol,657,789
+P00080,Castrol Engine Oil Model X 725,Automotive,Motor Oil & Fluids,Castrol,399,519
+P00081,Shell Brake Fluid Lite 835,Automotive,Motor Oil & Fluids,Shell,1676,2129
+P00082,Mobil Engine Oil Max 771,Automotive,Motor Oil & Fluids,Mobil,1658,1909
+P00083,Castrol Coolant Lite 280,Automotive,Motor Oil & Fluids,Castrol,1675,2189
+P00084,Castrol Brake Fluid Lite 968,Automotive,Motor Oil & Fluids,Castrol,498,649
+P00085,Mobil Brake Fluid Edition 2 672,Automotive,Motor Oil & Fluids,Mobil,1469,1829
+P00086,Mobil Brake Fluid Edition 2 536,Automotive,Motor Oil & Fluids,Mobil,1372,1769
+P00087,Castrol Brake Fluid Model X 560,Automotive,Motor Oil & Fluids,Castrol,780,1079
+P00088,Shell Coolant Edition 2 596,Automotive,Motor Oil & Fluids,Shell,1533,1879
+P00089,Mobil Engine Oil Classic 340,Automotive,Motor Oil & Fluids,Mobil,806,1009
+P00090,Shell Engine Oil Max 254,Automotive,Motor Oil & Fluids,Shell,723,919
+P00091,Castrol Brake Fluid Lite 165,Automotive,Motor Oil & Fluids,Castrol,1099,1399
+P00092,Shell Coolant Ace 163,Automotive,Motor Oil & Fluids,Shell,673,949
+P00093,Mobil Brake Fluid Pro 977,Automotive,Motor Oil & Fluids,Mobil,1429,1809
+P00094,Castrol Coolant Classic 871,Automotive,Motor Oil & Fluids,Castrol,1048,1479
+P00095,Mobil Brake Fluid Edition 2 919,Automotive,Motor Oil & Fluids,Mobil,1485,2109
+P00096,Mobil Engine Oil Classic 546,Automotive,Motor Oil & Fluids,Mobil,1244,1449
+P00097,Mobil Brake Fluid Ace 841,Automotive,Motor Oil & Fluids,Mobil,588,829
+P00098,Castrol Brake Fluid Edition 2 127,Automotive,Motor Oil & Fluids,Castrol,1056,1409
+P00099,Shell Engine Oil Plus 758,Automotive,Motor Oil & Fluids,Shell,1127,1349
+P00100,Mobil Engine Oil Pro 366,Automotive,Motor Oil & Fluids,Mobil,1026,1289
+P00101,Wildcraft Sleeping Bag Ultra 879,Sports & Outdoors,Camping Gear,Wildcraft,8406,10629
+P00102,Wildcraft Sleeping Bag Plus 581,Sports & Outdoors,Camping Gear,Wildcraft,1358,1869
+P00103,Quechua Sleeping Bag Lite 765,Sports & Outdoors,Camping Gear,Quechua,1762,2439
+P00104,Coleman Tent Pro 353,Sports & Outdoors,Camping Gear,Coleman,2833,3979
+P00105,Coleman Tent Lite 229,Sports & Outdoors,Camping Gear,Coleman,5079,6869
+P00106,Coleman Tent Model X 816,Sports & Outdoors,Camping Gear,Coleman,3299,4559
+P00107,Quechua Camping Backpack Standard 865,Sports & Outdoors,Camping Gear,Quechua,7084,8399
+P00108,Quechua Sleeping Bag Plus 692,Sports & Outdoors,Camping Gear,Quechua,1410,2019
+P00109,Coleman Camping Backpack Ace 506,Sports & Outdoors,Camping Gear,Coleman,8912,12169
+P00110,Quechua Camping Backpack Lite 204,Sports & Outdoors,Camping Gear,Quechua,6911,9549
+P00111,Coleman Camping Backpack Plus 915,Sports & Outdoors,Camping Gear,Coleman,5836,8089
+P00112,Wildcraft Camping Backpack Ace 777,Sports & Outdoors,Camping Gear,Wildcraft,4235,4959
+P00113,Coleman Sleeping Bag Pro 969,Sports & Outdoors,Camping Gear,Coleman,4641,6489
+P00114,Quechua Sleeping Bag Ultra 750,Sports & Outdoors,Camping Gear,Quechua,8503,11899
+P00115,Coleman Tent Ace 280,Sports & Outdoors,Camping Gear,Coleman,7211,9429
+P00116,Coleman Sleeping Bag Standard 927,Sports & Outdoors,Camping Gear,Coleman,8733,11459
+P00117,Wildcraft Sleeping Bag Ace 945,Sports & Outdoors,Camping Gear,Wildcraft,7188,9549
+P00118,Wildcraft Tent Plus 385,Sports & Outdoors,Camping Gear,Wildcraft,8422,10829
+P00119,Wildcraft Camping Backpack Standard 784,Sports & Outdoors,Camping Gear,Wildcraft,4304,5389
+P00120,Wildcraft Sleeping Bag Max 599,Sports & Outdoors,Camping Gear,Wildcraft,2937,3699
+P00121,Wildcraft Sleeping Bag Classic 710,Sports & Outdoors,Camping Gear,Wildcraft,6944,9819
+P00122,Coleman Tent Edition 2 295,Sports & Outdoors,Camping Gear,Coleman,1901,2329
+P00123,Wildcraft Sleeping Bag Edition 2 876,Sports & Outdoors,Camping Gear,Wildcraft,3168,4309
+P00124,Coleman Camping Backpack Model X 558,Sports & Outdoors,Camping Gear,Coleman,7695,8889
+P00125,Wildcraft Tent Ace 808,Sports & Outdoors,Camping Gear,Wildcraft,3193,3969
+P00126,Btwin Road Bike Edition 2 643,Sports & Outdoors,Cycling,Btwin,16264,20789
+P00127,Btwin Road Bike Model X 377,Sports & Outdoors,Cycling,Btwin,15047,18439
+P00128,Hero Kids Cycle Lite 423,Sports & Outdoors,Cycling,Hero,8917,12249
+P00129,Firefox Mountain Bike Lite 856,Sports & Outdoors,Cycling,Firefox,20866,25729
+P00130,Btwin Mountain Bike Lite 403,Sports & Outdoors,Cycling,Btwin,12454,15679
+P00131,Btwin Mountain Bike Edition 2 229,Sports & Outdoors,Cycling,Btwin,13988,16279
+P00132,Hero Kids Cycle Classic 814,Sports & Outdoors,Cycling,Hero,9137,12259
+P00133,Hercules Mountain Bike Pro 687,Sports & Outdoors,Cycling,Hercules,14317,18489
+P00134,Hercules Road Bike Max 152,Sports & Outdoors,Cycling,Hercules,13273,19019
+P00135,Hercules Mountain Bike Plus 510,Sports & Outdoors,Cycling,Hercules,21113,24749
+P00136,Hero Mountain Bike Max 930,Sports & Outdoors,Cycling,Hero,23443,33639
+P00137,Hero Mountain Bike Plus 671,Sports & Outdoors,Cycling,Hero,30049,38309
+P00138,Firefox Kids Cycle Ace 561,Sports & Outdoors,Cycling,Firefox,34769,44609
+P00139,Hercules Road Bike Standard 735,Sports & Outdoors,Cycling,Hercules,6973,9299
+P00140,Hero Mountain Bike Lite 370,Sports & Outdoors,Cycling,Hero,26640,31289
+P00141,Firefox Mountain Bike Edition 2 176,Sports & Outdoors,Cycling,Firefox,10129,11659
+P00142,Hercules Kids Cycle Standard 581,Sports & Outdoors,Cycling,Hercules,14543,16869
+P00143,Btwin Kids Cycle Classic 819,Sports & Outdoors,Cycling,Btwin,33167,42669
+P00144,Firefox Road Bike Standard 777,Sports & Outdoors,Cycling,Firefox,31342,44829
+P00145,Hercules Mountain Bike Edition 2 330,Sports & Outdoors,Cycling,Hercules,26221,31329
+P00146,Btwin Mountain Bike Plus 161,Sports & Outdoors,Cycling,Btwin,10436,14489
+P00147,Btwin Road Bike Plus 579,Sports & Outdoors,Cycling,Btwin,27566,34219
+P00148,Hercules Road Bike Edition 2 652,Sports & Outdoors,Cycling,Hercules,21180,27139
+P00149,Hero Road Bike Ultra 718,Sports & Outdoors,Cycling,Hero,13204,15289
+P00150,Firefox Kids Cycle Standard 701,Sports & Outdoors,Cycling,Firefox,5679,8239
+P00151,LeapFrog Activity Table Standard 141,Toys,Educational Toys,LeapFrog,3497,4209
+P00152,LeapFrog Puzzle Toy Model X 384,Toys,Educational Toys,LeapFrog,1143,1659
+P00153,Chicco Puzzle Toy Model X 193,Toys,Educational Toys,Chicco,2325,2919
+P00154,Chicco Activity Table Plus 978,Toys,Educational Toys,Chicco,1058,1329
+P00155,LeapFrog Activity Table Classic 778,Toys,Educational Toys,LeapFrog,2040,2849
+P00156,LeapFrog Learning Tablet Model X 190,Toys,Educational Toys,LeapFrog,1688,2069
+P00157,Fisher-Price Activity Table Edition 2 944,Toys,Educational Toys,Fisher-Price,404,549
+P00158,LeapFrog Activity Table Ace 155,Toys,Educational Toys,LeapFrog,1168,1529
+P00159,LeapFrog Activity Table Model X 878,Toys,Educational Toys,LeapFrog,611,749
+P00160,LeapFrog Learning Tablet Classic 548,Toys,Educational Toys,LeapFrog,3260,4229
+P00161,Fisher-Price Puzzle Toy Standard 918,Toys,Educational Toys,Fisher-Price,1380,1889
+P00162,Chicco Puzzle Toy Pro 665,Toys,Educational Toys,Chicco,2071,2449
+P00163,Fisher-Price Activity Table Plus 763,Toys,Educational Toys,Fisher-Price,1030,1339
+P00164,LeapFrog Activity Table Edition 2 822,Toys,Educational Toys,LeapFrog,1519,1939
+P00165,Chicco Activity Table Lite 567,Toys,Educational Toys,Chicco,2657,3179
+P00166,Fisher-Price Puzzle Toy Edition 2 864,Toys,Educational Toys,Fisher-Price,959,1359
+P00167,Chicco Activity Table Ultra 906,Toys,Educational Toys,Chicco,2479,3059
+P00168,Fisher-Price Activity Table Classic 957,Toys,Educational Toys,Fisher-Price,2804,3719
+P00169,LeapFrog Activity Table Max 557,Toys,Educational Toys,LeapFrog,2606,3379
+P00170,Chicco Puzzle Toy Edition 2 486,Toys,Educational Toys,Chicco,2265,3239
+P00171,Fisher-Price Puzzle Toy Lite 685,Toys,Educational Toys,Fisher-Price,1968,2409
+P00172,Chicco Learning Tablet Ultra 862,Toys,Educational Toys,Chicco,2337,3189
+P00173,Chicco Activity Table Max 607,Toys,Educational Toys,Chicco,551,659
+P00174,LeapFrog Activity Table Plus 995,Toys,Educational Toys,LeapFrog,2203,2599
+P00175,Chicco Learning Tablet Max 519,Toys,Educational Toys,Chicco,3081,4449
+P00176,Levi's T-Shirt Classic 446,Apparel,Men's Clothing,Levi's,2952,4009
+P00177,Nike Casual Shirt Ultra 972,Apparel,Men's Clothing,Nike,3162,4459
+P00178,Allen Solly Jeans Model X 993,Apparel,Men's Clothing,Allen Solly,2616,3039
+P00179,Levi's Formal Trousers Classic 332,Apparel,Men's Clothing,Levi's,3458,4079
+P00180,Levi's Casual Shirt Model X 270,Apparel,Men's Clothing,Levi's,3242,4029
+P00181,Levi's Casual Shirt Ultra 915,Apparel,Men's Clothing,Levi's,629,779
+P00182,Van Heusen T-Shirt Max 350,Apparel,Men's Clothing,Van Heusen,2575,3289
+P00183,Nike Formal Trousers Max 279,Apparel,Men's Clothing,Nike,723,969
+P00184,Allen Solly Jacket Lite 609,Apparel,Men's Clothing,Allen Solly,2788,3329
+P00185,Allen Solly Jeans Model X 361,Apparel,Men's Clothing,Allen Solly,3131,3609
+P00186,Allen Solly Jeans Edition 2 261,Apparel,Men's Clothing,Allen Solly,702,909
+P00187,Van Heusen Jacket Classic 754,Apparel,Men's Clothing,Van Heusen,2137,2909
+P00188,Allen Solly Jeans Lite 493,Apparel,Men's Clothing,Allen Solly,2379,2819
+P00189,Allen Solly Jacket Ultra 688,Apparel,Men's Clothing,Allen Solly,1611,2339
+P00190,Van Heusen Casual Shirt Ace 381,Apparel,Men's Clothing,Van Heusen,433,579
+P00191,Nike Casual Shirt Standard 863,Apparel,Men's Clothing,Nike,2434,3409
+P00192,Van Heusen Formal Trousers Standard 921,Apparel,Men's Clothing,Van Heusen,1843,2249
+P00193,Peter England Jacket Classic 794,Apparel,Men's Clothing,Peter England,3494,4779
+P00194,Nike Formal Trousers Plus 742,Apparel,Men's Clothing,Nike,3047,3549
+P00195,Allen Solly Casual Shirt Standard 473,Apparel,Men's Clothing,Allen Solly,3399,4049
+P00196,Van Heusen Jeans Ace 279,Apparel,Men's Clothing,Van Heusen,1222,1459
+P00197,Puma Jeans Edition 2 613,Apparel,Men's Clothing,Puma,1516,2129
+P00198,Van Heusen T-Shirt Classic 864,Apparel,Men's Clothing,Van Heusen,1787,2489
+P00199,Allen Solly Casual Shirt Max 872,Apparel,Men's Clothing,Allen Solly,1324,1869
+P00200,Nike T-Shirt Edition 2 474,Apparel,Men's Clothing,Nike,769,1069
+P00201,Canon Action Camera Edition 2 226,Electronics,Cameras,Canon,67609,85229
+P00202,Sony Point and Shoot Ultra 210,Electronics,Cameras,Sony,96452,117689
+P00203,Canon Action Camera Standard 326,Electronics,Cameras,Canon,92889,108589
+P00204,GoPro Action Camera Ace 219,Electronics,Cameras,GoPro,26320,30629
+P00205,Canon Action Camera Model X 218,Electronics,Cameras,Canon,20739,25319
+P00206,Fujifilm Mirrorless Camera Ace 564,Electronics,Cameras,Fujifilm,56629,76519
+P00207,Fujifilm Point and Shoot Standard 860,Electronics,Cameras,Fujifilm,103236,123509
+P00208,GoPro DSLR Model X 730,Electronics,Cameras,GoPro,61492,88039
+P00209,Sony DSLR Ultra 322,Electronics,Cameras,Sony,66115,84859
+P00210,Nikon Action Camera Plus 802,Electronics,Cameras,Nikon,56147,73749
+P00211,Sony DSLR Ace 382,Electronics,Cameras,Sony,32878,47369
+P00212,GoPro DSLR Lite 757,Electronics,Cameras,GoPro,91819,122049
+P00213,Canon DSLR Ultra 349,Electronics,Cameras,Canon,24505,33969
+P00214,Nikon DSLR Edition 2 312,Electronics,Cameras,Nikon,84858,103089
+P00215,Nikon Action Camera Max 907,Electronics,Cameras,Nikon,86116,99109
+P00216,Nikon Mirrorless Camera Edition 2 356,Electronics,Cameras,Nikon,112662,135459
+P00217,Canon Mirrorless Camera Pro 466,Electronics,Cameras,Canon,111544,154659
+P00218,Fujifilm Action Camera Pro 278,Electronics,Cameras,Fujifilm,42782,49879
+P00219,GoPro DSLR Plus 587,Electronics,Cameras,GoPro,66756,92359
+P00220,Fujifilm DSLR Model X 615,Electronics,Cameras,Fujifilm,37038,53099
+P00221,Canon Action Camera Model X 758,Electronics,Cameras,Canon,12082,14119
+P00222,GoPro Point and Shoot Ace 802,Electronics,Cameras,GoPro,22150,28739
+P00223,GoPro DSLR Plus 429,Electronics,Cameras,GoPro,87730,104799
+P00224,Nikon Action Camera Standard 748,Electronics,Cameras,Nikon,84724,111379
+P00225,Sony Point and Shoot Standard 643,Electronics,Cameras,Sony,46652,60009
+P00226,Brother Inkjet Printer Plus 973,Office Supplies,Printers & Ink,Brother,22953,30879
+P00227,Canon Toner Cartridge Model X 333,Office Supplies,Printers & Ink,Canon,15059,18849
+P00228,Brother Toner Cartridge Ace 847,Office Supplies,Printers & Ink,Brother,4615,5749
+P00229,Epson Ink Cartridge Ultra 256,Office Supplies,Printers & Ink,Epson,24005,34259
+P00230,HP Inkjet Printer Plus 195,Office Supplies,Printers & Ink,HP,15651,18459
+P00231,Epson Laser Printer Edition 2 161,Office Supplies,Printers & Ink,Epson,20717,29779
+P00232,Epson Inkjet Printer Ace 462,Office Supplies,Printers & Ink,Epson,23301,33379
+P00233,Brother Inkjet Printer Classic 714,Office Supplies,Printers & Ink,Brother,11738,14739
+P00234,Canon Laser Printer Model X 329,Office Supplies,Printers & Ink,Canon,5046,6339
+P00235,Epson Inkjet Printer Classic 687,Office Supplies,Printers & Ink,Epson,8910,12409
+P00236,HP Ink Cartridge Pro 284,Office Supplies,Printers & Ink,HP,10454,14229
+P00237,Epson Ink Cartridge Ultra 106,Office Supplies,Printers & Ink,Epson,7444,10509
+P00238,Brother Inkjet Printer Max 858,Office Supplies,Printers & Ink,Brother,22247,32079
+P00239,HP Laser Printer Ace 529,Office Supplies,Printers & Ink,HP,16365,20499
+P00240,Epson Ink Cartridge Ultra 895,Office Supplies,Printers & Ink,Epson,20098,26709
+P00241,HP Laser Printer Max 872,Office Supplies,Printers & Ink,HP,21745,25339
+P00242,HP Ink Cartridge Model X 777,Office Supplies,Printers & Ink,HP,15394,19949
+P00243,Brother Toner Cartridge Classic 320,Office Supplies,Printers & Ink,Brother,18288,21659
+P00244,Brother Inkjet Printer Classic 794,Office Supplies,Printers & Ink,Brother,23732,31519
+P00245,Epson Inkjet Printer Lite 504,Office Supplies,Printers & Ink,Epson,21138,24659
+P00246,Canon Ink Cartridge Lite 885,Office Supplies,Printers & Ink,Canon,5996,8279
+P00247,Epson Ink Cartridge Plus 107,Office Supplies,Printers & Ink,Epson,17798,24459
+P00248,Canon Laser Printer Ace 645,Office Supplies,Printers & Ink,Canon,24557,29939
+P00249,Epson Inkjet Printer Ace 982,Office Supplies,Printers & Ink,Epson,2886,3699
+P00250,Brother Inkjet Printer Ultra 689,Office Supplies,Printers & Ink,Brother,15566,20579
+P00251,Nykaa Kajal Plus 514,Beauty & Personal Care,Makeup,Nykaa,235,339
+P00252,Lakme Compact Powder Ultra 190,Beauty & Personal Care,Makeup,Lakme,1938,2729
+P00253,Lakme Compact Powder Standard 510,Beauty & Personal Care,Makeup,Lakme,2296,2699
+P00254,MAC Kajal Lite 441,Beauty & Personal Care,Makeup,MAC,838,989
+P00255,Maybelline Foundation Ultra 459,Beauty & Personal Care,Makeup,Maybelline,754,929
+P00256,Lakme Kajal Lite 277,Beauty & Personal Care,Makeup,Lakme,776,1069
+P00257,Maybelline Foundation Model X 575,Beauty & Personal Care,Makeup,Maybelline,2459,3389
+P00258,Nykaa Kajal Ultra 254,Beauty & Personal Care,Makeup,Nykaa,1951,2289
+P00259,Nykaa Kajal Classic 705,Beauty & Personal Care,Makeup,Nykaa,380,479
+P00260,Maybelline Kajal Model X 562,Beauty & Personal Care,Makeup,Maybelline,304,359
+P00261,MAC Lipstick Plus 729,Beauty & Personal Care,Makeup,MAC,2226,2819
+P00262,Revlon Lipstick Model X 929,Beauty & Personal Care,Makeup,Revlon,2491,3359
+P00263,MAC Compact Powder Edition 2 254,Beauty & Personal Care,Makeup,MAC,403,519
+P00264,MAC Lipstick Edition 2 761,Beauty & Personal Care,Makeup,MAC,856,999
+P00265,Nykaa Compact Powder Edition 2 635,Beauty & Personal Care,Makeup,Nykaa,800,1009
+P00266,MAC Compact Powder Ace 893,Beauty & Personal Care,Makeup,MAC,1535,2079
+P00267,Maybelline Kajal Plus 437,Beauty & Personal Care,Makeup,Maybelline,537,709
+P00268,Nykaa Kajal Classic 841,Beauty & Personal Care,Makeup,Nykaa,765,959
+P00269,Revlon Foundation Ultra 417,Beauty & Personal Care,Makeup,Revlon,1755,2089
+P00270,Maybelline Kajal Edition 2 485,Beauty & Personal Care,Makeup,Maybelline,1495,2089
+P00271,Revlon Lipstick Ace 620,Beauty & Personal Care,Makeup,Revlon,1632,1889
+P00272,MAC Foundation Lite 449,Beauty & Personal Care,Makeup,MAC,2141,2589
+P00273,Lakme Foundation Plus 402,Beauty & Personal Care,Makeup,Lakme,564,739
+P00274,Revlon Lipstick Ultra 997,Beauty & Personal Care,Makeup,Revlon,686,919
+P00275,Lakme Foundation Max 951,Beauty & Personal Care,Makeup,Lakme,828,1139
+P00276,Lego Construction Kit Ultra 792,Toys,Building Sets,Lego,6394,7809
+P00277,Mega Bloks Construction Kit Model X 339,Toys,Building Sets,Mega Bloks,4874,5959
+P00278,Mega Bloks Building Blocks Set Ultra 794,Toys,Building Sets,Mega Bloks,5172,7479
+P00279,Mega Bloks Construction Kit Ace 614,Toys,Building Sets,Mega Bloks,4820,6149
+P00280,Lego Building Blocks Set Standard 241,Toys,Building Sets,Lego,7651,9379
+P00281,Funskool Construction Kit Ultra 667,Toys,Building Sets,Funskool,1340,1829
+P00282,Funskool Building Blocks Set Classic 185,Toys,Building Sets,Funskool,6751,8089
+P00283,Mega Bloks Building Blocks Set Ace 193,Toys,Building Sets,Mega Bloks,7958,9689
+P00284,Mega Bloks Construction Kit Pro 524,Toys,Building Sets,Mega Bloks,936,1189
+P00285,Mega Bloks Building Blocks Set Ace 183,Toys,Building Sets,Mega Bloks,3571,4349
+P00286,Mega Bloks Building Blocks Set Ultra 910,Toys,Building Sets,Mega Bloks,1696,2029
+P00287,Mega Bloks Construction Kit Max 877,Toys,Building Sets,Mega Bloks,6279,8109
+P00288,Funskool Building Blocks Set Plus 119,Toys,Building Sets,Funskool,2596,3159
+P00289,Lego Construction Kit Plus 894,Toys,Building Sets,Lego,2860,3499
+P00290,Lego Building Blocks Set Lite 529,Toys,Building Sets,Lego,5734,7969
+P00291,Mega Bloks Building Blocks Set Plus 956,Toys,Building Sets,Mega Bloks,7914,10289
+P00292,Funskool Building Blocks Set Edition 2 688,Toys,Building Sets,Funskool,2481,3389
+P00293,Mega Bloks Construction Kit Pro 729,Toys,Building Sets,Mega Bloks,3390,4149
+P00294,Mega Bloks Building Blocks Set Plus 636,Toys,Building Sets,Mega Bloks,3454,4049
+P00295,Funskool Building Blocks Set Ace 994,Toys,Building Sets,Funskool,4351,5069
+P00296,Mega Bloks Construction Kit Classic 865,Toys,Building Sets,Mega Bloks,633,799
+P00297,Lego Construction Kit Lite 850,Toys,Building Sets,Lego,5882,7879
+P00298,Funskool Construction Kit Max 145,Toys,Building Sets,Funskool,3386,4449
+P00299,Funskool Building Blocks Set Model X 812,Toys,Building Sets,Funskool,4420,5929
+P00300,Lego Building Blocks Set Model X 137,Toys,Building Sets,Lego,2903,3519
+P00301,Reebok Yoga Mat Ultra 417,Sports & Outdoors,Fitness Equipment,Reebok,4522,5749
+P00302,Nivia Resistance Band Pro 871,Sports & Outdoors,Fitness Equipment,Nivia,5599,6769
+P00303,Cosco Yoga Mat Ultra 379,Sports & Outdoors,Fitness Equipment,Cosco,1319,1839
+P00304,Nivia Skipping Rope Model X 495,Sports & Outdoors,Fitness Equipment,Nivia,3077,4439
+P00305,Nivia Skipping Rope Ultra 916,Sports & Outdoors,Fitness Equipment,Nivia,4553,5609
+P00306,Decathlon Skipping Rope Plus 540,Sports & Outdoors,Fitness Equipment,Decathlon,5235,7589
+P00307,Reebok Resistance Band Ultra 205,Sports & Outdoors,Fitness Equipment,Reebok,955,1199
+P00308,Cosco Resistance Band Model X 717,Sports & Outdoors,Fitness Equipment,Cosco,3790,4549
+P00309,Nivia Resistance Band Model X 143,Sports & Outdoors,Fitness Equipment,Nivia,3188,4259
+P00310,Nivia Resistance Band Pro 176,Sports & Outdoors,Fitness Equipment,Nivia,5798,7779
+P00311,Cosco Dumbbell Set Pro 246,Sports & Outdoors,Fitness Equipment,Cosco,5277,7149
+P00312,Nivia Yoga Mat Max 168,Sports & Outdoors,Fitness Equipment,Nivia,2233,3089
+P00313,Cosco Resistance Band Ace 680,Sports & Outdoors,Fitness Equipment,Cosco,565,759
+P00314,Nivia Resistance Band Ultra 554,Sports & Outdoors,Fitness Equipment,Nivia,929,1229
+P00315,Cosco Skipping Rope Ultra 765,Sports & Outdoors,Fitness Equipment,Cosco,2583,3169
+P00316,Decathlon Yoga Mat Max 611,Sports & Outdoors,Fitness Equipment,Decathlon,4541,5749
+P00317,Decathlon Resistance Band Classic 820,Sports & Outdoors,Fitness Equipment,Decathlon,3955,4809
+P00318,Cosco Skipping Rope Lite 225,Sports & Outdoors,Fitness Equipment,Cosco,1411,1989
+P00319,Nivia Dumbbell Set Model X 189,Sports & Outdoors,Fitness Equipment,Nivia,5886,8479
+P00320,Cosco Resistance Band Plus 663,Sports & Outdoors,Fitness Equipment,Cosco,4741,5869
+P00321,Cosco Dumbbell Set Max 912,Sports & Outdoors,Fitness Equipment,Cosco,3261,4249
+P00322,Decathlon Dumbbell Set Max 342,Sports & Outdoors,Fitness Equipment,Decathlon,4347,5039
+P00323,Cosco Skipping Rope Edition 2 232,Sports & Outdoors,Fitness Equipment,Cosco,5313,7519
+P00324,Decathlon Resistance Band Ace 834,Sports & Outdoors,Fitness Equipment,Decathlon,4221,5529
+P00325,Nivia Yoga Mat Max 424,Sports & Outdoors,Fitness Equipment,Nivia,5562,6529
+P00326,Havells Toaster Max 999,Home & Kitchen,Kitchen Appliances,Havells,7691,10649
+P00327,Morphy Richards Electric Kettle Max 543,Home & Kitchen,Kitchen Appliances,Morphy Richards,5019,7149
+P00328,Philips Mixer Grinder Edition 2 256,Home & Kitchen,Kitchen Appliances,Philips,3391,4069
+P00329,Bajaj Electric Kettle Ultra 631,Home & Kitchen,Kitchen Appliances,Bajaj,3226,4529
+P00330,Bajaj Electric Kettle Edition 2 381,Home & Kitchen,Kitchen Appliances,Bajaj,1925,2579
+P00331,Morphy Richards Mixer Grinder Edition 2 756,Home & Kitchen,Kitchen Appliances,Morphy Richards,2281,3029
+P00332,Morphy Richards Electric Kettle Max 774,Home & Kitchen,Kitchen Appliances,Morphy Richards,6015,8219
+P00333,Morphy Richards Toaster Standard 142,Home & Kitchen,Kitchen Appliances,Morphy Richards,7660,10799
+P00334,Philips Mixer Grinder Standard 371,Home & Kitchen,Kitchen Appliances,Philips,6234,7569
+P00335,Morphy Richards Induction Cooktop Standard 754,Home & Kitchen,Kitchen Appliances,Morphy Richards,1148,1499
+P00336,Morphy Richards Toaster Classic 594,Home & Kitchen,Kitchen Appliances,Morphy Richards,2906,4049
+P00337,Havells Toaster Model X 174,Home & Kitchen,Kitchen Appliances,Havells,6541,7649
+P00338,Havells Induction Cooktop Model X 575,Home & Kitchen,Kitchen Appliances,Havells,2571,3219
+P00339,Prestige Toaster Ultra 851,Home & Kitchen,Kitchen Appliances,Prestige,7951,9969
+P00340,Havells Electric Kettle Ultra 627,Home & Kitchen,Kitchen Appliances,Havells,5501,6509
+P00341,Prestige Induction Cooktop Plus 373,Home & Kitchen,Kitchen Appliances,Prestige,4583,5619
+P00342,Philips Mixer Grinder Classic 493,Home & Kitchen,Kitchen Appliances,Philips,7979,10649
+P00343,Prestige Electric Kettle Ultra 691,Home & Kitchen,Kitchen Appliances,Prestige,6807,8469
+P00344,Prestige Induction Cooktop Edition 2 578,Home & Kitchen,Kitchen Appliances,Prestige,4985,7049
+P00345,Havells Mixer Grinder Plus 502,Home & Kitchen,Kitchen Appliances,Havells,5040,6489
+P00346,Prestige Electric Kettle Standard 461,Home & Kitchen,Kitchen Appliances,Prestige,1298,1519
+P00347,Havells Induction Cooktop Classic 649,Home & Kitchen,Kitchen Appliances,Havells,966,1359
+P00348,Havells Electric Kettle Classic 844,Home & Kitchen,Kitchen Appliances,Havells,3896,5379
+P00349,Bajaj Mixer Grinder Ace 152,Home & Kitchen,Kitchen Appliances,Bajaj,5571,7349
+P00350,Bajaj Toaster Plus 495,Home & Kitchen,Kitchen Appliances,Bajaj,5030,6469
+P00351,H&M Top Standard 796,Apparel,Women's Clothing,H&M,3002,3559
+P00352,Biba Leggings Ultra 913,Apparel,Women's Clothing,Biba,1888,2489
+P00353,Vero Moda Dress Lite 716,Apparel,Women's Clothing,Vero Moda,2585,3289
+P00354,Biba Kurta Pro 240,Apparel,Women's Clothing,Biba,3422,4279
+P00355,Zara Saree Model X 252,Apparel,Women's Clothing,Zara,2983,4239
+P00356,W Top Standard 426,Apparel,Women's Clothing,W,1165,1479
+P00357,H&M Top Standard 444,Apparel,Women's Clothing,H&M,2577,3609
+P00358,H&M Leggings Standard 406,Apparel,Women's Clothing,H&M,2445,3419
+P00359,Vero Moda Top Plus 526,Apparel,Women's Clothing,Vero Moda,2890,3599
+P00360,Biba Saree Model X 371,Apparel,Women's Clothing,Biba,3185,4419
+P00361,H&M Saree Lite 838,Apparel,Women's Clothing,H&M,710,949
+P00362,W Saree Standard 893,Apparel,Women's Clothing,W,3945,4989
+P00363,W Kurta Standard 817,Apparel,Women's Clothing,W,950,1149
+P00364,Zara Top Ace 255,Apparel,Women's Clothing,Zara,2191,2979
+P00365,Zara Saree Standard 582,Apparel,Women's Clothing,Zara,3974,5449
+P00366,Biba Dress Edition 2 312,Apparel,Women's Clothing,Biba,2797,3489
+P00367,Zara Saree Ace 421,Apparel,Women's Clothing,Zara,1209,1559
+P00368,H&M Top Edition 2 462,Apparel,Women's Clothing,H&M,3268,4519
+P00369,Vero Moda Saree Model X 296,Apparel,Women's Clothing,Vero Moda,1509,1869
+P00370,Vero Moda Dress Classic 889,Apparel,Women's Clothing,Vero Moda,1683,2299
+P00371,Zara Top Model X 457,Apparel,Women's Clothing,Zara,2795,3999
+P00372,Vero Moda Top Plus 687,Apparel,Women's Clothing,Vero Moda,3271,4299
+P00373,Zara Top Max 397,Apparel,Women's Clothing,Zara,672,839
+P00374,Biba Top Model X 771,Apparel,Women's Clothing,Biba,1550,2139
+P00375,W Dress Edition 2 377,Apparel,Women's Clothing,W,2802,3809
+P00376,Michelin Car Vacuum Cleaner Standard 858,Automotive,Car Accessories,Michelin,2260,2769
+P00377,Michelin Seat Cover Set Pro 202,Automotive,Car Accessories,Michelin,3685,4609
+P00378,Philips Car Vacuum Cleaner Max 105,Automotive,Car Accessories,Philips,4808,6949
+P00379,Michelin Headlight Bulb Model X 588,Automotive,Car Accessories,Michelin,1933,2669
+P00380,Bosch Car Charger Classic 761,Automotive,Car Accessories,Bosch,784,1119
+P00381,3M Seat Cover Set Edition 2 856,Automotive,Car Accessories,3M,605,869
+P00382,Michelin Headlight Bulb Max 137,Automotive,Car Accessories,Michelin,3552,4929
+P00383,Michelin Car Charger Pro 109,Automotive,Car Accessories,Michelin,2744,3629
+P00384,3M Car Charger Classic 565,Automotive,Car Accessories,3M,4750,6219
+P00385,Michelin Headlight Bulb Classic 297,Automotive,Car Accessories,Michelin,1222,1529
+P00386,Philips Car Charger Max 114,Automotive,Car Accessories,Philips,3061,4249
+P00387,Michelin Seat Cover Set Standard 976,Automotive,Car Accessories,Michelin,3621,5069
+P00388,Bosch Car Vacuum Cleaner Ace 785,Automotive,Car Accessories,Bosch,1081,1309
+P00389,Michelin Headlight Bulb Ultra 354,Automotive,Car Accessories,Michelin,355,439
+P00390,Michelin Headlight Bulb Classic 437,Automotive,Car Accessories,Michelin,2773,3679
+P00391,3M Car Charger Ultra 809,Automotive,Car Accessories,3M,2235,2619
+P00392,3M Headlight Bulb Classic 263,Automotive,Car Accessories,3M,3621,4909
+P00393,Bosch Car Vacuum Cleaner Classic 476,Automotive,Car Accessories,Bosch,2109,2569
+P00394,Michelin Headlight Bulb Max 565,Automotive,Car Accessories,Michelin,3360,4289
+P00395,Philips Seat Cover Set Lite 796,Automotive,Car Accessories,Philips,970,1269
+P00396,Bosch Car Vacuum Cleaner Standard 214,Automotive,Car Accessories,Bosch,805,1129
+P00397,Michelin Seat Cover Set Max 435,Automotive,Car Accessories,Michelin,4562,5859
+P00398,Michelin Headlight Bulb Plus 622,Automotive,Car Accessories,Michelin,3949,5499
+P00399,Philips Seat Cover Set Edition 2 525,Automotive,Car Accessories,Philips,4042,5339
+P00400,Philips Car Charger Pro 505,Automotive,Car Accessories,Philips,2384,3329
+P00401,Steelbird Helmet Standard 174,Automotive,Bike Accessories,Steelbird,585,749
+P00402,Steelbird Helmet Edition 2 161,Automotive,Bike Accessories,Steelbird,682,989
+P00403,Vega Helmet Classic 518,Automotive,Bike Accessories,Vega,1137,1579
+P00404,Steelbird Riding Gloves Ace 483,Automotive,Bike Accessories,Steelbird,1966,2529
+P00405,Vega Bike Cover Plus 799,Automotive,Bike Accessories,Vega,3110,4399
+P00406,Studds Riding Gloves Ultra 221,Automotive,Bike Accessories,Studds,1131,1639
+P00407,Vega Riding Gloves Max 845,Automotive,Bike Accessories,Vega,1312,1839
+P00408,Studds Bike Cover Model X 789,Automotive,Bike Accessories,Studds,3345,4399
+P00409,Steelbird Bike Cover Lite 353,Automotive,Bike Accessories,Steelbird,2286,2869
+P00410,Vega Helmet Plus 132,Automotive,Bike Accessories,Vega,3104,3969
+P00411,Studds Helmet Lite 168,Automotive,Bike Accessories,Studds,813,1089
+P00412,Vega Riding Gloves Pro 350,Automotive,Bike Accessories,Vega,3433,3999
+P00413,Vega Helmet Edition 2 322,Automotive,Bike Accessories,Vega,3489,4919
+P00414,Studds Helmet Edition 2 396,Automotive,Bike Accessories,Studds,1359,1899
+P00415,Steelbird Riding Gloves Ultra 691,Automotive,Bike Accessories,Steelbird,2849,3939
+P00416,Vega Helmet Classic 997,Automotive,Bike Accessories,Vega,986,1429
+P00417,Steelbird Helmet Ace 407,Automotive,Bike Accessories,Steelbird,1527,1789
+P00418,Steelbird Riding Gloves Max 741,Automotive,Bike Accessories,Steelbird,3180,4069
+P00419,Vega Helmet Ultra 758,Automotive,Bike Accessories,Vega,3149,3989
+P00420,Steelbird Bike Cover Ace 518,Automotive,Bike Accessories,Steelbird,1011,1259
+P00421,Studds Riding Gloves Model X 346,Automotive,Bike Accessories,Studds,1323,1649
+P00422,Steelbird Helmet Model X 159,Automotive,Bike Accessories,Steelbird,2703,3449
+P00423,Vega Riding Gloves Edition 2 237,Automotive,Bike Accessories,Vega,1990,2439
+P00424,Studds Bike Cover Plus 560,Automotive,Bike Accessories,Studds,1919,2269
+P00425,Steelbird Helmet Pro 374,Automotive,Bike Accessories,Steelbird,1944,2629
+P00426,Nivia Football Lite 923,Sports & Outdoors,Team Sports,Nivia,2077,2689
+P00427,Yonex Badminton Racket Pro 316,Sports & Outdoors,Team Sports,Yonex,1856,2679
+P00428,Nivia Basketball Lite 812,Sports & Outdoors,Team Sports,Nivia,1975,2509
+P00429,Cosco Badminton Racket Classic 489,Sports & Outdoors,Team Sports,Cosco,4119,5399
+P00430,Yonex Badminton Racket Classic 468,Sports & Outdoors,Team Sports,Yonex,4500,6369
+P00431,SG Football Model X 879,Sports & Outdoors,Team Sports,SG,2923,4169
+P00432,Yonex Badminton Racket Ace 146,Sports & Outdoors,Team Sports,Yonex,2112,2899
+P00433,Nivia Badminton Racket Edition 2 698,Sports & Outdoors,Team Sports,Nivia,3720,4609
+P00434,Cosco Badminton Racket Lite 488,Sports & Outdoors,Team Sports,Cosco,2313,3009
+P00435,Yonex Badminton Racket Model X 840,Sports & Outdoors,Team Sports,Yonex,4318,5569
+P00436,Yonex Cricket Bat Max 837,Sports & Outdoors,Team Sports,Yonex,4300,5189
+P00437,Nivia Football Plus 937,Sports & Outdoors,Team Sports,Nivia,697,969
+P00438,SG Cricket Bat Lite 169,Sports & Outdoors,Team Sports,SG,1537,1779
+P00439,SG Badminton Racket Pro 732,Sports & Outdoors,Team Sports,SG,4258,5739
+P00440,Nivia Football Edition 2 664,Sports & Outdoors,Team Sports,Nivia,3669,4239
+P00441,Yonex Badminton Racket Pro 614,Sports & Outdoors,Team Sports,Yonex,3827,5329
+P00442,Cosco Football Plus 636,Sports & Outdoors,Team Sports,Cosco,1519,1859
+P00443,Yonex Badminton Racket Classic 914,Sports & Outdoors,Team Sports,Yonex,3551,4169
+P00444,SG Basketball Standard 349,Sports & Outdoors,Team Sports,SG,2150,2669
+P00445,Nivia Football Plus 515,Sports & Outdoors,Team Sports,Nivia,3406,4309
+P00446,SG Football Pro 819,Sports & Outdoors,Team Sports,SG,1703,2009
+P00447,SG Badminton Racket Standard 978,Sports & Outdoors,Team Sports,SG,1081,1539
+P00448,Nivia Cricket Bat Lite 988,Sports & Outdoors,Team Sports,Nivia,4195,5169
+P00449,Nivia Badminton Racket Edition 2 677,Sports & Outdoors,Team Sports,Nivia,569,689
+P00450,Yonex Football Lite 701,Sports & Outdoors,Team Sports,Yonex,1481,2039
+P00451,Reebok Formal Shoes Plus 406,Apparel,Footwear,Reebok,2030,2679
+P00452,Woodland Formal Shoes Edition 2 439,Apparel,Footwear,Woodland,3844,5299
+P00453,Adidas Running Shoes Edition 2 863,Apparel,Footwear,Adidas,3533,4129
+P00454,Bata Sneakers Plus 448,Apparel,Footwear,Bata,5657,7819
+P00455,Woodland Formal Shoes Ultra 130,Apparel,Footwear,Woodland,5894,7269
+P00456,Bata Formal Shoes Lite 464,Apparel,Footwear,Bata,5230,7499
+P00457,Bata Sneakers Standard 776,Apparel,Footwear,Bata,3813,4489
+P00458,Woodland Sandals Lite 830,Apparel,Footwear,Woodland,1302,1529
+P00459,Adidas Formal Shoes Max 857,Apparel,Footwear,Adidas,3891,4849
+P00460,Nike Running Shoes Pro 415,Apparel,Footwear,Nike,4343,5469
+P00461,Puma Running Shoes Max 189,Apparel,Footwear,Puma,2235,2859
+P00462,Woodland Sports Shoes Edition 2 517,Apparel,Footwear,Woodland,1546,1799
+P00463,Puma Sports Shoes Plus 711,Apparel,Footwear,Puma,5599,7759
+P00464,Bata Running Shoes Classic 523,Apparel,Footwear,Bata,3876,5369
+P00465,Reebok Sports Shoes Lite 685,Apparel,Footwear,Reebok,4968,5969
+P00466,Bata Sneakers Max 375,Apparel,Footwear,Bata,3166,3899
+P00467,Adidas Running Shoes Max 545,Apparel,Footwear,Adidas,2960,3779
+P00468,Bata Running Shoes Ultra 357,Apparel,Footwear,Bata,2720,3719
+P00469,Bata Sports Shoes Standard 300,Apparel,Footwear,Bata,4450,5269
+P00470,Puma Running Shoes Ace 440,Apparel,Footwear,Puma,5780,7309
+P00471,Puma Formal Shoes Ultra 540,Apparel,Footwear,Puma,6033,8709
+P00472,Adidas Sandals Ultra 717,Apparel,Footwear,Adidas,6395,7749
+P00473,Puma Sneakers Ace 426,Apparel,Footwear,Puma,3087,4239
+P00474,Reebok Formal Shoes Standard 900,Apparel,Footwear,Reebok,2685,3359
+P00475,Puma Formal Shoes Ultra 216,Apparel,Footwear,Puma,5319,6439
+P00476,Gillette Toothpaste Model X 825,Beauty & Personal Care,Personal Hygiene,Gillette,254,329
+P00477,Dove Toothpaste Ace 789,Beauty & Personal Care,Personal Hygiene,Dove,551,659
+P00478,Dove Razor Classic 774,Beauty & Personal Care,Personal Hygiene,Dove,197,269
+P00479,Nivea Toothpaste Model X 712,Beauty & Personal Care,Personal Hygiene,Nivea,530,709
+P00480,Nivea Toothpaste Ultra 818,Beauty & Personal Care,Personal Hygiene,Nivea,589,789
+P00481,Colgate Toothpaste Lite 773,Beauty & Personal Care,Personal Hygiene,Colgate,403,489
+P00482,Colgate Deodorant Ultra 915,Beauty & Personal Care,Personal Hygiene,Colgate,480,569
+P00483,Colgate Body Wash Lite 622,Beauty & Personal Care,Personal Hygiene,Colgate,571,759
+P00484,Gillette Deodorant Ultra 500,Beauty & Personal Care,Personal Hygiene,Gillette,514,719
+P00485,Gillette Body Wash Pro 594,Beauty & Personal Care,Personal Hygiene,Gillette,147,189
+P00486,Colgate Toothpaste Max 456,Beauty & Personal Care,Personal Hygiene,Colgate,359,459
+P00487,Gillette Deodorant Ultra 587,Beauty & Personal Care,Personal Hygiene,Gillette,139,179
+P00488,Nivea Body Wash Plus 407,Beauty & Personal Care,Personal Hygiene,Nivea,85,119
+P00489,Colgate Toothpaste Ultra 763,Beauty & Personal Care,Personal Hygiene,Colgate,151,209
+P00490,Gillette Razor Edition 2 278,Beauty & Personal Care,Personal Hygiene,Gillette,203,259
+P00491,Nivea Deodorant Lite 916,Beauty & Personal Care,Personal Hygiene,Nivea,454,609
+P00492,Gillette Deodorant Ace 129,Beauty & Personal Care,Personal Hygiene,Gillette,242,319
+P00493,Nivea Deodorant Pro 821,Beauty & Personal Care,Personal Hygiene,Nivea,259,319
+P00494,Colgate Toothpaste Edition 2 291,Beauty & Personal Care,Personal Hygiene,Colgate,414,519
+P00495,Nivea Toothpaste Classic 786,Beauty & Personal Care,Personal Hygiene,Nivea,541,709
+P00496,Dove Deodorant Standard 501,Beauty & Personal Care,Personal Hygiene,Dove,156,199
+P00497,Nivea Razor Classic 729,Beauty & Personal Care,Personal Hygiene,Nivea,126,179
+P00498,Dove Toothpaste Lite 412,Beauty & Personal Care,Personal Hygiene,Dove,159,199
+P00499,Gillette Deodorant Ace 710,Beauty & Personal Care,Personal Hygiene,Gillette,181,239
+P00500,Nivea Razor Model X 750,Beauty & Personal Care,Personal Hygiene,Nivea,590,809
+P00501,Head & Shoulders Conditioner Model X 395,Beauty & Personal Care,Haircare,Head & Shoulders,223,269
+P00502,Tresemme Shampoo Ultra 109,Beauty & Personal Care,Haircare,Tresemme,576,689
+P00503,Tresemme Hair Serum Ace 801,Beauty & Personal Care,Haircare,Tresemme,583,749
+P00504,Tresemme Hair Serum Max 184,Beauty & Personal Care,Haircare,Tresemme,658,769
+P00505,Head & Shoulders Hair Oil Pro 381,Beauty & Personal Care,Haircare,Head & Shoulders,310,409
+P00506,Head & Shoulders Hair Serum Standard 860,Beauty & Personal Care,Haircare,Head & Shoulders,871,1209
+P00507,L'Oreal Shampoo Standard 216,Beauty & Personal Care,Haircare,L'Oreal,354,489
+P00508,Pantene Shampoo Model X 659,Beauty & Personal Care,Haircare,Pantene,303,439
+P00509,Dove Conditioner Classic 995,Beauty & Personal Care,Haircare,Dove,113,149
+P00510,Pantene Shampoo Model X 986,Beauty & Personal Care,Haircare,Pantene,200,279
+P00511,Head & Shoulders Conditioner Standard 805,Beauty & Personal Care,Haircare,Head & Shoulders,439,619
+P00512,L'Oreal Hair Serum Max 730,Beauty & Personal Care,Haircare,L'Oreal,222,309
+P00513,Head & Shoulders Shampoo Standard 459,Beauty & Personal Care,Haircare,Head & Shoulders,625,779
+P00514,L'Oreal Conditioner Ultra 820,Beauty & Personal Care,Haircare,L'Oreal,379,469
+P00515,Pantene Shampoo Max 868,Beauty & Personal Care,Haircare,Pantene,884,1129
+P00516,Dove Hair Oil Max 818,Beauty & Personal Care,Haircare,Dove,215,269
+P00517,Pantene Conditioner Ace 601,Beauty & Personal Care,Haircare,Pantene,225,299
+P00518,Pantene Hair Serum Ace 562,Beauty & Personal Care,Haircare,Pantene,157,219
+P00519,Dove Hair Serum Edition 2 867,Beauty & Personal Care,Haircare,Dove,364,499
+P00520,Pantene Hair Serum Model X 435,Beauty & Personal Care,Haircare,Pantene,675,779
+P00521,Dove Hair Serum Ultra 970,Beauty & Personal Care,Haircare,Dove,144,209
+P00522,Tresemme Conditioner Ace 944,Beauty & Personal Care,Haircare,Tresemme,296,389
+P00523,Pantene Hair Oil Ultra 660,Beauty & Personal Care,Haircare,Pantene,671,799
+P00524,Tresemme Hair Oil Pro 147,Beauty & Personal Care,Haircare,Tresemme,181,249
+P00525,Tresemme Shampoo Plus 978,Beauty & Personal Care,Haircare,Tresemme,241,309
+P00526,Classmate Sketch Pen Set Lite 805,Office Supplies,Stationery,Classmate,165,239
+P00527,Parker Ball Pen Pack Classic 195,Office Supplies,Stationery,Parker,399,489
+P00528,Parker Ball Pen Pack Pro 505,Office Supplies,Stationery,Parker,342,469
+P00529,Camlin Sketch Pen Set Plus 820,Office Supplies,Stationery,Camlin,127,149
+P00530,Reynolds Notebook Set Max 707,Office Supplies,Stationery,Reynolds,261,349
+P00531,Reynolds Notebook Set Pro 812,Office Supplies,Stationery,Reynolds,381,539
+P00532,Reynolds Ball Pen Pack Model X 172,Office Supplies,Stationery,Reynolds,264,339
+P00533,Classmate Notebook Set Ultra 476,Office Supplies,Stationery,Classmate,336,409
+P00534,Camlin Ball Pen Pack Plus 643,Office Supplies,Stationery,Camlin,38,59
+P00535,Camlin Sketch Pen Set Ultra 839,Office Supplies,Stationery,Camlin,248,339
+P00536,Camlin Sketch Pen Set Standard 803,Office Supplies,Stationery,Camlin,483,689
+P00537,Classmate Notebook Set Max 870,Office Supplies,Stationery,Classmate,156,209
+P00538,Reynolds Gel Pen Ace 422,Office Supplies,Stationery,Reynolds,173,219
+P00539,Classmate Ball Pen Pack Edition 2 715,Office Supplies,Stationery,Classmate,321,449
+P00540,Classmate Gel Pen Lite 630,Office Supplies,Stationery,Classmate,551,669
+P00541,Reynolds Gel Pen Pro 902,Office Supplies,Stationery,Reynolds,275,359
+P00542,Classmate Ball Pen Pack Model X 753,Office Supplies,Stationery,Classmate,102,139
+P00543,Classmate Gel Pen Ultra 235,Office Supplies,Stationery,Classmate,426,609
+P00544,Reynolds Gel Pen Edition 2 799,Office Supplies,Stationery,Reynolds,206,289
+P00545,Classmate Notebook Set Standard 169,Office Supplies,Stationery,Classmate,44,59
+P00546,Classmate Notebook Set Ace 618,Office Supplies,Stationery,Classmate,323,439
+P00547,Reynolds Sketch Pen Set Ace 184,Office Supplies,Stationery,Reynolds,579,759
+P00548,Camlin Gel Pen Plus 417,Office Supplies,Stationery,Camlin,110,149
+P00549,Camlin Ball Pen Pack Edition 2 434,Office Supplies,Stationery,Camlin,430,579
+P00550,Classmate Gel Pen Ace 847,Office Supplies,Stationery,Classmate,274,329
+P00551,HealthKart Protein Powder Plus 564,Health,Vitamins & Supplements,HealthKart,2807,3749
+P00552,Dabur Fish Oil Capsules Max 222,Health,Vitamins & Supplements,Dabur,351,479
+P00553,HealthKart Multivitamin Tablets Model X 455,Health,Vitamins & Supplements,HealthKart,2442,3189
+P00554,Dabur Multivitamin Tablets Ultra 229,Health,Vitamins & Supplements,Dabur,1400,1919
+P00555,HealthKart Multivitamin Tablets Ultra 926,Health,Vitamins & Supplements,HealthKart,2058,2539
+P00556,HealthKart Protein Powder Standard 742,Health,Vitamins & Supplements,HealthKart,615,799
+P00557,Dabur Multivitamin Tablets Model X 979,Health,Vitamins & Supplements,Dabur,2621,3149
+P00558,Himalaya Protein Powder Plus 687,Health,Vitamins & Supplements,Himalaya,772,949
+P00559,HealthKart Multivitamin Tablets Pro 350,Health,Vitamins & Supplements,HealthKart,488,639
+P00560,GNC Multivitamin Tablets Max 978,Health,Vitamins & Supplements,GNC,444,589
+P00561,GNC Multivitamin Tablets Ultra 354,Health,Vitamins & Supplements,GNC,2004,2859
+P00562,Dabur Protein Powder Plus 685,Health,Vitamins & Supplements,Dabur,1827,2169
+P00563,HealthKart Multivitamin Tablets Lite 923,Health,Vitamins & Supplements,HealthKart,2412,3489
+P00564,GNC Multivitamin Tablets Model X 986,Health,Vitamins & Supplements,GNC,1456,2019
+P00565,Dabur Protein Powder Plus 666,Health,Vitamins & Supplements,Dabur,2170,2509
+P00566,Himalaya Protein Powder Standard 903,Health,Vitamins & Supplements,Himalaya,1544,2119
+P00567,Himalaya Protein Powder Ultra 705,Health,Vitamins & Supplements,Himalaya,2320,3369
+P00568,Himalaya Fish Oil Capsules Edition 2 878,Health,Vitamins & Supplements,Himalaya,1304,1559
+P00569,GNC Multivitamin Tablets Lite 654,Health,Vitamins & Supplements,GNC,1718,2309
+P00570,HealthKart Protein Powder Pro 877,Health,Vitamins & Supplements,HealthKart,2992,3779
+P00571,Dabur Multivitamin Tablets Lite 642,Health,Vitamins & Supplements,Dabur,1275,1629
+P00572,HealthKart Multivitamin Tablets Classic 195,Health,Vitamins & Supplements,HealthKart,479,689
+P00573,GNC Fish Oil Capsules Ultra 569,Health,Vitamins & Supplements,GNC,647,859
+P00574,Himalaya Fish Oil Capsules Ace 176,Health,Vitamins & Supplements,Himalaya,2724,3599
+P00575,GNC Fish Oil Capsules Max 342,Health,Vitamins & Supplements,GNC,1494,1839
+P00576,Funskool Card Game Ultra 425,Toys,Board Games,Funskool,1177,1459
+P00577,Hasbro Board Game Max 898,Toys,Board Games,Hasbro,1827,2429
+P00578,Mattel Board Game Max 560,Toys,Board Games,Mattel,1204,1499
+P00579,Hasbro Puzzle Set Ultra 888,Toys,Board Games,Hasbro,675,869
+P00580,Ravensburger Card Game Plus 192,Toys,Board Games,Ravensburger,572,799
+P00581,Funskool Puzzle Set Standard 141,Toys,Board Games,Funskool,690,969
+P00582,Funskool Board Game Plus 828,Toys,Board Games,Funskool,758,1099
+P00583,Ravensburger Puzzle Set Pro 793,Toys,Board Games,Ravensburger,862,1059
+P00584,Mattel Board Game Ace 975,Toys,Board Games,Mattel,1176,1549
+P00585,Mattel Board Game Model X 204,Toys,Board Games,Mattel,1896,2639
+P00586,Hasbro Board Game Pro 950,Toys,Board Games,Hasbro,1849,2679
+P00587,Mattel Board Game Ace 481,Toys,Board Games,Mattel,1655,2219
+P00588,Hasbro Puzzle Set Standard 365,Toys,Board Games,Hasbro,1914,2249
+P00589,Hasbro Board Game Model X 928,Toys,Board Games,Hasbro,513,609
+P00590,Funskool Board Game Pro 572,Toys,Board Games,Funskool,353,429
+P00591,Ravensburger Puzzle Set Ace 608,Toys,Board Games,Ravensburger,310,399
+P00592,Ravensburger Board Game Ultra 319,Toys,Board Games,Ravensburger,633,789
+P00593,Ravensburger Board Game Pro 728,Toys,Board Games,Ravensburger,1518,2029
+P00594,Funskool Card Game Ace 663,Toys,Board Games,Funskool,1231,1439
+P00595,Funskool Card Game Max 529,Toys,Board Games,Funskool,658,889
+P00596,Mattel Puzzle Set Edition 2 913,Toys,Board Games,Mattel,289,419
+P00597,Funskool Card Game Edition 2 900,Toys,Board Games,Funskool,1242,1559
+P00598,Funskool Card Game Classic 284,Toys,Board Games,Funskool,303,379
+P00599,Mattel Board Game Classic 159,Toys,Board Games,Mattel,1906,2759
+P00600,Funskool Puzzle Set Lite 263,Toys,Board Games,Funskool,455,559
+P00601,Lakme Sunscreen Edition 2 935,Beauty & Personal Care,Skincare,Lakme,214,299
+P00602,Lakme Face Serum Ultra 959,Beauty & Personal Care,Skincare,Lakme,455,549
+P00603,Neutrogena Sunscreen Ultra 705,Beauty & Personal Care,Skincare,Neutrogena,157,219
+P00604,Ponds Moisturizer Standard 292,Beauty & Personal Care,Skincare,Ponds,1108,1459
+P00605,Lakme Face Serum Pro 192,Beauty & Personal Care,Skincare,Lakme,215,269
+P00606,Lakme Face Wash Edition 2 589,Beauty & Personal Care,Skincare,Lakme,101,129
+P00607,Neutrogena Moisturizer Max 448,Beauty & Personal Care,Skincare,Neutrogena,463,669
+P00608,Ponds Face Wash Pro 251,Beauty & Personal Care,Skincare,Ponds,1301,1779
+P00609,Lakme Face Wash Edition 2 981,Beauty & Personal Care,Skincare,Lakme,847,1219
+P00610,Ponds Face Serum Standard 203,Beauty & Personal Care,Skincare,Ponds,789,979
+P00611,Lakme Moisturizer Ace 910,Beauty & Personal Care,Skincare,Lakme,1409,2029
+P00612,The Body Shop Sunscreen Max 824,Beauty & Personal Care,Skincare,The Body Shop,1250,1699
+P00613,Neutrogena Sunscreen Lite 781,Beauty & Personal Care,Skincare,Neutrogena,1306,1829
+P00614,L'Oreal Sunscreen Classic 230,Beauty & Personal Care,Skincare,L'Oreal,463,639
+P00615,The Body Shop Face Serum Standard 133,Beauty & Personal Care,Skincare,The Body Shop,472,629
+P00616,Neutrogena Moisturizer Standard 206,Beauty & Personal Care,Skincare,Neutrogena,1116,1339
+P00617,The Body Shop Face Wash Lite 455,Beauty & Personal Care,Skincare,The Body Shop,754,909
+P00618,Nivea Sunscreen Model X 111,Beauty & Personal Care,Skincare,Nivea,643,789
+P00619,The Body Shop Face Wash Ultra 362,Beauty & Personal Care,Skincare,The Body Shop,321,439
+P00620,Nivea Face Serum Model X 850,Beauty & Personal Care,Skincare,Nivea,959,1389
+P00621,L'Oreal Face Serum Ace 459,Beauty & Personal Care,Skincare,L'Oreal,1218,1539
+P00622,L'Oreal Moisturizer Max 562,Beauty & Personal Care,Skincare,L'Oreal,250,349
+P00623,Nivea Sunscreen Pro 426,Beauty & Personal Care,Skincare,Nivea,634,919
+P00624,Nivea Sunscreen Max 484,Beauty & Personal Care,Skincare,Nivea,429,589
+P00625,Neutrogena Face Wash Ultra 708,Beauty & Personal Care,Skincare,Neutrogena,1356,1929
+P00626,Nilkamal Sofa Set Max 721,Home & Kitchen,Furniture,Nilkamal,29955,35869
+P00627,Nilkamal Bookshelf Lite 294,Home & Kitchen,Furniture,Nilkamal,28322,38499
+P00628,Ikea Bookshelf Classic 343,Home & Kitchen,Furniture,Ikea,7785,9069
+P00629,Urban Ladder Study Table Pro 469,Home & Kitchen,Furniture,Urban Ladder,1750,2239
+P00630,Ikea Bed Frame Model X 304,Home & Kitchen,Furniture,Ikea,7856,9099
+P00631,Godrej Interio Bookshelf Plus 584,Home & Kitchen,Furniture,Godrej Interio,9069,11269
+P00632,Urban Ladder Sofa Set Model X 776,Home & Kitchen,Furniture,Urban Ladder,18867,22219
+P00633,Urban Ladder Study Table Ultra 490,Home & Kitchen,Furniture,Urban Ladder,25709,31009
+P00634,Nilkamal Bookshelf Model X 576,Home & Kitchen,Furniture,Nilkamal,18762,22859
+P00635,Ikea Bed Frame Pro 254,Home & Kitchen,Furniture,Ikea,7837,9219
+P00636,Ikea Bed Frame Ace 874,Home & Kitchen,Furniture,Ikea,40148,48919
+P00637,Nilkamal Sofa Set Edition 2 528,Home & Kitchen,Furniture,Nilkamal,36595,49629
+P00638,Urban Ladder Bed Frame Lite 587,Home & Kitchen,Furniture,Urban Ladder,21085,24749
+P00639,Nilkamal Bed Frame Standard 629,Home & Kitchen,Furniture,Nilkamal,38952,52719
+P00640,Godrej Interio Plastic Chair Model X 277,Home & Kitchen,Furniture,Godrej Interio,12455,17959
+P00641,Godrej Interio Study Table Pro 533,Home & Kitchen,Furniture,Godrej Interio,6635,9599
+P00642,Urban Ladder Study Table Max 954,Home & Kitchen,Furniture,Urban Ladder,40497,49709
+P00643,Nilkamal Plastic Chair Ace 669,Home & Kitchen,Furniture,Nilkamal,27541,36239
+P00644,Ikea Bed Frame Model X 994,Home & Kitchen,Furniture,Ikea,2310,3209
+P00645,Urban Ladder Plastic Chair Ace 253,Home & Kitchen,Furniture,Urban Ladder,11212,14809
+P00646,Nilkamal Plastic Chair Standard 898,Home & Kitchen,Furniture,Nilkamal,8118,11249
+P00647,Ikea Sofa Set Classic 492,Home & Kitchen,Furniture,Ikea,44412,57549
+P00648,Urban Ladder Plastic Chair Max 382,Home & Kitchen,Furniture,Urban Ladder,27909,33309
+P00649,Urban Ladder Plastic Chair Ace 439,Home & Kitchen,Furniture,Urban Ladder,17069,19889
+P00650,Urban Ladder Bookshelf Ultra 120,Home & Kitchen,Furniture,Urban Ladder,23642,32989
+P00651,Dettol Antiseptic Liquid Classic 963,Health,First Aid,Dettol,553,779
+P00652,Savlon First Aid Kit Lite 237,Health,First Aid,Savlon,357,519
+P00653,Dettol Antiseptic Liquid Classic 846,Health,First Aid,Dettol,476,639
+P00654,Johnson & Johnson First Aid Kit Model X 316,Health,First Aid,Johnson & Johnson,466,639
+P00655,Savlon Antiseptic Liquid Pro 627,Health,First Aid,Savlon,212,249
+P00656,Savlon Bandage Pack Ace 238,Health,First Aid,Savlon,586,829
+P00657,Johnson & Johnson First Aid Kit Lite 996,Health,First Aid,Johnson & Johnson,255,359
+P00658,Johnson & Johnson First Aid Kit Model X 151,Health,First Aid,Johnson & Johnson,419,579
+P00659,Dettol Antiseptic Liquid Model X 617,Health,First Aid,Dettol,456,619
+P00660,Johnson & Johnson Bandage Pack Pro 347,Health,First Aid,Johnson & Johnson,431,559
+P00661,Dettol First Aid Kit Model X 700,Health,First Aid,Dettol,614,779
+P00662,Johnson & Johnson Antiseptic Liquid Plus 391,Health,First Aid,Johnson & Johnson,78,99
+P00663,Johnson & Johnson Bandage Pack Lite 977,Health,First Aid,Johnson & Johnson,276,379
+P00664,Savlon First Aid Kit Classic 767,Health,First Aid,Savlon,469,619
+P00665,Savlon First Aid Kit Model X 235,Health,First Aid,Savlon,712,859
+P00666,Johnson & Johnson First Aid Kit Classic 722,Health,First Aid,Johnson & Johnson,362,499
+P00667,Savlon Bandage Pack Classic 533,Health,First Aid,Savlon,435,619
+P00668,Dettol Antiseptic Liquid Lite 577,Health,First Aid,Dettol,359,489
+P00669,Savlon Antiseptic Liquid Standard 204,Health,First Aid,Savlon,57,79
+P00670,Savlon Antiseptic Liquid Edition 2 762,Health,First Aid,Savlon,658,879
+P00671,Dettol Bandage Pack Plus 593,Health,First Aid,Dettol,115,149
+P00672,Dettol Bandage Pack Ultra 982,Health,First Aid,Dettol,333,409
+P00673,Savlon Bandage Pack Classic 292,Health,First Aid,Savlon,203,269
+P00674,Johnson & Johnson First Aid Kit Standard 513,Health,First Aid,Johnson & Johnson,726,909
+P00675,Johnson & Johnson Bandage Pack Pro 771,Health,First Aid,Johnson & Johnson,559,819
+P00676,Godrej Study Desk Ace 497,Office Supplies,Office Furniture,Godrej,3657,4849
+P00677,Featherlite Office Chair Ultra 843,Office Supplies,Office Furniture,Featherlite,9786,13269
+P00678,Featherlite Study Desk Ultra 619,Office Supplies,Office Furniture,Featherlite,12336,17319
+P00679,Featherlite Filing Cabinet Max 400,Office Supplies,Office Furniture,Featherlite,5698,7359
+P00680,Featherlite Study Desk Edition 2 881,Office Supplies,Office Furniture,Featherlite,8498,12189
+P00681,Godrej Filing Cabinet Plus 327,Office Supplies,Office Furniture,Godrej,14141,17219
+P00682,Godrej Study Desk Ultra 480,Office Supplies,Office Furniture,Godrej,11038,14639
+P00683,Godrej Office Chair Model X 154,Office Supplies,Office Furniture,Godrej,4833,6249
+P00684,Nilkamal Filing Cabinet Plus 988,Office Supplies,Office Furniture,Nilkamal,15006,19649
+P00685,Godrej Office Chair Max 240,Office Supplies,Office Furniture,Godrej,9063,11359
+P00686,Featherlite Study Desk Max 423,Office Supplies,Office Furniture,Featherlite,8409,11639
+P00687,Godrej Study Desk Max 420,Office Supplies,Office Furniture,Godrej,4400,5069
+P00688,Godrej Office Chair Max 690,Office Supplies,Office Furniture,Godrej,7691,9979
+P00689,Nilkamal Office Chair Standard 544,Office Supplies,Office Furniture,Nilkamal,16570,21069
+P00690,Godrej Study Desk Pro 138,Office Supplies,Office Furniture,Godrej,19990,24189
+P00691,Godrej Office Chair Ultra 875,Office Supplies,Office Furniture,Godrej,19900,24029
+P00692,Featherlite Office Chair Lite 331,Office Supplies,Office Furniture,Featherlite,13783,17149
+P00693,Nilkamal Study Desk Edition 2 702,Office Supplies,Office Furniture,Nilkamal,12530,15039
+P00694,Nilkamal Study Desk Classic 566,Office Supplies,Office Furniture,Nilkamal,19548,25979
+P00695,Godrej Study Desk Max 450,Office Supplies,Office Furniture,Godrej,18562,23349
+P00696,Nilkamal Office Chair Ace 119,Office Supplies,Office Furniture,Nilkamal,9984,12159
+P00697,Nilkamal Office Chair Pro 703,Office Supplies,Office Furniture,Nilkamal,19035,22859
+P00698,Godrej Filing Cabinet Pro 484,Office Supplies,Office Furniture,Godrej,10881,15039
+P00699,Featherlite Office Chair Standard 149,Office Supplies,Office Furniture,Featherlite,6042,8139
+P00700,Nilkamal Office Chair Plus 526,Office Supplies,Office Furniture,Nilkamal,17059,21569
+P00701,Mi OLED TV Model X 818,Electronics,Televisions,Mi,32070,38859
+P00702,Panasonic UHD Smart TV Classic 530,Electronics,Televisions,Panasonic,98725,116529
+P00703,Mi OLED TV Standard 720,Electronics,Televisions,Mi,103845,123699
+P00704,Samsung Android TV Standard 220,Electronics,Televisions,Samsung,49054,58099
+P00705,Samsung LED TV Lite 723,Electronics,Televisions,Samsung,38181,52819
+P00706,Mi QLED TV Ultra 820,Electronics,Televisions,Mi,65707,81389
+P00707,Samsung Android TV Model X 312,Electronics,Televisions,Samsung,102204,146149
+P00708,Sony QLED TV Pro 113,Electronics,Televisions,Sony,100032,117709
+P00709,Samsung Android TV Model X 252,Electronics,Televisions,Samsung,23807,32949
+P00710,Samsung UHD Smart TV Classic 759,Electronics,Televisions,Samsung,42298,54439
+P00711,Sony OLED TV Model X 151,Electronics,Televisions,Sony,25082,34969
+P00712,Samsung OLED TV Ultra 920,Electronics,Televisions,Samsung,100705,125259
+P00713,Panasonic UHD Smart TV Plus 971,Electronics,Televisions,Panasonic,111379,157839
+P00714,Samsung QLED TV Max 436,Electronics,Televisions,Samsung,58861,83489
+P00715,Mi OLED TV Plus 481,Electronics,Televisions,Mi,118818,148859
+P00716,Samsung LED TV Ace 567,Electronics,Televisions,Samsung,47629,66719
+P00717,Panasonic LED TV Ace 764,Electronics,Televisions,Panasonic,116452,139749
+P00718,LG UHD Smart TV Max 206,Electronics,Televisions,LG,66529,94699
+P00719,TCL Android TV Model X 285,Electronics,Televisions,TCL,92127,116449
+P00720,Sony Android TV Pro 983,Electronics,Televisions,Sony,101714,143829
+P00721,Panasonic QLED TV Model X 599,Electronics,Televisions,Panasonic,26802,37959
+P00722,TCL UHD Smart TV Plus 367,Electronics,Televisions,TCL,97848,121749
+P00723,Panasonic Android TV Standard 841,Electronics,Televisions,Panasonic,86057,104749
+P00724,Panasonic OLED TV Edition 2 635,Electronics,Televisions,Panasonic,102209,139029
+P00725,Samsung LED TV Lite 593,Electronics,Televisions,Samsung,57318,77329
+P00726,Google iPhone Edition 2 727,Electronics,Mobile Phones,Google,15152,17479
+P00727,OnePlus Edge Model X 972,Electronics,Mobile Phones,OnePlus,72990,102979
+P00728,Apple Note Model X 428,Electronics,Mobile Phones,Apple,39574,49439
+P00729,Motorola Galaxy Edition 2 328,Electronics,Mobile Phones,Motorola,80154,107649
+P00730,Google Note Lite 180,Electronics,Mobile Phones,Google,68174,87489
+P00731,Realme Galaxy Model X 557,Electronics,Mobile Phones,Realme,49426,58609
+P00732,Realme Pixel Pro 205,Electronics,Mobile Phones,Realme,60879,77549
+P00733,Samsung Note Plus 910,Electronics,Mobile Phones,Samsung,87194,125469
+P00734,Motorola Edge Edition 2 311,Electronics,Mobile Phones,Motorola,67796,97299
+P00735,Nokia Note Pro 936,Electronics,Mobile Phones,Nokia,37218,52229
+P00736,Nokia Edge Standard 714,Electronics,Mobile Phones,Nokia,70014,95569
+P00737,Nokia Pixel Model X 216,Electronics,Mobile Phones,Nokia,20771,28619
+P00738,Xiaomi Galaxy Ultra 463,Electronics,Mobile Phones,Xiaomi,46270,60819
+P00739,Nokia Pixel Plus 146,Electronics,Mobile Phones,Nokia,29516,38309
+P00740,Google Galaxy Classic 725,Electronics,Mobile Phones,Google,33679,40629
+P00741,Google iPhone Model X 944,Electronics,Mobile Phones,Google,32979,45019
+P00742,Apple Note Ace 147,Electronics,Mobile Phones,Apple,85176,101109
+P00743,Realme Redmi Standard 616,Electronics,Mobile Phones,Realme,25647,36919
+P00744,Samsung Edge Pro 666,Electronics,Mobile Phones,Samsung,64729,90729
+P00745,Realme Edge Max 808,Electronics,Mobile Phones,Realme,83832,100779
+P00746,OnePlus Galaxy Ace 773,Electronics,Mobile Phones,OnePlus,86714,115499
+P00747,Nokia Edge Ace 528,Electronics,Mobile Phones,Nokia,87822,125129
+P00748,Xiaomi Nord Ace 451,Electronics,Mobile Phones,Xiaomi,46557,59869
+P00749,OnePlus iPhone Ace 716,Electronics,Mobile Phones,OnePlus,75147,93159
+P00750,Nokia Pixel Edition 2 747,Electronics,Mobile Phones,Nokia,36487,44159
+P00751,Accu-Chek Digital Thermometer Ultra 788,Health,Medical Devices,Accu-Chek,1043,1509
+P00752,Accu-Chek Glucometer Edition 2 655,Health,Medical Devices,Accu-Chek,3343,4489
+P00753,Accu-Chek BP Monitor Ultra 675,Health,Medical Devices,Accu-Chek,2467,3269
+P00754,Accu-Chek Nebulizer Edition 2 392,Health,Medical Devices,Accu-Chek,4094,5749
+P00755,Omron BP Monitor Pro 490,Health,Medical Devices,Omron,1095,1279
+P00756,Omron Glucometer Classic 868,Health,Medical Devices,Omron,3717,4459
+P00757,Dr. Trust Digital Thermometer Max 959,Health,Medical Devices,Dr. Trust,754,1029
+P00758,Dr. Trust Glucometer Edition 2 133,Health,Medical Devices,Dr. Trust,1969,2749
+P00759,Omron Glucometer Edition 2 498,Health,Medical Devices,Omron,1473,1929
+P00760,Accu-Chek Digital Thermometer Pro 490,Health,Medical Devices,Accu-Chek,2087,2669
+P00761,Accu-Chek Digital Thermometer Edition 2 155,Health,Medical Devices,Accu-Chek,553,759
+P00762,Omron Nebulizer Lite 748,Health,Medical Devices,Omron,3386,4619
+P00763,Dr. Trust Glucometer Lite 401,Health,Medical Devices,Dr. Trust,2338,2819
+P00764,Accu-Chek BP Monitor Max 277,Health,Medical Devices,Accu-Chek,3510,4579
+P00765,Dr. Trust BP Monitor Ace 385,Health,Medical Devices,Dr. Trust,2779,3419
+P00766,Omron Digital Thermometer Pro 438,Health,Medical Devices,Omron,2410,3289
+P00767,Omron BP Monitor Max 430,Health,Medical Devices,Omron,2944,3439
+P00768,Accu-Chek Digital Thermometer Model X 908,Health,Medical Devices,Accu-Chek,2845,3749
+P00769,Omron Digital Thermometer Edition 2 325,Health,Medical Devices,Omron,4419,5329
+P00770,Omron Glucometer Ace 656,Health,Medical Devices,Omron,2699,3439
+P00771,Dr. Trust Glucometer Lite 779,Health,Medical Devices,Dr. Trust,1859,2329
+P00772,Dr. Trust Glucometer Standard 643,Health,Medical Devices,Dr. Trust,2445,3549
+P00773,Accu-Chek BP Monitor Plus 784,Health,Medical Devices,Accu-Chek,1917,2469
+P00774,Accu-Chek Glucometer Pro 798,Health,Medical Devices,Accu-Chek,4127,5149
+P00775,Omron Nebulizer Classic 653,Health,Medical Devices,Omron,3465,4279
+P00776,Funskool Action Figure Set Edition 2 922,Toys,Action Figures,Funskool,2383,3059
+P00777,Hasbro Action Figure Set Lite 428,Toys,Action Figures,Hasbro,2404,2829
+P00778,Hasbro Superhero Figure Edition 2 646,Toys,Action Figures,Hasbro,330,449
+P00779,Hasbro Transformer Toy Lite 985,Toys,Action Figures,Hasbro,2037,2859
+P00780,Hasbro Transformer Toy Ace 762,Toys,Action Figures,Hasbro,595,819
+P00781,Hasbro Superhero Figure Model X 834,Toys,Action Figures,Hasbro,1658,1929
+P00782,Hasbro Superhero Figure Max 913,Toys,Action Figures,Hasbro,1331,1759
+P00783,Funskool Superhero Figure Classic 517,Toys,Action Figures,Funskool,1889,2429
+P00784,Mattel Action Figure Set Ultra 117,Toys,Action Figures,Mattel,1895,2569
+P00785,Funskool Superhero Figure Standard 164,Toys,Action Figures,Funskool,2698,3149
+P00786,Hasbro Action Figure Set Edition 2 208,Toys,Action Figures,Hasbro,1487,2069
+P00787,Mattel Transformer Toy Plus 388,Toys,Action Figures,Mattel,2092,2649
+P00788,Funskool Superhero Figure Model X 260,Toys,Action Figures,Funskool,2485,3029
+P00789,Funskool Action Figure Set Edition 2 402,Toys,Action Figures,Funskool,2897,3459
+P00790,Funskool Transformer Toy Ultra 111,Toys,Action Figures,Funskool,2567,3629
+P00791,Hasbro Superhero Figure Pro 105,Toys,Action Figures,Hasbro,2645,3519
+P00792,Funskool Transformer Toy Plus 412,Toys,Action Figures,Funskool,1160,1599
+P00793,Funskool Action Figure Set Lite 522,Toys,Action Figures,Funskool,2945,4139
+P00794,Hasbro Superhero Figure Max 326,Toys,Action Figures,Hasbro,2826,3959
+P00795,Hasbro Superhero Figure Max 787,Toys,Action Figures,Hasbro,2623,3689
+P00796,Funskool Action Figure Set Edition 2 174,Toys,Action Figures,Funskool,1490,2019
+P00797,Mattel Superhero Figure Lite 843,Toys,Action Figures,Mattel,2678,3479
+P00798,Mattel Action Figure Set Max 787,Toys,Action Figures,Mattel,2984,3649
+P00799,Mattel Transformer Toy Plus 298,Toys,Action Figures,Mattel,1601,2079
+P00800,Mattel Transformer Toy Classic 810,Toys,Action Figures,Mattel,2692,3219
+P00801,Boat Party Speaker Ultra 538,Electronics,Home Audio,Boat,12551,14459
+P00802,Bose Soundbar Ace 383,Electronics,Home Audio,Bose,25059,29829
+P00803,Sony Home Theatre Model X 556,Electronics,Home Audio,Sony,25010,34579
+P00804,Marshall Bluetooth Speaker Max 761,Electronics,Home Audio,Marshall,6872,9639
+P00805,Bose Soundbar Classic 851,Electronics,Home Audio,Bose,6511,8909
+P00806,JBL Bluetooth Speaker Standard 692,Electronics,Home Audio,JBL,28050,38739
+P00807,Bose Bluetooth Speaker Edition 2 366,Electronics,Home Audio,Bose,37116,52639
+P00808,Boat Home Theatre Max 474,Electronics,Home Audio,Boat,27222,33129
+P00809,Boat Party Speaker Max 575,Electronics,Home Audio,Boat,34341,44759
+P00810,Marshall Party Speaker Edition 2 110,Electronics,Home Audio,Marshall,17155,24099
+P00811,Boat Soundbar Edition 2 243,Electronics,Home Audio,Boat,30743,36829
+P00812,Boat Soundbar Model X 467,Electronics,Home Audio,Boat,4148,5049
+P00813,Marshall Soundbar Plus 370,Electronics,Home Audio,Marshall,25711,31379
+P00814,Bose Party Speaker Ace 580,Electronics,Home Audio,Bose,31295,44269
+P00815,JBL Party Speaker Plus 820,Electronics,Home Audio,JBL,35668,47799
+P00816,Sony Party Speaker Standard 657,Electronics,Home Audio,Sony,38866,46729
+P00817,Marshall Party Speaker Standard 769,Electronics,Home Audio,Marshall,6601,8619
+P00818,Marshall Soundbar Edition 2 515,Electronics,Home Audio,Marshall,24627,34359
+P00819,Sony Home Theatre Model X 718,Electronics,Home Audio,Sony,1932,2519
+P00820,Bose Home Theatre Max 335,Electronics,Home Audio,Bose,6552,8549
+P00821,Sony Soundbar Max 291,Electronics,Home Audio,Sony,11812,14869
+P00822,JBL Soundbar Ace 930,Electronics,Home Audio,JBL,23141,31619
+P00823,Marshall Home Theatre Model X 315,Electronics,Home Audio,Marshall,12067,16229
+P00824,Marshall Bluetooth Speaker Lite 144,Electronics,Home Audio,Marshall,9881,13069
+P00825,Bose Soundbar Edition 2 140,Electronics,Home Audio,Bose,39004,46579
+P00826,Pepsi Tea Powder Max 629,Grocery,Beverages,Pepsi,227,309
+P00827,Bru Soft Drink Classic 187,Grocery,Beverages,Bru,130,169
+P00828,Tata Tea Juice Max 324,Grocery,Beverages,Tata Tea,230,309
+P00829,Bru Instant Coffee Standard 775,Grocery,Beverages,Bru,281,349
+P00830,Sprite Tea Powder Model X 710,Grocery,Beverages,Sprite,322,379
+P00831,Tata Tea Juice Max 211,Grocery,Beverages,Tata Tea,28,39
+P00832,Bru Juice Max 720,Grocery,Beverages,Bru,69,89
+P00833,Bru Soda Pro 998,Grocery,Beverages,Bru,292,389
+P00834,Coca-Cola Soft Drink Model X 775,Grocery,Beverages,Coca-Cola,86,129
+P00835,Bru Soft Drink Ace 634,Grocery,Beverages,Bru,235,299
+P00836,Coca-Cola Soda Ace 334,Grocery,Beverages,Coca-Cola,266,369
+P00837,Tata Tea Tea Powder Standard 923,Grocery,Beverages,Tata Tea,399,569
+P00838,Sprite Soda Plus 535,Grocery,Beverages,Sprite,88,109
+P00839,Pepsi Soft Drink Classic 712,Grocery,Beverages,Pepsi,298,379
+P00840,Pepsi Soft Drink Pro 691,Grocery,Beverages,Pepsi,287,349
+P00841,Coca-Cola Juice Lite 804,Grocery,Beverages,Coca-Cola,181,239
+P00842,Coca-Cola Instant Coffee Ace 767,Grocery,Beverages,Coca-Cola,319,399
+P00843,Bru Juice Standard 474,Grocery,Beverages,Bru,333,419
+P00844,Sprite Juice Lite 523,Grocery,Beverages,Sprite,302,419
+P00845,Tata Tea Instant Coffee Ultra 672,Grocery,Beverages,Tata Tea,304,399
+P00846,Nestle Soda Ultra 892,Grocery,Beverages,Nestle,381,489
+P00847,Pepsi Soft Drink Lite 557,Grocery,Beverages,Pepsi,378,549
+P00848,Coca-Cola Instant Coffee Edition 2 510,Grocery,Beverages,Coca-Cola,193,269
+P00849,Bru Soft Drink Max 498,Grocery,Beverages,Bru,345,399
+P00850,Coca-Cola Instant Coffee Model X 714,Grocery,Beverages,Coca-Cola,242,289
+P00851,Aashirvaad Refined Oil Ultra 181,Grocery,Staples,Aashirvaad,78,109
+P00852,India Gate Salt Edition 2 393,Grocery,Staples,India Gate,98,149
+P00853,Fortune Sugar Model X 110,Grocery,Staples,Fortune,246,349
+P00854,Saffola Basmati Rice Lite 134,Grocery,Staples,Saffola,562,739
+P00855,Fortune Salt Max 790,Grocery,Staples,Fortune,76,99
+P00856,Tata Refined Oil Plus 382,Grocery,Staples,Tata,449,569
+P00857,India Gate Sugar Standard 305,Grocery,Staples,India Gate,570,659
+P00858,Tata Atta Edition 2 391,Grocery,Staples,Tata,396,499
+P00859,Aashirvaad Refined Oil Standard 299,Grocery,Staples,Aashirvaad,505,729
+P00860,Saffola Atta Classic 279,Grocery,Staples,Saffola,456,599
+P00861,Saffola Atta Edition 2 401,Grocery,Staples,Saffola,388,559
+P00862,Saffola Basmati Rice Edition 2 932,Grocery,Staples,Saffola,296,409
+P00863,India Gate Salt Model X 888,Grocery,Staples,India Gate,289,399
+P00864,India Gate Sugar Standard 982,Grocery,Staples,India Gate,68,89
+P00865,Aashirvaad Atta Ace 748,Grocery,Staples,Aashirvaad,265,359
+P00866,Fortune Basmati Rice Ace 461,Grocery,Staples,Fortune,568,749
+P00867,Aashirvaad Refined Oil Classic 195,Grocery,Staples,Aashirvaad,448,609
+P00868,Aashirvaad Atta Edition 2 282,Grocery,Staples,Aashirvaad,527,659
+P00869,Fortune Salt Classic 287,Grocery,Staples,Fortune,234,309
+P00870,Fortune Refined Oil Lite 993,Grocery,Staples,Fortune,311,379
+P00871,Fortune Refined Oil Standard 464,Grocery,Staples,Fortune,199,279
+P00872,Tata Atta Model X 728,Grocery,Staples,Tata,46,69
+P00873,Saffola Atta Model X 480,Grocery,Staples,Saffola,362,479
+P00874,Saffola Basmati Rice Model X 287,Grocery,Staples,Saffola,563,699
+P00875,Fortune Salt Max 155,Grocery,Staples,Fortune,578,809
+P00876,Allen Solly Junior T-Shirt Edition 2 455,Apparel,Kids Wear,Allen Solly Junior,1106,1559
+P00877,H&M Kids Jacket Plus 815,Apparel,Kids Wear,H&M Kids,1361,1759
+P00878,Gini and Jony T-Shirt Lite 488,Apparel,Kids Wear,Gini and Jony,1489,1759
+P00879,Mothercare Frock Max 661,Apparel,Kids Wear,Mothercare,838,1029
+P00880,Allen Solly Junior Frock Ultra 288,Apparel,Kids Wear,Allen Solly Junior,1321,1689
+P00881,Allen Solly Junior Frock Ultra 974,Apparel,Kids Wear,Allen Solly Junior,1120,1389
+P00882,H&M Kids Shorts Standard 802,Apparel,Kids Wear,H&M Kids,768,1079
+P00883,Mothercare Shorts Edition 2 542,Apparel,Kids Wear,Mothercare,1080,1309
+P00884,H&M Kids Jacket Pro 280,Apparel,Kids Wear,H&M Kids,1163,1519
+P00885,Mothercare Jacket Classic 356,Apparel,Kids Wear,Mothercare,1451,2049
+P00886,Gini and Jony Jacket Plus 807,Apparel,Kids Wear,Gini and Jony,634,749
+P00887,Mothercare Jacket Plus 560,Apparel,Kids Wear,Mothercare,1824,2289
+P00888,Mothercare Frock Edition 2 670,Apparel,Kids Wear,Mothercare,1958,2409
+P00889,Gini and Jony Jacket Plus 459,Apparel,Kids Wear,Gini and Jony,1691,2439
+P00890,H&M Kids Shorts Classic 463,Apparel,Kids Wear,H&M Kids,965,1309
+P00891,Allen Solly Junior Jacket Plus 490,Apparel,Kids Wear,Allen Solly Junior,1556,1929
+P00892,H&M Kids Shorts Ultra 531,Apparel,Kids Wear,H&M Kids,1592,2129
+P00893,Allen Solly Junior T-Shirt Plus 265,Apparel,Kids Wear,Allen Solly Junior,1003,1229
+P00894,Mothercare Frock Classic 719,Apparel,Kids Wear,Mothercare,1620,2059
+P00895,Allen Solly Junior Frock Standard 633,Apparel,Kids Wear,Allen Solly Junior,1222,1559
+P00896,H&M Kids T-Shirt Max 845,Apparel,Kids Wear,H&M Kids,780,1059
+P00897,Gini and Jony Shorts Max 506,Apparel,Kids Wear,Gini and Jony,510,609
+P00898,Allen Solly Junior T-Shirt Pro 889,Apparel,Kids Wear,Allen Solly Junior,1113,1459
+P00899,Gini and Jony T-Shirt Classic 732,Apparel,Kids Wear,Gini and Jony,618,729
+P00900,Allen Solly Junior Frock Lite 353,Apparel,Kids Wear,Allen Solly Junior,1810,2239
+P00901,Hawkins Non-Stick Pan Edition 2 958,Home & Kitchen,Cookware,Hawkins,1797,2089
+P00902,Pigeon Kadai Model X 578,Home & Kitchen,Cookware,Pigeon,2631,3459
+P00903,Hawkins Non-Stick Pan Standard 711,Home & Kitchen,Cookware,Hawkins,4140,5549
+P00904,Milton Tawa Edition 2 755,Home & Kitchen,Cookware,Milton,2936,4179
+P00905,Bergner Non-Stick Pan Plus 552,Home & Kitchen,Cookware,Bergner,2922,3689
+P00906,Pigeon Non-Stick Pan Classic 110,Home & Kitchen,Cookware,Pigeon,400,529
+P00907,Hawkins Kadai Classic 580,Home & Kitchen,Cookware,Hawkins,468,639
+P00908,Bergner Tawa Classic 109,Home & Kitchen,Cookware,Bergner,3926,5459
+P00909,Milton Non-Stick Pan Pro 661,Home & Kitchen,Cookware,Milton,3460,4179
+P00910,Milton Tawa Ace 355,Home & Kitchen,Cookware,Milton,1737,2379
+P00911,Bergner Tawa Lite 369,Home & Kitchen,Cookware,Bergner,1048,1339
+P00912,Hawkins Kadai Classic 764,Home & Kitchen,Cookware,Hawkins,2602,3319
+P00913,Prestige Non-Stick Pan Max 396,Home & Kitchen,Cookware,Prestige,1304,1749
+P00914,Milton Tawa Classic 817,Home & Kitchen,Cookware,Milton,4430,5349
+P00915,Prestige Non-Stick Pan Pro 647,Home & Kitchen,Cookware,Prestige,581,709
+P00916,Prestige Kadai Classic 228,Home & Kitchen,Cookware,Prestige,3991,5469
+P00917,Hawkins Pressure Cooker Max 115,Home & Kitchen,Cookware,Hawkins,4443,5399
+P00918,Bergner Kadai Model X 480,Home & Kitchen,Cookware,Bergner,4198,5709
+P00919,Prestige Kadai Plus 963,Home & Kitchen,Cookware,Prestige,1596,1869
+P00920,Bergner Pressure Cooker Edition 2 581,Home & Kitchen,Cookware,Bergner,1887,2279
+P00921,Pigeon Tawa Pro 224,Home & Kitchen,Cookware,Pigeon,2439,3089
+P00922,Bergner Non-Stick Pan Pro 303,Home & Kitchen,Cookware,Bergner,4175,5729
+P00923,Prestige Non-Stick Pan Model X 498,Home & Kitchen,Cookware,Prestige,2956,4239
+P00924,Hawkins Pressure Cooker Edition 2 633,Home & Kitchen,Cookware,Hawkins,1400,1719
+P00925,Pigeon Non-Stick Pan Ultra 153,Home & Kitchen,Cookware,Pigeon,2184,3149
+P00926,Home Centre Cushion Cover Ultra 115,Home & Kitchen,Home Decor,Home Centre,885,1229
+P00927,Ikea Cushion Cover Lite 109,Home & Kitchen,Home Decor,Ikea,372,499
+P00928,Wakefit Photo Frame Ultra 889,Home & Kitchen,Home Decor,Wakefit,566,699
+P00929,Wakefit Wall Clock Standard 446,Home & Kitchen,Home Decor,Wakefit,2760,3229
+P00930,Fabindia Photo Frame Edition 2 910,Home & Kitchen,Home Decor,Fabindia,639,759
+P00931,Home Centre Curtain Edition 2 907,Home & Kitchen,Home Decor,Home Centre,2840,3919
+P00932,Wakefit Photo Frame Pro 805,Home & Kitchen,Home Decor,Wakefit,1747,2199
+P00933,Home Centre Curtain Pro 596,Home & Kitchen,Home Decor,Home Centre,1992,2629
+P00934,Wakefit Photo Frame Standard 291,Home & Kitchen,Home Decor,Wakefit,2426,3049
+P00935,Wakefit Curtain Standard 981,Home & Kitchen,Home Decor,Wakefit,2471,2969
+P00936,Home Centre Cushion Cover Classic 939,Home & Kitchen,Home Decor,Home Centre,1278,1679
+P00937,Wakefit Wall Clock Edition 2 488,Home & Kitchen,Home Decor,Wakefit,959,1359
+P00938,Fabindia Photo Frame Ultra 838,Home & Kitchen,Home Decor,Fabindia,459,619
+P00939,Wakefit Photo Frame Edition 2 799,Home & Kitchen,Home Decor,Wakefit,2237,3089
+P00940,Home Centre Curtain Ultra 519,Home & Kitchen,Home Decor,Home Centre,2825,3529
+P00941,Ikea Wall Clock Pro 955,Home & Kitchen,Home Decor,Ikea,731,889
+P00942,Ikea Photo Frame Plus 597,Home & Kitchen,Home Decor,Ikea,984,1169
+P00943,Wakefit Cushion Cover Edition 2 738,Home & Kitchen,Home Decor,Wakefit,2617,3219
+P00944,Fabindia Photo Frame Standard 835,Home & Kitchen,Home Decor,Fabindia,490,569
+P00945,Home Centre Cushion Cover Plus 579,Home & Kitchen,Home Decor,Home Centre,2817,3299
+P00946,Wakefit Curtain Pro 943,Home & Kitchen,Home Decor,Wakefit,2726,3359
+P00947,Ikea Wall Clock Classic 179,Home & Kitchen,Home Decor,Ikea,1084,1559
+P00948,Ikea Wall Clock Lite 644,Home & Kitchen,Home Decor,Ikea,1778,2149
+P00949,Home Centre Photo Frame Edition 2 867,Home & Kitchen,Home Decor,Home Centre,2486,3169
+P00950,Ikea Curtain Model X 819,Home & Kitchen,Home Decor,Ikea,2924,3739
+P00951,Dell Pavilion Max 663,Electronics,Laptops,Dell,77632,101039
+P00952,Acer Pavilion Edition 2 714,Electronics,Laptops,Acer,83066,118789
+P00953,Lenovo VivoBook Ultra 965,Electronics,Laptops,Lenovo,73722,93909
+P00954,Acer MacBook Ultra 723,Electronics,Laptops,Acer,56551,74589
+P00955,HP MacBook Edition 2 862,Electronics,Laptops,HP,58303,73349
+P00956,Apple MacBook Ace 100,Electronics,Laptops,Apple,120199,139479
+P00957,Lenovo VivoBook Pro 630,Electronics,Laptops,Lenovo,42705,61839
+P00958,Lenovo Inspiron Classic 327,Electronics,Laptops,Lenovo,53157,74779
+P00959,Dell Modern Classic 666,Electronics,Laptops,Dell,92013,121179
+P00960,Asus Pavilion Plus 138,Electronics,Laptops,Asus,85341,107249
+P00961,HP ThinkPad Ultra 696,Electronics,Laptops,HP,57749,70449
+P00962,MSI ThinkPad Plus 684,Electronics,Laptops,MSI,77402,102229
+P00963,HP Aspire Plus 840,Electronics,Laptops,HP,67558,93769
+P00964,HP MacBook Standard 939,Electronics,Laptops,HP,143968,169689
+P00965,Acer ThinkPad Pro 848,Electronics,Laptops,Acer,130950,173239
+P00966,Dell Modern Pro 889,Electronics,Laptops,Dell,68829,86339
+P00967,MSI MacBook Ace 988,Electronics,Laptops,MSI,40799,57569
+P00968,HP Aspire Standard 111,Electronics,Laptops,HP,108084,149509
+P00969,Apple Inspiron Classic 636,Electronics,Laptops,Apple,30397,37869
+P00970,Asus Pavilion Ultra 614,Electronics,Laptops,Asus,116457,141649
+P00971,Dell Aspire Ace 556,Electronics,Laptops,Dell,123676,164309
+P00972,Asus Inspiron Lite 542,Electronics,Laptops,Asus,62982,87289
+P00973,HP Pavilion Ultra 184,Electronics,Laptops,HP,87371,115459
+P00974,Dell VivoBook Ace 368,Electronics,Laptops,Dell,36151,45899
+P00975,Apple Modern Max 880,Electronics,Laptops,Apple,42677,55239
+P00976,Kurkure Popcorn Ace 767,Grocery,Snacks,Kurkure,156,189
+P00977,Pringles Namkeen Lite 173,Grocery,Snacks,Pringles,78,109
+P00978,Haldiram's Potato Chips Plus 787,Grocery,Snacks,Haldiram's,115,149
+P00979,Haldiram's Namkeen Ultra 452,Grocery,Snacks,Haldiram's,162,219
+P00980,Haldiram's Namkeen Ultra 731,Grocery,Snacks,Haldiram's,220,319
+P00981,Bingo Namkeen Model X 145,Grocery,Snacks,Bingo,246,349
+P00982,Kurkure Snack Mix Max 875,Grocery,Snacks,Kurkure,196,279
+P00983,Lays Potato Chips Lite 735,Grocery,Snacks,Lays,247,299
+P00984,Haldiram's Potato Chips Ultra 810,Grocery,Snacks,Haldiram's,215,259
+P00985,Bingo Popcorn Pro 439,Grocery,Snacks,Bingo,63,89
+P00986,Kurkure Namkeen Edition 2 635,Grocery,Snacks,Kurkure,202,249
+P00987,Bingo Namkeen Pro 485,Grocery,Snacks,Bingo,159,229
+P00988,Pringles Potato Chips Classic 274,Grocery,Snacks,Pringles,25,39
+P00989,Pringles Snack Mix Pro 576,Grocery,Snacks,Pringles,177,259
+P00990,Lays Popcorn Classic 778,Grocery,Snacks,Lays,228,329
+P00991,Haldiram's Potato Chips Pro 399,Grocery,Snacks,Haldiram's,232,329
+P00992,Bingo Namkeen Ace 620,Grocery,Snacks,Bingo,191,229
+P00993,Haldiram's Popcorn Standard 644,Grocery,Snacks,Haldiram's,32,39
+P00994,Pringles Popcorn Edition 2 829,Grocery,Snacks,Pringles,15,17
+P00995,Pringles Snack Mix Ultra 601,Grocery,Snacks,Pringles,110,159
+P00996,Lays Snack Mix Ultra 463,Grocery,Snacks,Lays,170,219
+P00997,Pringles Snack Mix Pro 740,Grocery,Snacks,Pringles,75,109
+P00998,Lays Snack Mix Lite 255,Grocery,Snacks,Lays,97,139
+P00999,Kurkure Potato Chips Ace 633,Grocery,Snacks,Kurkure,183,249
+P01000,Kurkure Popcorn Lite 686,Grocery,Snacks,Kurkure,49,69
