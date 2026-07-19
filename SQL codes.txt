@@ -1,0 +1,306 @@
+
+
+
+-------------------Usecase 1: Data Quality Checks---------------------------------------------------
+
+--1. Row count of each table whether im getting the expected result or not.
+
+select count(*) from Product
+
+select count(*) from Customer
+
+select count(*) from Store
+
+select count(*) from Date
+
+select count(*) from Sales
+
+select count(*) from Inventory
+
+
+--2. I need to see any duplicate records in each table
+
+SELECT ProductID,	ProductName,	Category,	SubCategory,	Brand,	CostPrice,	SellingPrice
+ FROM Product
+ group by 
+ ProductID,	ProductName,	Category,	SubCategory,	Brand,	CostPrice,	SellingPrice
+ having count(*)>1
+
+
+ 
+ SELECT CustomerID, Name	,Gender,	City,	State,	Age,	JoinDate,	LoyaltyTier
+ FROM Customer
+ group by 
+ CustomerID, Name	,Gender,	City,	State,	Age,	JoinDate,	LoyaltyTier
+ having count(*)>1
+
+
+  SELECT Date,	Month,	Quarter	,Year,	FiscalMonth,	FiscalYear
+ FROM Date
+ group by 
+ Date,	Month,	Quarter	,Year,	FiscalMonth,	FiscalYear
+ having count(*)>1
+
+
+ SELECT InventoryID	,Date,	ProductID,	StoreID,	OpeningStock,	PurchaseQty,	SalesQty	,ClosingStock
+ FROM Inventory
+ group by 
+ InventoryID	,Date,	ProductID,	StoreID,	OpeningStock,	PurchaseQty,	SalesQty	,ClosingStock
+ having count(*)>1
+
+
+ SELECT SaleID,	Date,	ProductID,	StoreID,	CustomerID,	Quantity,	Discount
+ FROM Sales
+ group by 
+  SaleID,	Date,	ProductID,	StoreID,	CustomerID,	Quantity,	Discount
+ having count(*)>1
+
+ SELECT StoreID	,StoreName,	City,	Region,	Manager
+ FROM Store
+ group by 
+ StoreID	,StoreName,	City,	Region,	Manager
+ having count(*)>1
+
+
+----3. Check any null  in key columns
+
+select * from product where PRODUCTID is null
+
+select * from Sales where SaleID is null
+
+select * from Inventory where InventoryID is NUll
+
+select * from Customer where customerID is null
+
+select *  from Store where StoreID is null
+
+------4. Refrential integrity
+
+SELECT *
+FROM Sales s
+LEFT JOIN Customer c
+ON S.CustomerID = C.CustomerID
+WHERE c.CustomerID IS NULL;
+
+
+select * from Sales s
+left join product p
+on s.productID=p.productID
+where s.productID is null
+
+
+select * from Sales s
+left join Store st
+on s.StoreID=st.StoreID
+where s.StoreID is null
+
+SELECT *
+FROM Sales s
+LEFT JOIN Date d
+ON s.Date = d.Date
+WHERE d.Date IS NULL;
+
+
+
+select * from Inventory i
+left join Store st
+on i.StoreID=st.StoreID
+where st.StoreID is null
+
+
+
+select * from Inventory i
+left join Product p
+on i.ProductID=p.ProductID
+where p.ProductID is null
+
+
+
+--5. checking the trail and leading spaces
+
+select count(*) as spacerows
+from product
+where 
+ProductName <> trim(ProductName) OR
+Category <> trim(Category) OR
+SubCategory <> trim(SubCategory) OR
+Brand	<> trim(Brand) 
+
+
+select * 
+from Customer
+where
+Name	<> trim(Name) OR
+Gender	<> trim(Gender) OR
+City	<> trim(City)  OR
+State	<> trim(State) OR
+LoyaltyTier <> trim(LoyaltyTier)
+
+select * from Date
+where
+Month <> trim(Month)
+
+select * from
+Store where
+StoreName	<> trim(StoreName) OR
+City <> trim(City) OR
+Region	 <> trim(Region) OR
+Manager <> trim(Manager)
+
+
+
+
+----6. Quantity <0
+
+Select * from sales where quantity<0
+
+----7. check all the products in the salestable are there in the product table
+
+select * from   sales
+left join product
+on Sales.ProductID=Product.ProductID
+where product. ProductID is null
+
+
+
+
+
+-----------------Usecase 2: Joining-----------------------------------------------------
+
+select s.SaleID, s.Date as SalesDate, s.quantity, p.ProductName, p.category ProductCategory,c.Name CustomerName, c.city CustomerCity, st.Region StoreRegion, st.storeName StoreName
+from sales s
+join product p on s.productId=p.productId
+join customer c on s.CustomerID= c.CustomerID
+join store st on s.StoreID=st.StoreID
+
+
+------------Usecase 3: Extraction from Date Field----------------------------------------
+
+select date, year, month, datepart(DAY,date) as Day, quarter, datepart(WEEK,date) as Week, format(date, 'MM-yyyy') as YearMonth
+from date
+
+----Usecase4: Dailysales Aggregation for same pdt, same store-----------------------------
+
+select Date, p.ProductName, st.StoreName, sum(Quantity) as Totalqty 
+from Sales s
+join Product p on s.ProductID=p.ProductID
+join Store st on s.StoreID=st.StoreID 
+group by Date, p. ProductName, st. StoreName
+order by  Totalqty desc
+
+
+----Usecase 5: Monthlysales Aggregation for same pdt, same store -----------------------------
+
+SELECT
+     Datepart(Year,Date) as Year,
+        DATENAME(MONTH, s.Date) AS Month,
+        p.ProductName,
+        st.StoreName,
+        SUM(Quantity) AS TotalQty
+    FROM Sales s
+    JOIN Product p
+        ON s.ProductID = p.ProductID
+    JOIN Store st
+        ON s.StoreID = st.StoreID
+    GROUP BY
+       Datepart(Year,Date),
+        DATENAME(MONTH, s.Date),
+        p.ProductName,
+        st.StoreName
+    order by TotalQty desc
+
+
+---------Usecase6 : Business KPIs-----------------------------------------------------
+
+    --1. Calculating Average selling price for each product / Creating it as a new column
+
+
+SELECT
+    p.ProductID,
+    p.ProductName,
+    p.SellingPrice,
+    CAST(
+        SUM((s.Quantity * p.SellingPrice) * (1 - s.DiscountPercent / 100.0))
+        / SUM(s.Quantity)
+        AS DECIMAL(10,2)
+    ) AS ASP
+FROM Sales s
+JOIN Product p
+    ON s.ProductID = p.ProductID
+GROUP BY
+    p.ProductID,
+    p.ProductName,
+    p.SellingPrice;
+
+
+
+
+    Alter Table Sales
+    ADD SaleAmount DECIMAL(10,2);
+
+
+
+    update Sales 
+    set 
+        s.SaleAmount= (s.Quantity * p.SellingPrice) * (1 - s.DiscountPercent / 100.0)
+    from Sales s
+    join Product p on s.ProductID=p.ProductID
+
+
+
+    select ProductID,sum(SaleAmount)/sum(Quantity) from Sales
+    group by ProductID
+    order by ProductID
+
+
+
+
+----2. Contribution of specific category to a total salesAmount.
+
+    
+    
+    select  p.category, sum(s.SaleAmount) as categorysales,
+    round(sum(s.SaleAmount) / (select sum (SaleAmount) from Sales) * 100.00,2) as CategoryContributionPercent
+    from Sales s
+    join Product p on s.ProductID=p.ProductID
+    group by  p.category
+ 
+
+
+----3. Contribution of specific product to a total salesAmount.
+
+  select p.productID, p.ProductName, sum (s.SaleAmount) as ProductSales,
+  sum (s.SaleAmount)  / (select sum (SaleAmount) from Sales) * 100.00 AS ProductContributionPercent
+  from  Sales s join Product p  on S.ProductID=p.ProductID
+  group by p.productID, p.ProductName
+
+
+-----4. customers which are coming repeatedly  (So we can give some discounts)
+
+ select c.CustomerId,C.Name, count(*)  as PurchaseCount from 
+ Sales s join Customer c on s.CustomerId=C.customerId
+ group by c.CustomerId,C.Name
+ having count(*)>10
+ order by  PurchaseCount desc
+
+
+ ----------------Usecase 7: Incremental loading-----------------------------------
+
+ Insert INTO sales
+ select * from Sales 
+ where date > (select max(date) from sales)
+
+
+
+
+
+
+----------------Usecase 10: Create final_sales table
+select s.SaleID,s.Date as SalesDate,s.ProductID, st.StoreID,
+s.CustomerId, s.quantity,s.DiscountPercent, s.SaleAmount TotalSaleAmount into  sales_fact
+from Sales s 
+join product p on s.productID=p.ProductID
+join Store st on s.StoreID=st.StoreID
+join Customer c on s.customerID= c.CustomerID
+
+
